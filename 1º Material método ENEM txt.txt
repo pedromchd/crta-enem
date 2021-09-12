@@ -292,13 +292,9 @@ e) 5
 
 25. Enem 2018
 Um quebra-cabeça consiste em recobrir um quadrado com triângulos retângulos isósceles, como ilustra a figura. 
-
-
 Descrição da figura: Um quadrado com uma diagonal que liga o vértice inferior esquerdo ao vértice superior direito. A parte acima dessa diagonal está preenchida por um triângulo retângulo isósceles e a parte abaixo está preenchida por seis triângulos retângulos isósceles de tamanhos variados da seguinte forma: o triângulo menor está localizado no canto inferior direito do quadrado com seus catetos sobre os lados do quadrado, sua hipotenusa forma um dos catetos do segundo triângulo, a hipotenusa deste forma um dos catetos do terceiro, a hipotenusa deste forma um dos catetos do quarto, a hipotenusa deste forma um dos catetos do quinto e a hipotenusa deste é uma das partes da diagonal do quadrado. O sexto triângulo complementa a parte abaixo da diagonal do quadrado.
 Uma artesã confecciona um quebra-cabeça como o descrito, de tal modo que a menor das peças é um triângulo retângulo isósceles cujos catetos medem 2 centímetro.
 O quebra-cabeça, quando montado, resultará em um quadrado cuja medida do lado, em centímetro, é: 
-
-
 a) 14
 b) 12
 c) 7 vezes raíz quadrada de 2
