@@ -210,6 +210,7 @@ B) 7,38.
 C) 7,50.
 D) 8,25.
 E) 9,00.
+
 Questão 149: 
 Um brinquedo infantil caminhão-cegonha é formado por uma carreta e dez carrinhos nela transportados, conforme a figura.
 Descrição da figura: a figura apresenta um caminhão-cegonha carregado com dez carrinhos, dispostos da seguinte maneira: quatro carrinhos na parte superior, três carrinhos na parte intermediária e três carrinhos na parte inferior.
@@ -328,8 +329,7 @@ Qual dos gráficos melhor descreve a altura h do nível da água no Reservatóri
 A) Descrição do gráfico: gráfico cartesiano. O eixo horizontal representa o volume e o eixo vertical representa a altura h. O gráfico representa um segmento de reta crescente, partindo da origem dos eixos.
 B) Descrição do gráfico: gráfico cartesiano. O eixo horizontal representa o volume e o eixo vertical representa a altura h. O gráfico representa duas curvas convexas para a esquerda e para cima, a primeira partindo da origem dos eixos e a segunda continuando a primeira.
 C) Descrição do gráfico: gráfico cartesiano. O eixo horizontal representa o volume e o eixo vertical representa a altura h. O gráfico representa três segmentos de retas. O primeiro é crescente, partindo da origem dos eixos; seguido por um segundo, paralelo ao eixo horizontal; seguido por um terceiro, muito acentuado, para cima e para a direita.
-D) Descrição do gráfico: gráfico cartesiano. O eixo horizontal representa o volume ve o eixo vertical representa
-a altura h. O gráfico representa três segmentos de retas. O primeiro é crescente, partindo da origem dos eixos; seguido por um segundo, paralelo ao eixo horizontal; seguido por um terceiro, pouco acentuado, para cima e para a direita.
+D) Descrição do gráfico: gráfico cartesiano. O eixo horizontal representa o volume ve o eixo vertical representa a altura h. O gráfico representa três segmentos de retas. O primeiro é crescente, partindo da origem dos eixos; seguido por um segundo, paralelo ao eixo horizontal; seguido por um terceiro, pouco acentuado, para cima e para a direita.
 E) Descrição do gráfico: gráfico cartesiano. O eixo horizontal representa o volume e o eixo vertical representa a altura h. O gráfico representa uma curva crescente com a concavidade para baixo, partindo da origem dos eixos.
 
 
