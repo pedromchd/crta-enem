@@ -121,6 +121,7 @@ Decorridos os 15 dias de validade desse relatório, Questão 145 - um funcionár
 * Dia 1: alerta cinza;
 * Dia 12: alerta laranja;
 * Dia 13: alerta vermelho.
+
 Em qual(is) desses dias o(s) aviso(s) foi(ram) emitido(s) corretamente?
 A) 1.
 B) 12.
@@ -440,6 +441,7 @@ B) Dois.
 C) Três.
 D) Quatro.
 E) Cinco.
+
 Questão 165 
 A bula de um antibiótico infantil, fabricado na forma de xarope, recomenda que sejam ministrados, diariamente, no máximo 500 miligramas desse medicamento para cada quilograma de massa do paciente. Um pediatra prescreveu  a dosagem máxima desse antibiótico para ser ministrada diariamente a uma criança de 20 quilogramas pelo período de 5 dias. Esse medicamento pode ser comprado em frascos de 10 mililitros, 50 mililitros, 100 mililitros,250 mililitros e 500 mililitros. Os pais dessa criança decidiram comprar a quantidade exata de medicamento que precisará ser ministrada no tratamento, evitando a sobra de medicamento. Considere que 1 grama desse medicamento ocupe um volume de 1 centímetro cúbico. A capacidade do frasco, em mililitro, que esses pais deverão comprar é
 1. 10.
@@ -447,6 +449,7 @@ A bula de um antibiótico infantil, fabricado na forma de xarope, recomenda que 
 3. 100.
 4. 250
 5. 500.
+
 Questão 166
 Uma empresa confecciona e comercializa um brinquedo formado por uma locomotiva, pintada na cor preta, mais 12 vagões de iguais formato e tamanho, numerados de 1 a 12. Dos 12 vagões, 4 são pintados na cor vermelha, 3 na cor azul, 3 na cor verde e 2 na cor amarela. O trem é montado utilizando-se uma locomotiva e 12 vagões, ordenados crescentemente segundo suas numerações.
 De acordo com as possíveis variações nas colorações dos vagões, a quantidade de trens que podem ser montados, expressa por meio de combinações, é dada por
@@ -455,6 +458,7 @@ De acordo com as possíveis variações nas colorações dos vagões, a quantida
 3. Combinação de doze, quatro a quatro, vezes dois, vezes combinação de oito, três a três, vezes combinação de cinco, dois a dois.
 4. Combinação de doze, quatro a quatro, mais dois, vezes combinação de doze, três a três, mais combinação de doze, dois a dois.
 5. Combinação de doze, quatro a quatro, vezes combinação de oito, três a três, vezes combinação de cinco, três a três vezes combinação de dois, dois a dois.
+
 Questão 167
 O gráfico a seguir mostra a evolução mensal das vendas de certo produto de julho a novembro de 2011.
 Descrição do gráfico: O gráfico mostra a evolução das unidades vendidas nos meses de julho a novembro de 2011. 
