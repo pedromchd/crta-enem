@@ -2,6 +2,7 @@
 MATEMÁTICA E SUAS TECNOLOGIAS 
 Questões de 136 a 180
  
+
 Questão 136
 Numa atividade de treinamento realizada no Exército de um determinado país, três equipes - Alpha, Beta e Gama – foram designadas a percorrer diferentes caminhos, todos com os mesmos pontos de partida e de chegada.
 * A equipe Alpha realizou seu percurso em 90 minutos com uma velocidade média de 6,0 quilômetros por hora.
@@ -71,6 +72,7 @@ Um rapaz estuda em uma escola que fica longe de sua casa, e por isso precisa uti
 3. fração de numerador 6 e denominador 21.
 4. fração de numerador 7 e denominador 21.
 5. fração de numerador 8 e denominador 21.
+
 Questão 141
 Um mapa é a representação reduzida e simplificada de uma localidade. Essa redução, que é feita com o uso de uma escala, mantém a proporção do espaço representado em relação ao espaço real.
 Certo mapa tem escala 1 para 58 000 000.
@@ -81,6 +83,8 @@ A medida real, em quilômetro, desse segmento de reta é
 3. 44 080.
 4. 76 316.
 5. 440 800.
+
+
 Questão 142
 Um produtor de milho utiliza uma área de 160 hectares para as suas atividades agrícolas. Essa área é dividida em duas partes: uma de 40 hectares, com maior produtividade, e outra, de 120 hectares, com menor produtividade. A produtividade é dada pela razão entre a produção, em tonelada, e a área cultivada. Sabe-se que a área de 40 hectares tem produtividade igual a 2,5 vezes à da outra. Esse fazendeiro pretende aumentar sua produção total em 15 por cento, aumentando o tamanho da sua propriedade. Para tanto, pretende comprar uma parte de uma fazenda vizinha, que possui a mesma produtividade da parte de 120 hectares de suas terras.
 Qual é a área mínima, em hectare, que o produtor precisará comprar?
@@ -89,6 +93,8 @@ Qual é a área mínima, em hectare, que o produtor precisará comprar?
 3. 27
 4. 24
 5. 21
+
+
 Questão 143
 A raiva é uma doença viral e infecciosa, transmitida por mamíferos. A campanha nacional de vacinação antirrábica tem o objetivo de controlar a circulação do vírus da raiva canina e felina, prevenindo a raiva humana. O gráfico mostra a cobertura (porcentagem de vacinados) da campanha, em cães, nos anos de 2013, 2015 e 2017, no município de Belo Horizonte, Minas Gerais. Os valores das coberturas dos anos de 2014 e 2016 não estão informados no gráfico e deseja-se estimá-los. Para tal, levou-se em consideração que a variação na cobertura de vacinação da campanha antirrábica, nos períodos de 2013 a 2015 e de 2015 a 2017, deu-se de forma linear.
 Descrição da figura:
@@ -117,6 +123,8 @@ Os valores possíveis para X são, apenas,
 3. 1 500 menor que X menor que 2 250.
 4. 1 500 menor que X menor que 3 000.
 5.  2 250 menor que X menor que 3 000.
+
+
 Questão 145
 Em 2014 foi inaugurada a maior roda-gigante do mundo, a High Roller, situada em Las Vegas. A figura representa um esboço dessa roda-gigante, no qual o ponto A representa uma de suas cadeiras:
 Descrição da figura:
@@ -131,6 +139,8 @@ A expressão da função altura é dada por
 3. f de t é igual a 88 vezes cosseno de t mais 168.
 4.  f de t é igual a 168 vezes seno de t mais 88 vezes cosseno de t.
 5. f de t é igual a 88 vezes seno de t mais 168 vezes cosseno de t.
+
+
 Questão 146
 Os compositores Pedro, Ricardo e Carlos gravaram um disco com 18 músicas inéditas. Pedro participou da composição de seis músicas, Ricardo participou da composição de oito músicas e Carlos compôs sozinho o restante das músicas. Além disso, Carlos foi parceiro em um terço das músicas compostas por Pedro e em metade das músicas compostas por Ricardo.
 O número racional que expressa a participação de Carlos na composição das músicas desse disco é
@@ -170,6 +180,7 @@ Nestas condições, a maior distância, em metro, que dois bombeiros poderiam te
 3. 45.
 4. 60.
 5. 68.
+
 Questão 149
 Torneios de tênis, em geral, são disputados em sistema de eliminatória simples. Nesse sistema, são disputadas partidas entre dois competidores, com a eliminação do perdedor e promoção do vencedor para a fase seguinte. Dessa forma, se na primeira fase o torneio conta com 2n competidores, então na segunda fase restarão n competidores, e assim sucessivamente até a partida final.
 Em um torneio de tênis, disputado nesse sistema, participam 128 tenistas.
@@ -179,6 +190,8 @@ Para se definir o campeão desse torneio, o número de partidas necessárias é 
 3. 128 +64 + 32 + 16 + 8 + 4+ 2 + 1
 4. 128 + 64 + 32 + 16 + 8 + 4 + 2
 5.  64 + 32 + 16 + 8 +4 + 2 + 1
+
+
 Questão 150 
 O artigo 33 da lei brasileira sobre drogas prevê a pena de reclusão de 5 a 15 anos para qualquer pessoa que seja condenada por tráfico ilícito ou produção não autorizada de drogas. Entretanto, caso o condenado seja réu primário, com bons antecedentes criminais, essa pena pode sofrer uma redução de um sexto a dois terços.
 Suponha que um réu primário, com bons antecedentes criminais, foi condenado pelo artigo 33 da lei brasileira sobre drogas.
@@ -188,6 +201,7 @@ Após o benefício da redução de pena, sua pena poderá variar de
 3. 3 anos e 4 meses a 10 anos.
 4. 4 anos e 2 meses a 5 anos.
 5. 4 anos e 2 meses a 12 anos e 6 meses.
+
 Questão 151
 De acordo com a Lei Universal da Gravitação, proposta por Isaac Newton, a intensidade da força gravitacional F que a Terra exerce sobre um satélite em órbita circular é proporcional à massa m do satélite e inversamente proporcional ao quadrado do raio r da órbita, ou seja, Fé igual a fração de numerador k vezes me denominador r elevado ao quadrado.
 No plano cartesiano, três satélites, A, B e C, estão representados, cada um, por um ponto (m ; r) cujas coordenadas são, respectivamente, a massa do satélite e o raio da sua órbita em torno da Terra.
@@ -200,6 +214,7 @@ As intensidades, F índice A, F índice B e F índice C expressas no gráfico sa
 3. F índice A menor que F índice B menor que F índice C.
 4. F índice A menor que F índice C menor que F índice B.
 5. F índice C menor que F índice A menor que F índice B.
+
 Questão 152 
 Os tipos de prata normalmente vendidos são 975, 950 e 925. Essa classificação é feita de acordo com a sua pureza.
 Por exemplo, a prata 975 é a substância constituída de 975 partes de prata pura e 25 partes de cobre em 1 000 partes da substância. Já a prata 950 é constituída de 950 partes de prata pura e 50 de cobre em 1 000; e a prata 925 é constituída de 925 partes de prata pura e 75 partes de cobre em 1 000.
@@ -210,6 +225,7 @@ Nessas condições, quantos gramas de prata e de cobre, respectivamente, devem s
 3. 28,50 e 1,50
 4. 27,75 e 2,25
 5. 25,00 e 5,00
+
 Questão 153
 Em um aeroporto, os passageiros devem submeter suas bagagens a uma das cinco máquinas de raio-X disponíveis ao adentrarem a sala de embarque. Num dado instante, o tempo gasto por essas máquinas para escanear a bagagem de cada passageiro e o número de pessoas presentes em cada fila estão apresentados em um painel, como mostrado na figura.
 Descrição da figura:
@@ -225,6 +241,7 @@ Um passageiro, ao chegar à sala de embarque desse aeroporto no instante indicad
 3. 3.
 4. 4.
 5. 5.
+
 Questão 154
 A Comissão Interna de Prevenção de Acidentes (CIPA) de uma empresa, observando os altos custos com os frequentes acidentes de trabalho ocorridos, fez, a pedido da diretoria, uma pesquisa do número de acidentes sofridos por funcionários. Essa pesquisa, realizada com uma amostra de 100 funcionários, norteará as ações da empresa na política de segurança no trabalho.
 Os resultados obtidos estão no quadro.
@@ -242,6 +259,8 @@ A média do número de acidentes por funcionário na amostra que a CIPA apresent
 3. 0,50.
 4. 1,11.
 5. 2,22.
+
+
 Questão 155
 A rosa dos ventos é uma figura que representa oito sentidos, que dividem o círculo em partes iguais.
 Descrição da figura:
@@ -257,6 +276,7 @@ Qual mudança de sentido o controlador deve efetuar para reposicionar a câmera?
 3. 120 graus no sentido anti-horário.
 4. 135 graus no sentido anti-horário.
 5. 165 graus no sentido horário.
+
 QUESTÃO 156
 Na teoria das eleições, o Método de Borda sugere que, em vez de escolher um candidato, cada juiz deve criar um ranking de sua preferência para os concorrentes (isto é, criar uma lista com a ordem de classificação dos concorrentes). A este ranking é associada uma pontuação: um ponto para o último colocado no ranking, dois pontos para o penúltimo, três para o antepenúltimo, e assim sucessivamente. Ao final, soma-se a pontuação atribuída a cada concorrente por cada um dos juízes.
 Em uma escola houve um concurso de poesia no qual cinco alunos concorreram a um prêmio, sendo julgados por 25 juízes. Para a escolha da poesia vencedora foi utilizado o Método de Borda. Nos quadros, estão apresentados os rankings dos juízes e a frequência de cada ranking.
@@ -278,6 +298,7 @@ A poesia vencedora foi a de
 3. Caio.
 4. Bia.
 5. Ana.
+
 Questão 157
 Sobre um sistema cartesiano considera-se uma malha formada por circunferências de raios com medidas dadas por números naturais e por 12 semirretas com extremidades na origem, separadas por ângulos de fração de numerador pi e denominador seis radianos, conforme a figura.
 Descrição da figura:
@@ -290,6 +311,7 @@ Para realizar o percurso mais curto possível ao longo da malha, do ponto B até
 3. abre parêntese fração de numerador 2 vezes pi vezes 3 e denominador 3 fecha parêntese, mais 4.
 4. abre parêntese fração de numerador 2 vezes pi vezes 4 e denominador 3 fecha parêntese, mais 2.
 5. abre parêntese fração de numerador 2 vezes pi vezes 5 e denominador 3 fecha parêntese, mais 2.
+
 QUESTÃO 158
 Um artesão possui potes cilíndricos de tinta cujas medidas externas são 4 centímetros de diâmetro e 6 centímetros de altura. Ele pretende adquirir caixas organizadoras para armazenar seus potes de tinta, empilhados verticalmente com tampas voltadas para cima, de forma que as caixas possam ser fechadas.
 No mercado, existem cinco opções de caixas organizadoras, com tampa, em formato de paralelepípedo reto retângulo, vendidas pelo mesmo preço, possuindo as seguintes dimensões internas:
@@ -307,6 +329,7 @@ Qual desses modelos o artesão deve adquirir para conseguir armazenar o maior n�
 3. III
 4. IV
 5. V
+
 Questão 159
 A prefeitura de um pequeno município do interior decide colocar postes para iluminação ao longo de uma estrada retilínea, que inicia em uma praça central e termina numa fazenda na zona rural. Como a praça já possui iluminação, o primeiro poste será colocado a 80 metros da praça, o segundo, a 100 metros, o terceiro, a 120 metros, e assim sucessivamente, mantendo-se sempre uma distância de vinte metros entre os postes, até que o último poste seja colocado a uma distância de 1 380 metros da praça.
 Se a prefeitura pode pagar, no máximo, R$ 8 000,00 por poste colocado, o maior valor que poderá gastar com a colocação desses postes é
@@ -315,14 +338,17 @@ Se a prefeitura pode pagar, no máximo, R$ 8 000,00 por poste colocado, o maior 
 3. R$ 528 000,00.
 4. R$ 552 000,00.
 5. R$ 584 000,00.
+
 Questão 160
 Um edifício tem a numeração dos andares iniciando no térreo (T), e continuando com primeiro, segundo, terceiro, ..., até o último andar. Uma criança entrou no elevador e, tocando no painel, seguiu uma sequência de andares, parando, abrindo e fechando a porta em diversos andares. A partir de onde entrou a criança, o elevador subiu sete andares, em seguida desceu dez, desceu mais treze, subiu nove, desceu quatro e parou no quinto andar, finalizando a sequência. Considere que, no trajeto seguido pela criança, o elevador parou uma vez no último andar do edifício.
-De acordo com as informações dadas, o último andar do edifício é o
+De acordo com as informações dadas, o último andar do edifício é o:
 1. décimo sexto
 2. vigésimo segundo.
 3. vigésimo terceiro.
 4. vigésimo quinto.
 5. trigésimo segundo.
+
+
 Questão 161
 O Salão do Automóvel de São Paulo é um evento no qual vários fabricantes expõem seus modelos mais recentes de veículos, mostrando, principalmente, suas inovações em design e tecnologia.
 Uma montadora pretende participar desse evento com dois estandes, um na entrada e outro na região central do salão, expondo, em cada um deles, um carro compacto e uma caminhonete.
@@ -333,23 +359,26 @@ Uma expressão que fornece a quantidade de maneiras diferentes que os estandes p
 3. combinação de 4 elementos tomados 2 a 2 vezes combinação de 6 elementos tomados 2 a 2 vezes 2 vezes 2.
 4. arranjo de 4 elementos tomados 2 a 2 vezes arranjo de 6 elementos tomados 2 a 2 vezes 2 vezes 2.
 5. combinação de 4 elementos tomados 2 a 2 vezes combinação de 6 elementos tomados 2 a 2.
+
 Questão 162
 Os alunos da disciplina de estatística, em um curso universitário, realizam quatro avaliações por semestre com os pesos de 20 por cento, 10 por cento, 30 por cento e 40 por cento, respectivamente. No final do semestre, precisam obter uma média nas quatro avaliações de, no mínimo, 60 pontos para serem aprovados. Um estudante dessa disciplina obteve os seguintes pontos nas três primeiras avaliações: 46, 60 e 50, respectivamente. 
-O mínimo de pontos que esse estudante precisa obter na quarta avaliação para ser aprovado é
+O mínimo de pontos que esse estudante precisa obter na quarta avaliação para ser aprovado é:
 1. 29,8.
 2. 71,0.
 3. 74,5.
 4. 75,5.
 5. 84,0.
+
 QUESTÃO 163
 O gerente do setor de recursos humanos de uma empresa está organizando uma avaliação em que uma das etapas é um jogo de perguntas e respostas. Para essa etapa, ele classificou as perguntas, pelo nível de dificuldade, em fácil, médio e difícil, e escreveu cada pergunta em cartões para colocação em uma urna.
 Contudo, após depositar vinte perguntas de diferentes níveis na urna, ele observou que 25 por cento delas eram de nível fácil. Querendo que as perguntas de nível fácil sejam a maioria, o gerente decidiu acrescentar mais perguntas de nível fácil à urna, de modo que a probabilidade de o primeiro participante retirar, aleatoriamente, uma pergunta de nível fácil seja de 75 por cento. 
-Com essas informações, a quantidade de perguntas de nível fácil que o gerente deve acrescentar à urna é igual a
+Com essas informações, a quantidade de perguntas de nível fácil que o gerente deve acrescentar à urna é igual a:
 1. 10.
 2. 15.
 3. 35.
 4. 40.
 5. 45.
+
 QUESTÃO 164
 A Transferência Eletrônica Disponível (TED) é uma transação financeira de valores entre diferentes bancos. Um economista decide analisar os valores enviados por meio de TEDs entre cinco bancos (1, 2, 3, 4 e 5) durante um mês. Para isso, ele dispõe esses valores em uma matriz A é igual abre colchete, a índice i j fecha colchete, em que 1 é menor ou igual a i e menor ou igual a 5 e 1 é menor ou igual a j e menor ou igual a 5, e o elemento a índice i j corresponde ao total proveniente das operações feitas via TED, em milhão de real, transferidos do banco i para o banco j durante o mês. Observe que o elemento a índice i i é igual a zero, uma vez que TED é uma transferência entre bancos distintos.
 Essa é a matriz obtida para essa análise: 
@@ -365,6 +394,7 @@ Com base nessas informações, o banco que transferiu a maior quantia via TED é
 3. 3.
 4. 4.
 5. 5.
+
 Questão 165
 Um contrato de empréstimo prevê que quando uma parcela é paga de forma antecipada, conceder-se-á uma redução de juros de acordo com o período de antecipação.
 Nesse caso, paga-se o valor presente, que é o valor, naquele momento, de uma quantia que deveria ser paga a em uma data futura. Um valor presente P submetido a juros compostos com taxa i, por um período de tempo n, produz um valor futuro V determinado pela fórmula V é igual a P vezes abre parêntese 1 mais i fecha  parêntese elevado a n
@@ -376,6 +406,8 @@ A primeira das parcelas que poderá ser antecipada junto com a trigésima é a
 3. quinquagésima segunda.
 4. quinquagésima primeira.
 5. quadragésima quinta.
+
+
 Questão 166
 Um jogo pedagógico utiliza-se de uma interface algébrico-geométrica do seguinte modo: os alunos devem eliminar os pontos do plano cartesiano dando "tiros", seguindo trajetórias que devem passar pelos pontos escolhidos. Para dar os tiros, o aluno deve escrever em uma janela do programa a equação cartesiana de um reta ou de uma circunferência que passa pelos pontos e pela origem do sistema de coordenadas. Se o tiro for dado por meio da equação da circunferência, cada ponto diferente da origem que for atingido vale 2 pontos. Se o tiro for dado por meio da equação de uma reta, cada ponto diferente da origem que for atingido vale 1 ponto. Em uma situação de jogo, ainda restam os seguintes pontos para serem eliminados: A(0 ; 4), B(4 ; 4), C(4 ; 0), D(2; 2) e E(0; 2). 
 Descrição do plano cartesiano: 
@@ -404,6 +436,7 @@ Qual é a porcentagem do total de pessoas desses grupos de risco já vacinadas?
 3. 30
 4. 40
 5. 50
+
 Questão 168
 Durante uma festa de colégio, um grupo de alunos organizou uma rifa. Oitenta alunos faltaram à festa e não participaram da rifa. Entre os que compareceram, alguns compraram três bilhetes, 45 compraram 2 bilhetes, e muitos compraram apenas um. O total de alunos que comprou um único bilhete era 20 por cento do número total de bilhetes vendidos, e o total de bilhetes vendidos excedeu em 33 o número total de alunos do colégio. 
 Quantos alunos compraram somente um bilhete?
@@ -412,6 +445,8 @@ Quantos alunos compraram somente um bilhete?
 3. 47
 4. 48
 5. 79
+
+
 Questão 169
 Um quebra-cabeça consiste em recobrir um quadrado com triângulos retângulos isósceles, como ilustra a figura.
 Descrição da figura:
@@ -423,11 +458,13 @@ O quebra-cabeça, quando montado, resultará em um quadrado cuja medida do lado,
 3. 7 vezes raiz quadrada de 2.
 4. 6 mais 4 vezes raiz quadrada de 2.
 5. 6 mais 2 vezes raiz quadrada de 2.
+
+
 Questão 170
 Para decorar um cilindro circular reto será usada uma faixa retangular de papel transparente, na qual está desenhada em negrito uma diagonal que forma 30 graus com a borda inferior. O raio da base do cilindro mede fração de numerador seis e denominador pi centímetros, e ao enrolar a faixa obtém-se uma linha em formato de hélice, como na figura.
 Descrição da figura: 
 Um cilindro circular reto na vertical em que está destacada a altura e, a partir dela, há o desenho de um retângulo com os lados maiores na horizontal e uma diagonal que vai do vértice inferior esquerdo até o vértice superior direito. Essa diagonal forma um ângulo de trinta graus com o lado inferior horizontal do retângulo. Ao lado, outro desenho do cilindro com a faixa enrolada dando seis voltas completas ao seu redor, destacando a diagonal, que é uma linha com a forma de hélice, envolvendo o cilindro.
-O valor da medida da altura do cilindro, em centímetro, é 
+O valor da medida da altura do cilindro, em centímetro, é: 
 1. 36 vezes raiz quadrada de 3.
 2. 24 vezes raiz quadrada de 3.
 3. 4 vezes raiz quadrada de 3.
@@ -448,6 +485,7 @@ Considere 0,30 como aproximação para logaritmo de 2 na base 10.
 3. 2022
 4. 2026
 5. 2146
+
 Questão 172
 Uma loja vende automóveis em N parcelas iguais sem juros. No momento de contratar o financiamento, caso o cliente queira aumentar o prazo, acrescentando mais 5 parcelas, o valor de cada uma das parcelas diminui R$ 200,00, ou se ele quiser diminuir o prazo, com 4 parcelas a menos, o valor de cada uma das parcelas sobe R$ 232,00. Considere ainda que, nas três possibilidades de pagamento, o valor do automóvel é o mesmo, todas são sem juros e não é dado desconto em nenhuma das situações. 
 Nessas condições, qual é a quantidade N de parcelas a serem pagas de acordo com a proposta inicial da loja?
@@ -456,6 +494,7 @@ Nessas condições, qual é a quantidade N de parcelas a serem pagas de acordo c
 3. 29
 4. 40
 5. 58
+
 Questão 173
 O salto ornamental é um esporte em que cada competidor realiza seis saltos. A nota em cada salto é calculada pela soma das notas dos juízes, multiplicada pela nota de partida (o grau de dificuldade de cada salto). Fica em primeiro lugar o atleta que obtiver a maior soma das seis notas recebidas.
 O atleta 10 irá realizar o último salto da final. Ele observa no Quadro 1, antes de executar o salto, o recorte do quadro parcial de notas com a sua classificação e a dos três primeiros lugares até aquele momento.
@@ -480,6 +519,7 @@ Considerando essas condições, o salto que o atleta deverá escolher é o de ti
 3. T3.
 4. T4.
 5. T5.
+
 Questão 174
 Os guindastes são fundamentais em canteiros de obras, no manejo de materiais pesados como vigas de aço. A figura ilustra uma sequência de estágios em que um guindaste iça uma viga de aço que se encontra inicialmente no solo.
 Descrição da figura:
@@ -495,8 +535,7 @@ Os eixos cartesianos se interceptam na origem. O eixo horizontal representa o te
 4. Descrição do gráfico: 
 Os eixos cartesianos se interceptam na origem. O eixo horizontal representa o tempo e o eixo vertical, a distância. O gráfico é uma curva com a concavidade voltada para baixo com uma das extremidades sobre o eixo vertical e a outra num ponto de abscissa tempo índice f.
 5. Descrição do gráfico: 
-Os eixos cartesianos se interceptam na origem. O eixo horizontal representa o tempo e o eixo vertical, a distância. O gráfico é uma curva com a concavidade voltada para cima com uma das extremidades sobre o eixo vertical e a outra num ponto de abscissa tempo índice f.
-Questão 175
+Os eixos cartesianos se interceptam na origem. O eixo horizontal representa o tempo e o eixo vertical, a distância. O gráfico é uma curva com a concavidade voltada para cima com uma das extremidades sobre o eixo vertical e a outra num ponto de abscissa tempo índice f.Questão 175
 A inclinação de uma rampa é calculada da seguinte maneira: para cada metro medido na horizontal, mede-se x centímetros na vertical. Diz-se, nesse caso, que a rampa tem inclinação de x por cento como no exemplo da figura:
 Descrição da figura:
 A figura mostra um triângulo retângulo com o lado horizontal medindo 1 metro, o lado vertical medindo 20 centímetros. Ao lado está escrito: Inclinação é igual a vinte por cento.
@@ -504,12 +543,14 @@ A figura apresenta um projeto de uma rampa de acesso a uma garagem residencial c
 Descrição da figura:
 A figura mostra do lado esquerdo um portão no nível da rua e abaixo do portão um segmento com 2 metros de altura. A distância desse segmento até a base da garagem mede 8 metros. A rampa que sai do portão e vai até a garagem é inclinada.
 Depois de projetada a rampa, o responsável pela obra foi informado de que as normas técnicas do município onde ela está localizada exigem que a inclinação máxima de uma rampa de acesso a uma garagem residencial seja de 20 por cento.
-Se a rampa projetada tiver inclinação superior a 20 por cento, o nível da garagem deverá ser alterado para diminuir o percentual de inclinação, mantendo o comprimento da base da rampa. Para atender às normas técnicas do município, o nível da garagem deverá ser
+Se a rampa projetada tiver inclinação superior a 20 por cento, o nível da garagem deverá ser alterado para diminuir o percentual de inclinação, mantendo o comprimento da base da rampa. Para atender às normas técnicas do município, o nível da garagem deverá ser:
 1. elevado em 40 centímetros.
 2. elevado em 50 centímetros.
 3. mantido no mesmo nível.
 4. rebaixado em 40 centímetros.
 5. rebaixado em 50 centímetros.
+
+
 Questão 176
 Para ganhar um prêmio, uma pessoa deverá retirar, sucessivamente e sem reposição, duas bolas pretas de uma mesma urna.
 Inicialmente, as quantidades e cores das bolas são como descritas a seguir:
@@ -528,6 +569,7 @@ Opção 5 - Passar, aleatoriamente, uma bola da urna C para a urna D; após isso
 3. 3.
 4. 4.
 5. 5.
+
 Questão 177
 A Ecofont possui design baseado na velha fonte Vera Sans. Porém, ela tem um diferencial: pequenos buraquinhos circulares congruentes, e em todo o seu corpo, presentes em cada símbolo. Esses furos proporcionam um gasto de tinta menor na hora da impressão.
 Descrição da figura:
@@ -542,16 +584,18 @@ Nessas condições, o tamanho adequado da fonte será
 3. 24.
 4. 21.
 5. 12.
+
 Questão 178
 Para criar um logotipo, um profissional da área de design gráfico deseja construí-lo utilizando o conjunto de pontos do plano na forma de um triângulo, exatamente como mostra a imagem.
 Descrição da imagem:
 A imagem mostra um plano cartesiano: eixo horizontal (x) com os pontos: -15, -10, -5, 0, 5, 10, 15 e eixo vertical (y) com os pontos: -15, -10, -5, 0,5, 10, 15. Nesse plano cartesiano estão marcados todos os pontos de coordenadas inteiras que estão sobre o triângulo de vértices nos pontos (0;0), (10 ;0) e (10; 10).
-Para construir tal imagem utilizando uma ferramenta gráfica, será necessário escrever algebricamente o conjunto que representa os pontos desse gráfico. Esse conjunto é dado pelos pares ordenados abre parêntese x ponto e vírgula y fecha parêntese pertence ao produto cartesiano do conjunto dos números naturais pelo conjunto dos números naturais, tais que
+Para construir tal imagem utilizando uma ferramenta gráfica, será necessário escrever algebricamente o conjunto que representa os pontos desse gráfico. Esse conjunto é dado pelos pares ordenados abre parêntese x ponto e vírgula y fecha parêntese pertence ao produto cartesiano do conjunto dos números naturais pelo conjunto dos números naturais, tais que:
 1. A zero menor ou igual a x menor ou igual a y menor ou igual a 10.
 2. zero menor ou igual a y menor ou igual a x menor ou igual a 10.
 3. zero menor ou igual a x menor ou igual a 10, zero menor ou igual a y menor ou igual a 10.
 4. zero menor ou igual a x mais y menor ou igual a 10.
 5.  zero menor ou igual a x mais y menor ou igual a 20.
+
 Questão 179
 A figura mostra uma praça circular que contém um chafariz em seu centro e, em seu entorno, um passeio. Os círculos que definem a praça e o chafariz são concêntricos.
 Descrição da figura:
@@ -560,18 +604,20 @@ O passeio terá seu piso revestido com ladrilhos. Sem condições de calcular os
 Descrição da figura:
 A mesma figura anterior, destacando o ponto A à esquerda e o ponto B à direita, no círculo maior. Um segmento de reta horizontal tangente e abaixo do círculo menor une os pontos A e B, medindo 16 metros.
 Dispondo apenas dessa medida, o engenheiro calculou corretamente a medida da área do passeio, em metro quadrado. 
-A medida encontrada pelo engenheiro foi
+A medida encontrada pelo engenheiro foi:
 1. 4 pi.
 2. 8 pi.
 3. 48 pi.
 4. 64 pi.
 5. 192 pi.
+
+
 Questão 180
 Um designer de jogos planeja um jogo que faz uso de um tabuleiro de dimensão nporn, com n maior ou igual a 2, no qual cada jogador, na sua vez, coloca uma peça sobre uma das casas vazias do tabuleiro. Quando uma peça é posicionada, a região formada pelas casas que estão na mesma linha ou coluna dessa peça é chamada de zona de combate dessa peça. Na figura está ilustrada a zona de combate de uma peça colocada em uma das casas de um tabuleiro de dimensão 8 por 8.
 Descrição da figura:
 Tabuleiro formado por oito colunas e oito linhas. Na terceira coluna e quinta linha há uma peça. As outras casas da terceira coluna e as outras casas da quinta linha formam a zona de combate.
 O tabuleiro deve ser dimensionado de forma que a probabilidade de se posicionar a segunda peça aleatoriamente, seguindo a regra do jogo, e esta ficar sobre a zona de combate da primeira, seja inferior a fração de numerador 1 e denominador 5.
-A dimensão mínima que o designer deve adotar para esse tabuleiro é
+A dimensão mínima que o designer deve adotar para esse tabuleiro é:
 1. 4 por 4
 2. 6 por 6
 3. 9 por 9
