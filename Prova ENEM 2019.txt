@@ -4,7 +4,6 @@ QUESTÕES DE 136 A 180
 
 
 
-
 Questão 136:
 A gripe é uma infecção respiratória aguda de curta duração causada pelo vírus influenza. Ao entrar no nosso organismo pelo nariz, esse vírus multiplica-se, disseminando-se para a garganta e demais partes das vias respiratórias, incluindo pulmões.
 O vírus influenza é uma partícula esférica que tem um diâmetro interno de 0,00011 milímetro.
@@ -14,8 +13,6 @@ B) 1,1 x 10^-2.
 C) 1,1 x 10^-3.
 D) 1,1 x 10^-4.
 E) 1,1 x 10^-5.
-
-
 
 
 Questão 137:
@@ -29,8 +26,6 @@ D) 28.
 E) 24.
 
 
-
-
 Questão 138:
 Em um condomínio, uma área pavimentada, que tem a forma de um círculo com diâmetro medindo 6 metros, é cercada por grama. A administração do condomínio
 deseja ampliar essa área, mantendo seu formato circular, e aumentando, em 8 metros, o diâmetro dessa região, mantendo o revestimento da parte já existente. O condomínio dispõe, em estoque, de material suficiente para pavimentar mais 100 metros quadrados de área. O síndico do condomínio irá avaliar se esse material disponível será suficiente para pavimentar a região a ser ampliada.
@@ -41,8 +36,6 @@ B) Será suficiente, pois a área da nova região a ser pavimentada mede 24 metr
 C) Será suficiente, pois a área da nova região a ser pavimentada mede 48 metros quadrados.
 D) Não será suficiente, pois a área da nova região a ser pavimentada mede 108 metros quadrados.
 E) Não será suficiente, pois a área da nova região a ser pavimentada mede 120 metros quadrados.
-
-
 
 
 Questão 139:
@@ -61,8 +54,6 @@ D) Quatro.
 E) Cinco.
 
 
-
-
 Questão 140:
 Um professor aplica, durante os cinco dias úteis de uma semana, testes com quatro questões de múltipla escolha a cinco alunos. Os resultados foram representados na matriz:
 Descrição da matriz: matriz composta por cinco linhas e cinco colunas.
@@ -79,8 +70,6 @@ D) Quinta-feira.
 E) Sexta-feira.
 
 
-
-
 Questão 141:
 Um ciclista quer montar um sistema de marchas usando dois dscos dentados na parte traseira de sua bicicleta, chamados catracas. A coroa é o disco dentado que é movimentado pelos pedais da bicicleta, sendo que a corrente transmite esse movimento às catracas., que ficam posicionadas na roda traseira da bicicleta. As diferentes marchas ficam definidas pelos diferentes diâmetros das catracas, que são medidos conforme indicação na figura.
 Descrição da figura: a figura representa um disco dentado. O diâmetro do disco dentado indicado na figura é o diâmetro do maior círculo interno desse disco. 
@@ -91,8 +80,6 @@ B) 3,5.
 C) 4,7.
 D) 5,3.
 E) 10,5.
-
-
 
 
 Questão 142:
@@ -130,8 +117,6 @@ D) 1 e 13.
 E) 1, 12 e 13.
 
 
-
-
 Questão 143:
 Uma administração municipal encomendou a pintura de dez placas de sinalização para colocar em seu pátio de estacionamento. 
 O profissional contratado para o serviço inicial pintará o fundo de dez placas e cobrará um valor de acordo com a área total dessas placas.  O formato de cada placa é um círculo de diâmetro d = 40 centímetros, que tangencia lados de um retângulo, sendo que o comprimento total da placa é h = 60 centímetros. Use 3,14 como aproximação para pi.
@@ -143,8 +128,6 @@ D) 41.120.
 E) 66.240.
 
 
-
-
 Questão 144: 
 O rótulo da embalagem de um cosmético informa que a dissolução de seu conteúdo, de acordo com suas especificações, rende 2,7 litros desse produto pronto para o uso. Uma pessoa será submetida a um tratamento estético em que deverá tomar um banho de imersão com esse produto numa banheira com capacidade  de 0,3 metro cúbico. Para evitar o transbordamento, essa banheira será preenchida em 80 por cento de sua capacidade.
 Para esse banho, o número mínimo de embalagens desse cosmético é: 
@@ -153,8 +136,6 @@ B) 12.
 C) 89.
 D) 112.
 E) 134.
-
-
 
 
 Questão 145:
@@ -172,8 +153,6 @@ D) 700.
 E) 800.
 
 
-
-
 Questão 146:
 Uma pessoa se interessou em adquirir um produto anunciado em uma loja. Negociou com o gerente e conseguiu comprá-lo a uma taxa de juros compostos de 1 por cento ao mês. O primeiro pagamento será um mês após a aquisição do produto, e no valor de R$ 202,00. O segundo pagamento será efetuado um mês após o primeiro, e terá o valor de R$ 204,02. Para concretizar a compra, o gerente emitirá uma nota fiscal com o valor do produto à vista negociado com o cliente, correspondendo ao financiamento aprovado. 
 O valor à vista, em real, que deverá constar na nota fiscal é de: 
@@ -182,8 +161,6 @@ B) 400,00.
 C) 401,94.
 D) 404,00.
 E) 406,02.
-
-
 
 
 Questão 147:
@@ -195,8 +172,6 @@ B) 28,70 e 13,89.
 C) 25,00 e 25,00.
 D) 18,52 e 11,11.
 E) 12,96 e 13,89. 
-
-
 
 
 Questão 148:
@@ -213,8 +188,6 @@ D) 15.000,00.
 E) 15.500,00.
 
 
-
-
 Questão 149: 
 Segundo o Instituto Brasileiro de Geografia e Estatística (IBGE), o rendimento médio mensal dos trabalhadores brasileiros, no 2000, era de R$ 1.250,00. Já o Censo 2010 mostrou que, em 2010, esse valor teve um aumento de 7,2 por cento em relação a 2000. Esse mesmo instituto projeta que, em 2020, o rendimento médio mensal dos trabalhadores brasileiros poderá ser 10 por cento maior do que foi em 2010.
 Suponho que as projeções  do IBGE se realizem, o rendimento médio mensal dos brasileiros em 2020 será de: 
@@ -223,8 +196,6 @@ B) R$ 1.349,00.
 C) R$ 1.375,00.
 D) R$ 1.465,00.
 E) R$ 1.474,00. 
-
-
 
 
 Questão 150:
@@ -245,8 +216,6 @@ D) Grande.
 E) Extremo.
 
 
-
-
 Questão 151:
 Um estudante de matemática leu a seguinte notícia:
 "Com a ajuda única e exclusiva do seu cérebro, o francês Alexis Lemaire bateu seu próprio recorde de cálculo mental ao resolver a raiz décima terceira de um número de 200 dígitos, escolhido aleatoriamente por um computador. O francês achou a solução correta, dentre 393 trilhões de respostas possíveis.”
@@ -259,8 +228,6 @@ D) 3,93 x 10^14.
 E) 3,93 x 10^12.
 
 
-
-
 Questão 152:
 A Hydrangea macrophylla é uma planta com flor azul ou cor-de-rosa, dependendo do pH do solo no qual está plantada. Em solo ácido (ou seja, com pH menor que 7) a flor é azul, enquanto que em solo alcalino (ou seja, com pH maior que 7) a flor é rosa. Considere que a Hydrangea cor-de-rosa mais valorizada comercialmente numa determinada região seja aquela produzida em solo com pH inferior a 8. Sabe-se que o pH é igual a: menos log de x na base 10. Em que x é a concentração de íon hidrogênio (H+).
 Para produzir a Hydrangea cor-de-rosa de maior valor comercial, deve-se preparar o solo de modo que x assuma: 
@@ -269,8 +236,6 @@ B) Qualquer valor positivo inferior a 10^-7.
 C) Valores maiores que 7 e menores que 8.
 D) Valores maiores que 70 e menores que 80.
 E) Valores maiores que 10^-8 e menores que 10^-7.
-
-
 
 
 Questão 153:
@@ -284,8 +249,6 @@ D) 60 por cento.
 E) 80 por cento.
 
 
-
-
 Questão 154:
 O dono de um restaurante situado às margens de uma rodovia percebeu que, ao colocar uma placa de propaganda de seu restaurante ao longo da rodovia, as vendas aumentaram. Pesquisou junto aos seus clientes e concluiu que a probabilidade de um motorista perceber uma placa de anúncio é fração numerador 1 e denominador 2.
 Com isso, após autorização do órgão competente, decidiu instalar novas placas com anúncios de seu restaurante ao longo dessa rodovia, de maneira que a probabilidade de um motorista perceber pelo menos uma das placas instaladas fosse superior à fração numerador 99 e denominador 100.
@@ -297,8 +260,6 @@ D) 6.
 E) 1.
 
 
-
-
 Questão 155: 
 O preparador físico de um time de basquete dispõe de um plantel de 20 jogadores, com média de altura igual a 1,80 metro. No último treino antes da estreia em um campeonato, um dos jogadores desfalcou o time em razão de uma séria contusão, forçando o técnico a contratar outro jogador para recompor o grupo.
 Se o novo jogador é 0,20 metros mais baixo que o anterior, qual é a média de altura, em metro, do novo grupo?
@@ -307,8 +268,6 @@ B) 1,78.
 C) 1,79.
 D) 1,81.
 E) 1,82.
-
-
 
 
 Questão 156:
@@ -327,8 +286,6 @@ D) 2,0.
 E) 3,0.
 
 
-
-
 Questão 157: 
 O Sistema Métrico Decimal é o mais utilizado atualmente para medir comprimentos e distâncias. Em algumas atividades, porém, é possível observar a utilização de diferentes unidades de medida. Um exemplo disso pode ser observado no quadro.
 Descrição do quadro: o quadro mostra a equivalência das seguintes unidades:
@@ -341,8 +298,6 @@ D) 12,0000.
 E) 36,0000.
 
 
-
-
 Questão 158: 
 O Índice de Desenvolvimento Humano (IDH) é uma medida usada para classificar os países pelo seu grau de desenvolvimento. Para seu cálculo, são levados em consideração a expectativa de vida ao nascer, tempo de escolaridade e renda per capita, entre outros. O menor valor deste índice é zero e o maior é um. Cinco países foram avaliados e obtiveram os seguintes índices de desenvolvimento humano: o primeiro país recebeu um valor X, o segundo, raiz quadrada de X, o terceiro, X elevado a 1 sobre 3, o quarto, X elevado ao quadrado e o último, X elevado ao cubo. Nenhum desses países zerou ou atingiu o índice máximo. 
 Qual desses países obteve o maior IDH?
@@ -351,8 +306,6 @@ B) O segundo.
 C) O terceiro.
 D) O quarto.
 E) O quinto.
-
-
 
 
 Questão 159:
@@ -366,8 +319,6 @@ D) Dez caminhões com capacidade máxima de 2 metros cúbicos.
 E) Um caminhão com capacidade máxima de 2 metros cúbicos.
 
 
-
-
 Questão 160: 
 O  álcool é um depressor do sistema nervoso central e age diretamente em diversos órgãos. A concentração de álcool no sangue pode ser entendida como a razão entre a quantidade q de álcool ingerido, medida em grama, e o volume de sangue, em litro, presente no organismo do indivíduo. Em geral, considera-se que esse volume corresponda ao valor numérico dado por 8 por cento da massa corporal m desse individuo, medida em quilograma.
 De acordo com a Associação Médica Americana, uma concentração alcoólica superior a 0,4 grama por litro de sangue é capaz de trazer prejuízos à saúde do indivíduo.
@@ -379,8 +330,6 @@ D) Fração numerador 0,08 vezes me denominador q, é maior que 0,4.
 E) Fração numerador q e denominador 0,08 vezes m, é maior que 0,4.
 
 
-
-
 Questão 161:
 Construir figuras de diversos tipos, apenas dobrando e cortando papel, sem cola e sem tesoura, é a arte do origami (ori é igual dobrar; kami é igual papel), que tem um significado altamente simbólico no Japão. A base do origami é o conhecimento do mundo por base do tato. Uma jovem resolveu construir um cisne usando a técnica do origami, utilizando uma folha de papel de 18 centímetros por 12 centímetros. Assim, começou por dobrar a folha conforme a figura.
 Descrição da figura: a figura mostra um retângulo ABCD, com os lados AB e CD medindo 18 centímetros e os lados AD e BC medindo 12 centímetros. No lado CD tem um ponto E, o segmento CE é igual a 12 centímetros. A partir do ponto E foi feita uma dobra do vértice D para o interior do retângulo, formando um triângulo retângulo ADE. O lado AE é oposto ao ângulo de 90 graus, os lados AD e DE são adjacentes ao ângulo de 90 graus.
@@ -390,8 +339,6 @@ B) 6 vezes raiz quadrada de 3 centímetros.
 C) 12 centímetros.
 D) 6 vezes raiz quadrada de 5 centímetros.
 E) 12 vezes raiz quadrada de 2 centímetros.
-
-
 
 
 Questão 162:
@@ -408,8 +355,6 @@ D) Futebol, futebol, futebol, basquete.
 E) Futebol, futebol, futebol, futebol.
 
 
-
-
 Questão 163:
 Uma empresa tem diversos funcionários. Um deles é o gerente, que recebe R$ 1.000,00 por semana. Os outros funcionários são diaristas. Cada um deles trabalha 2 dias por semana, recebendo R$ 80,00 por dia trabalhado.
 Chamando de X a quantidade total de funcionários da empresa, a quantia Y, em reais, que esta empresa gasta semanalmente para pagar seus funcionários é expressa por:
@@ -418,8 +363,6 @@ B) Y é igual a 80X mais 1.000.
 C) Y é igual a 80X mais 1.080.
 D) Y é igual a 160X mais 840.
 E) Y é igual a 160X mais 1 000.
-
-
 
 
 Questão 164: 
@@ -442,6 +385,7 @@ C) Três.
 D) Quatro.
 E) Cinco.
 
+
 Questão 165 
 A bula de um antibiótico infantil, fabricado na forma de xarope, recomenda que sejam ministrados, diariamente, no máximo 500 miligramas desse medicamento para cada quilograma de massa do paciente. Um pediatra prescreveu  a dosagem máxima desse antibiótico para ser ministrada diariamente a uma criança de 20 quilogramas pelo período de 5 dias. Esse medicamento pode ser comprado em frascos de 10 mililitros, 50 mililitros, 100 mililitros,250 mililitros e 500 mililitros. Os pais dessa criança decidiram comprar a quantidade exata de medicamento que precisará ser ministrada no tratamento, evitando a sobra de medicamento. Considere que 1 grama desse medicamento ocupe um volume de 1 centímetro cúbico. A capacidade do frasco, em mililitro, que esses pais deverão comprar é
 1. 10.
@@ -449,6 +393,7 @@ A bula de um antibiótico infantil, fabricado na forma de xarope, recomenda que 
 3. 100.
 4. 250
 5. 500.
+
 
 Questão 166
 Uma empresa confecciona e comercializa um brinquedo formado por uma locomotiva, pintada na cor preta, mais 12 vagões de iguais formato e tamanho, numerados de 1 a 12. Dos 12 vagões, 4 são pintados na cor vermelha, 3 na cor azul, 3 na cor verde e 2 na cor amarela. O trem é montado utilizando-se uma locomotiva e 12 vagões, ordenados crescentemente segundo suas numerações.
@@ -458,6 +403,7 @@ De acordo com as possíveis variações nas colorações dos vagões, a quantida
 3. Combinação de doze, quatro a quatro, vezes dois, vezes combinação de oito, três a três, vezes combinação de cinco, dois a dois.
 4. Combinação de doze, quatro a quatro, mais dois, vezes combinação de doze, três a três, mais combinação de doze, dois a dois.
 5. Combinação de doze, quatro a quatro, vezes combinação de oito, três a três, vezes combinação de cinco, três a três vezes combinação de dois, dois a dois.
+
 
 Questão 167
 O gráfico a seguir mostra a evolução mensal das vendas de certo produto de julho a novembro de 2011.
@@ -475,15 +421,13 @@ O diretor financeiro rebateu imediatamente esse argumento mostrando que, mantida
 3. março.
 4. abril.
 5. maio.
+
+
 Questão 168
 Nos seis cômodos de uma casa há sensores de presença posicionados de forma que a luz de cada cômodo acende assim que uma pessoa nele adentra, e apaga assim que a pessoa se retira desse cômodo. Suponha que o acendimento e o desligamento sejam instantâneos.
 O morador dessa casa visitou alguns desses cômodos, ficando exatamente um minuto em cada um deles. O gráfico descreve o consumo acumulado de energia, em watt vezes minuto, em função do tempo t, em minuto, das lâmpadas de LED dessa casa, enquanto a figura apresenta a planta baixa da casa, na qual os cômodos estão numerados de 1 a 6, com as potências das respectivas lâmpadas indicadas.
 Descrição do gráfico: O gráfico está em um plano cartesiano, em que o eixo x mostra o tempo, em minuto, e o eixo y mostra a energia, em watt vezes minuto. O gráfico é formado por uma linha que sai da origem e passa pelos pontos: (1 ; 20); (2 ; 35); (3 ; 40); (4 ; 55); (5 ; 75); (6; 85); (7 ; 105) e (8 ; 120).
 ________________
-
-
-
-
 Descrição da figura: A figura representa a planta baixa da casa, na qual os cômodos estão numerados de 1 a 6, com as potências das respectivas lâmpadas indicadas em watt.
 Cômodo 1: Sala (20 watts).
 Cômodo 2: Quarto (13 watts). 
@@ -503,6 +447,8 @@ A sequência de deslocamentos pelos cômodos, conforme o consumo de energia apre
 3. 1 seta 4 seta 5 seta 4 seta 1 seta 6 seta 1 seta 2 seta 3
 4. 1 seta 2 seta 3 seta 5 seta 4 seta 1 seta 6 seta 1 seta 4
 5. 1 seta 4 seta 2 seta 3 seta 5 seta 1 seta 6 seta 1 seta 4
+
+
 Questão 169
 Um casal planejou uma viagem e definiu como teto para o gasto diário um valor de até R$ 1 000,00. Antes de decidir o destino da viagem, fizeram uma pesquisa sobre a taxa de câmbio vigente para as moedas de cinco países que desejavam visitar e também sobre as estimativas de gasto diário em cada um, com o objetivo de escolher o destino que apresentasse o menor custo diário em real.
 O quadro mostra os resultados obtidos com a pesquisa realizada.
@@ -518,6 +464,8 @@ Nessas condições, qual será o destino escolhido para a viagem?
 3. EUA.
 4. França.
 5. Reino Unido.
+
+
 Questão 170
 Uma construtora pretende conectar um reservatório central (Rc) em formato de um cilindro, com raio interno igual a 2 metros e altura interna igual a 3,30 metros, a quatro reservatórios cilíndricos auxiliares (R1, R2, Rze R4), os quais possuem raios internos e alturas internas medindo 1,5 metro.
 As ligações entre o reservatório central e os auxiliares são feitas por canos cilíndricos com 0,10 metro de diâmetro interno e 20 metros de comprimento, conectados próximos às bases de cada reservatório. Na conexão de cada um desses canos com o reservatório central há registros que liberam ou interrompem o fluxo de água.
@@ -528,14 +476,13 @@ A medida, em metro, das alturas das colunas de água nos reservatórios auxiliar
 3. 1,10.
 4. 1.00.
 5. 0,95.
+
+
 Questão 171
 Para construir uma piscina, cuja área total da superfície interna é igual a 40 metros quadrados, uma construtora apresentou o seguinte orçamento:
 • R$ 10 000,00 pela elaboração do projeto; 
 • R$ 40 000,00 pelos custos fixos; 
 • R$ 2 500,00 por metro quadrado para construção da área interna da piscina.
-
-
-
 
  Após a apresentação do orçamento, essa empresa decidiu reduzir o valor de elaboração do projeto em 50 por cento mas recalculou o valor do metro quadrado para a construção da área interna da piscina, concluindo haver a necessidade de aumentá-lo em 25 por cento. 
 Além disso, a construtora pretende dar um desconto nos custos fixos, de maneira que o novo valor do orçamento seja reduzido em 10 por cento em relação ao total inicial. 
@@ -545,6 +492,8 @@ O percentual de desconto que a construtora deverá conceder nos custos fixos é 
 3. 50,0 por cento
 4. 87,5 por cento
 5. 100,0 por cento
+
+
 Questão 172
 Um grupo de engenheiros está projetando um motor cujo esquema de deslocamento vertical do pistão dentro da câmara de combustão está representado na figura.
 Descrição da figura: A figura mostra um esquema de motor formado por um retângulo que representa uma câmara de combustão. Na base inferior do retângulo está o pistão com sua parte superior dentro da câmara, em posição horizontal; essa parte superior está presa a uma haste vertical que faz movimentos circulares. A figura apresenta dois instantes: um instante igual a 0 e um instante diferente de 0.
@@ -558,6 +507,8 @@ O menor valor inteiro a ser atribuído ao parâmetro beta, de forma que o motor 
 3. 4.
 4. 5.
 5. 8
+
+
 Questão 173
 Após o Fórum Nacional Contra a Pirataria (FNCP) incluir a linha de autopeças em campanha veiculada contra a falsificação, as agências fiscalizadoras divulgaram que os cinco principais produtos de autopeças falsificados são: rolamento, pastilha de freio, caixa de direção, catalisador e amortecedor.
 Após uma grande apreensão, as peças falsas foram cadastradas utilizando-se a codificação:
@@ -579,8 +530,6 @@ De quantas maneiras diferentes podem ser formadas essas quatro duplas?
 5. 105
 
 
-
-
 Questão 175
 As luminárias para um laboratório de matemática serão fabricadas em forma de sólidos geométricos. Uma delas terá a forma de um tetraedro truncado. Esse sólido é gerado a partir de secções paralelas a cada uma das faces de um tetraedro regular. Para essa luminária, as secções serão feitas de maneira que, em cada corte, um terço das arestas seccionadas serão removidas.
 Essa luminária terá por faces
@@ -589,8 +538,6 @@ Essa luminária terá por faces
 3. 4 quadriláteros e 4 triângulos isósceles. 
 4. 3 quadriláteros e 4 triângulos isósceles.
 5. 3 hexágonos regulares e 4 triângulos equiláteros.
-
-
 
 
 Questão 176
@@ -603,8 +550,6 @@ Em uma eventual falta de água, o reservatório cheio será suficiente para abas
 3. 12
 4. 6
 5. 3
-
-
 
 
 Questão 177
@@ -621,8 +566,6 @@ O gráfico que melhor descreve o valor P, em real, a ser pago por mês, em funç
 5. Descrição do gráfico: O gráfico é formado por um plano cartesiano onde o eixo X representa o volume (V) em metro cúbico, de 0 a 15, e o eixo y representa o valor (P) em real. O gráfico é formado por três segmentos. O primeiro segmento é crescente, ele começa no ponto 0 metro cúbico e 12 reais e vai até o ponto 6 metros cúbicos e 16 reais; o segundo segmento é crescente, ele começa no ponto 6 metros cúbicos e 16 reais e vai até o ponto 10 metros cúbicos e 24 reais; o terceiro segmento é crescente, ele começa no ponto 10 metros cúbicos e 24 reais e vai até o ponto 15 metros cúbicos e 54 reais.
 
 
-
-
 Questão 178
 Em um determinado ano, os computadores da receita federal de um país identificaram como inconsistentes 20 por cento das declarações de imposto de renda que lhe foram encaminhadas. Uma declaração é classificada como inconsistente quando apresenta algum tipo de erro ou conflito  nas informações prestadas. Essas declarações consideradas inconsistentes foram analisadas pelos auditores, que constataram que 25 por cento delas eram fraudulentas. Constatou-se ainda que, dentre as declarações que não apresentaram inconsistências,  6,25 por cento eram fraudulentas.
 Qual é a probabilidade de, nesse ano, a declaração de contribuinte ser considerada inconsistente, dado que ela era fraudulenta?
@@ -631,6 +574,8 @@ Qual é a probabilidade de, nesse ano, a declaração de contribuinte ser consid
 3. 0,1125
 4. 0,3125
 5. 0,5000
+
+
 Questão 179
 A taxa de urbanização de um município é dada pela razão entre a população urbana e a população total do município (isto é, a soma das populações rural e  urbana). Os gráficos apresentam, respectivamente, a população urbana e a população rural de cinco municípios (um, dois, três, quatro, cinco) de uma mesma região estadual. Em reunião entre o governo do estado e os prefeitos desses municípios, ficou acordado que o município com maior taxa de urbanização receberá um investimento extra em infraestrutura.
 Descrição dos gráficos: Os gráficos mostram  a população urbana e a população rural em cinco municípios.
@@ -645,6 +590,8 @@ Segundo o acordo, qual município receberá o investimento extra?
 3. Três 
 4. Quatro
 5. Cinco
+
+
 Questão 180
 Um comerciante, que vende somente pastel,refrigerante em lata e caldo de cana em copos, fez um levantamento das vendas realizadas durante a semana. O resultado desse levantamento está apresentado no gráfico. 
 Descrição do gráfico: O gráfico, em forma heptagonal, mostra a venda da última semana.

@@ -24,8 +24,6 @@ D) 1.
 E) 0.
 
 
-
-
 Questão 137:
 Um garçom precisa escolher uma bandeja de base retangular para servir quatro taças de espumante que precisam ser dispostas em uma única fileira, paralela ao lado maior da bandeja, e com suas bases totalmente apoiadas na bandeja. A base e a borda superior das taças são círculos de raio 4 centímetros e 5 centímetros, respectivamente.
 A bandeja a ser escolhida deverá ter uma área mínima, em centímetro quadrado, igual a:
@@ -34,8 +32,6 @@ B) 300.
 C) 304.
 D) 320.
 E) 400.
-
-
 
 
 Questão 138:
@@ -48,8 +44,6 @@ B) 0,90.
 C) 0,60.
 D) 0,40.
 E) 0,30.
-
-
 
 
 Questão 139:
@@ -66,8 +60,6 @@ B) 2.
 C) 3.
 D) 4.
 E) 5.
-
-
 
 
 Questão 140:
@@ -88,8 +80,6 @@ D) IV.
 E) V.
 
 
-
-
 Questão 141:
 Como não são adeptos da prática de esportes, um grupo de amigos resolveu fazer um torneio de futebol utilizando videogame. Decidiram que cada jogador joga uma única vez com cada um dos outros jogadores. O campeão será aquele que conseguir o maior número de pontos. Observaram que o número de partidas jogadas depende do número de jogadores, como mostra o quadro:
 Descrição do quadro: quadro que apresenta a relação da quantidade de jogadores com o número de partidas, sendo:
@@ -107,8 +97,6 @@ D) 36.
 E) 28.
 
 
-
-
 Questão 142: 
 Um morador de uma região metropolitana tem 50 por cento de probabilidade de atrasar-se para o trabalho quando chove na região; caso não chova, sua probabilidade de atraso é de 25 por cento. Para um determinado dia, o serviço de meteorologia estima em 30 por cento a probabilidade da ocorrência de chuva nessa região.
 Qual é a probabilidade de esse morador se atrasar para o serviço no dia para o qual foi dada a estimativa de chuva?
@@ -119,8 +107,6 @@ D) 0,600.
 E) 0,800.
 
 
-
-
 Questão 143:
 Às 17 horas 15 minutos começa uma forte chuva, que cai com intensidade constante. Uma piscina em forma de um paralelepípedo retângulo, que se encontrava inicialmente vazia, começa a acumular a água da chuva e, às 18 horas, o nível da água em seu interior alcança 20 centímetros de altura. Nesse instante, é aberto o registro que libera o escoamento da água por um ralo localizado no fundo dessa piscina, cuja vazão é constante. Às 18 horas 40 minutos a chuva cessou e, nesse exato instante, o nível da água na piscina baixou para 15 centímetros.
 O instante em que a água dessa piscina terminar de escoar completamente está compreendido entre: 
@@ -129,8 +115,6 @@ B) 19 horas 20 minutos e 19 horas 30 minutos.
 C) 19 horas 10 minutos e 19 horas 20 minutos.
 D) 19 horas e 19 horas 10 minutos.
 E) 18 horas 40 minutos e 19 horas.
-
-
 
 
 Questão 144:
@@ -144,8 +128,6 @@ D) P vezes, abre colchete, fração com numerador 1, sobre denominador, abre par
 E) P vezes, abre colchete, fração com numerador 1, sobre denominador, abre parêntese, 1 mais frações com numerador i sobre denominador 100, fecha parêntese; mais fração de numerador 1 sobre denominador, abre parêntese, 1 mais fração de numerador i sobre denominador 100, fecha parêntese, elevado ao quadrado; mais fração com numerador 1, sobre denominador, abre parêntese, 1 mais fração com numerador i sobre denominador 100, fecha parêntese, elevado ao cubo; fecha colchete.
 
 
-
-
 Questão 145:
 Para realizar a viagem dos sonhos, uma pessoa precisava fazer um empréstimo no valor de R$ 5.000,00. Para pagar as prestações, dispõe de, no máximo, R$ 400,00 mensais. Para esse valor de empréstimo, o valor da prestação (P) é calculado em função do número de prestações (n) segundo a fórmula: P é igual a fração: no numerador 5 000 vezes abre parêntese 1,013 elevado a n fecha parêntese vezes 0,013, no denominador abre parêntese 1,013 elevado a n fecha parêntese menos 1.
 Se necessário, utilize 0,005 como aproximação para log 1,013; 2,602 como aproximação para log 400; 2,525 como aproximação para log 335.
@@ -155,8 +137,6 @@ B) 14.
 C) 15.
 D) 16.
 E) 17.
-
-
 
 
 Questão 146: 
@@ -171,8 +151,6 @@ D) 70 por cento.
 E) 86 por cento.
 
 
-
-
 Questão 147: 
 A imagem apresentada na figura é uma cópia em preto e branco da tela quadrada intitulada O peixe, de Marcos Pinto, que foi colocada em uma parede para exposição e fixada nos pontos A e B.
 Por um problema na fixação de um dos pontos, a tela se desprendeu, girando rente à parede. Após o giro, ela ficou posicionada como ilustrado na figura, formando um ângulo de 45 graus com a linha do horizonte.
@@ -184,8 +162,6 @@ B) 135 graus no sentido horário.
 C) 180 graus no sentido anti-horário.
 D) 270 graus no sentido anti-horário.
 E) 315 graus no sentido horário.
-
-
 
 
 Questão 148: 
@@ -211,6 +187,7 @@ C) 7,50.
 D) 8,25.
 E) 9,00.
 
+
 Questão 149: 
 Um brinquedo infantil caminhão-cegonha é formado por uma carreta e dez carrinhos nela transportados, conforme a figura.
 Descrição da figura: a figura apresenta um caminhão-cegonha carregado com dez carrinhos, dispostos da seguinte maneira: quatro carrinhos na parte superior, três carrinhos na parte intermediária e três carrinhos na parte inferior.
@@ -223,8 +200,6 @@ D) 6 elevado a 4.
 E) 4 elevado a 6.
 
 
-
-
 Questão 150: 
 Uma empresa especializada em conservação de piscinas utiliza um produto para tratamento da água cujas especificações técnicas sugerem que seja adicionado 1,5 mililitros desse produto para cada 1.000 litros de água da piscina. Essa empresa foi contratada para cuidar de uma piscina de base retangular, de profundidade constante igual a 1,7 metro, com largura e comprimento iguais a 3 metros e 5 metros, respectivamente. O nível da lâmina d'água dessa piscina é mantido a 50 centímetros da borda da piscina.
 A quantidade desse produto, em mililitro, que deve ser adicionada a essa piscina de modo a atender às suas especificações técnicas é:
@@ -233,8 +208,6 @@ B) 27,00.
 C) 28,80.
 D) 32,35.
 E) 49,50.
-
-
 
 
 Questão 151: 
@@ -256,8 +229,6 @@ D) P4.
 E) P5.
 
 
-
-
 Questão 152: 
 Em um teleférico turístico, bondinhos saem de estações ao nível do mar e do topo de uma montanha. A travessia dura 1,5 minuto e ambos os bondinhos se deslocam à mesma velocidade. Quarenta segundos após o bondinho A partir da estação ao nível do mar, ele cruza com o bondinho B, que havia saído do topo da montanha.
 Quantos segundos após a partida do bondinho B partiu o bondinho A?
@@ -266,8 +237,6 @@ B) 10.
 C) 15.
 D) 20.
 E) 25.
-
-
 
 
 Questão 153: 
@@ -287,8 +256,6 @@ D) 36.
 E) 40.
 
 
-
-
 Questão 154: 
 Uma rede hoteleira dispõe de cabanas simples na ilha de Gotland, na Suécia. A estrutura de sustentação de cada uma dessas cabanas está representada na figura. A ideia é permitir ao hóspede uma estada livre de tecnologia, mas conectada com a natureza.
 Descrição da figura: Poliedro com duas faces paralelas triangulares iguais, unidas por três retângulos iguais, um em cada lado dos triângulos.
@@ -298,8 +265,6 @@ B) Pirâmide retangular.
 C) Tronco de pirâmide retangular.
 D) Prisma quadrangular reto.
 E) Prisma triangular reto.
-
-
 
 
 Questão 155: 
@@ -319,8 +284,6 @@ D) S.
 E) T.
 
 
-
-
 Questão 156: 
 A água para o abastecimento de um prédio é armazenada em um sistema formado por dois reservatórios idênticos, em formato de bloco retangular, ligados entre si por um cano igual ao cano de entrada, conforme ilustra a figura:
 Descrição da figura: figura composta por dois reservatórios iguais (1 e 2), com formato de blocos retangulares. O reservatório 1 está à esquerda e o reservatório 2, à direita, com um espaço entre eles. O cano de entrada encontra-se na parte superior da face esquerda do reservatório 1. Os dois reservatórios estão ligados por um cano, igual ao cano da entrada, centralizado na face direita do reservatório 1 e na face esquerda do reservatório 2. O cano de ligação entre os reservatórios está abaixo do cano de entrada, localizado no centro dos reservatórios.
@@ -331,8 +294,6 @@ B) Descrição do gráfico: gráfico cartesiano. O eixo horizontal representa o 
 C) Descrição do gráfico: gráfico cartesiano. O eixo horizontal representa o volume e o eixo vertical representa a altura h. O gráfico representa três segmentos de retas. O primeiro é crescente, partindo da origem dos eixos; seguido por um segundo, paralelo ao eixo horizontal; seguido por um terceiro, muito acentuado, para cima e para a direita.
 D) Descrição do gráfico: gráfico cartesiano. O eixo horizontal representa o volume ve o eixo vertical representa a altura h. O gráfico representa três segmentos de retas. O primeiro é crescente, partindo da origem dos eixos; seguido por um segundo, paralelo ao eixo horizontal; seguido por um terceiro, pouco acentuado, para cima e para a direita.
 E) Descrição do gráfico: gráfico cartesiano. O eixo horizontal representa o volume e o eixo vertical representa a altura h. O gráfico representa uma curva crescente com a concavidade para baixo, partindo da origem dos eixos.
-
-
 
 
 Questão 157: 
@@ -352,8 +313,6 @@ D) 4,02.
 E) 4,20.
 
 
-
-
 Questão 158:
 Numa loja há 50 piscinas à venda, algumas de base quadrada e outras de base redonda. Há duas opções de profundidade: rasas e fundas. Sabe-se que 15 delas possuem base quadrada e profundidade rasa, 18 têm base redonda e 28 são fundas.
  O número de piscinas que são, ao mesmo tempo, fundas e de base redonda é:
@@ -362,8 +321,6 @@ B) 13.
 C) 18.
 D) 35.
 E) 46.
-
-
 
 
 Questão 159:
@@ -381,8 +338,6 @@ D) Apenas os alunos X e Z.
 E) Os alunos X, Y e Z.
 
 
-
-
 Questão 160: 
 O fisiologista inglês Archibald Vivian Hill propôs, em seus estudos, que a velocidade V de contração de um músculo ao ser submetido a um peso p é dada pela equação entre parênteses, p mais a, vezes, entre parênteses, v mais b, igual a K, com a, b e k constantes.
 Um fisioterapeuta, com o intuito de maximizar o efeito benéfico dos exercícios que recomendaria a um de seus pacientes, quis estudar essa equação e a classificou desta forma:
@@ -394,8 +349,6 @@ B) Semirreta horizontal.
 C) Ramo de parábola.
 D) Arco de circunferência.
 E) Ramo de hipérbole.
-
-
 
 
 Questão 161: 
@@ -414,8 +367,6 @@ D) 4,40.
 E) 4,45.
 
 
-
-
 Questão 162: 
 A mensagem digitada no celular, enquanto você dirige, tira a sua atenção e, por isso, deve ser evitada. Pesquisas mostram que um motorista que dirige um carro a uma velocidade constante percorre "às cegas" (isto é, sem ter visão da pista) uma distância proporcional ao tempo gasto ao olhar para o celular durante a digitação da mensagem. Considere que isso de fato aconteça. Suponha que dois motoristas (Xe Y) dirigem com a mesma velocidade constante e digitam a mesma mensagem em seus celulares. Suponha, ainda, que o tempo gasto pelo motorista X olhando para seu celular enquanto digita a mensagem corresponde a 25 por cento do tempo gasto pelo motorista Y para executar a mesma tarefa.
 A razão entre as distâncias percorridas às cegas por Xe Y, nessa ordem, é igual a:
@@ -424,8 +375,6 @@ B) Um sobre quatro.
 C) Quatro sobre três.
 D) Quatro sobre um.
 E) Três sobre quatro.
-
-
 
 
 Questão 163:
@@ -447,8 +396,6 @@ D) IV.
 E) V.
 
 
-
-
 Questão 164:
 Uma pessoa ganhou uma pulseira formada por pérolas esféricas, na qual faltava uma das pérolas.
 Ela levou a jóia a um joalheiro que verificou que a medida do diâmetro dessas pérolas era 4 milímetros. Em seu estoque, as pérolas do mesmo tipo e formato, disponíveis para reposição, tinham diâmetros iguais a: 4,025 milímetros; 4,100 milímetros; 3,970 milímetros; 4,080 milímetros e 3,099 milímetros.
@@ -461,8 +408,6 @@ D) 4,080.
 E) 4,100.
 
 
-
-
 Questão 165: 
 Em uma de suas viagens, um turista comprou uma lembrança de um dos monumentos que visitou. Na base do objeto há informações dizendo que se trata de uma peça em escala 1 para 400, e que seu volume é de 25 centímetros cúbicos.
 O volume do monumento original, em metro cúbico, é de:
@@ -471,8 +416,6 @@ B) 400.
 C) 1.600.
 D) 6.250.
 E) 10.000.
-
-
 
 
 Questão 166:
@@ -501,8 +444,6 @@ D) IV.
 E) V.
 
 
-
-
 Questão 167:
 O comitê organizador da Copa do Mundo 2014 criou a logomarca da Copa, composta de uma figura plana e o slogan "Juntos num só ritmo", com mãos que se unem formando a taça Fifa. Considere que o comitê organizador resolvesse utilizar todas as cores da bandeira nacional (verde, amarelo, azul e branco) para colorir a logomarca, de forma que regiões vizinhas tenham cores diferentes.
 Descrição da imagem: a taça Fifa formada por três mãos, com os pulsos unidos, partindo da base. As mãos seguram uma superfície esférica sem se interceptarem, formando seis áreas distintas.
@@ -514,8 +455,6 @@ D) 360.
 E) 972.
 
 
-
-
 Questão 168:
 Viveiros de lagostas são construídos, por cooperativas locais de pescadores, em formato de prismas reto-retangulares, fixados ao solo e com telas flexíveis de mesma altura, capazes de suportar a corrosão marinha. Para cada viveiro a ser construído, a cooperativa utiliza integralmente 100 metros lineares dessa tela, que é usada apenas nas laterais.
 Descrição da imagem: prisma reto-retangular com uma região colorida marcando o nível do mar, abaixo da altura do prisma. A base desse prisma tem comprimento igual a X e largura igual a Y.
@@ -525,6 +464,8 @@ B) 1 e 99.
 C) 10 e 10.
 D) 25 e 25.
 E) 50 e 50.
+
+
 Questão 169:
 Para uma temporada das corridas de Fórmula 1, a capacidade do tanque de combustível de cada carro passou a ser de 100 quilogramas de gasolina. Uma equipe optou por utilizar uma gasolina com densidade de 750 gramas por litro, iniciando a corrida com o tanque cheio. Na primeira parada de reabastecimento, um carro dessa equipe apresentou um registro em seu computador de bordo acusando o consumo de quatro décimos da gasolina originalmente existente no tanque. Para minimizar o peso desse carro e garantir o término da corrida, a equipe de apoio reabasteceu o carro com a terça parte do que restou no tanque na chegada ao reabastecimento.
 A quantidade de gasolina utilizada, em litro, no reabastecimento foi:
@@ -533,8 +474,6 @@ B) Fração: 20 no numerador e 0,75 no denominador.
 C) Fração: 20 no numerador e 7,5 no denominador.
 D) 20 vezes 0,075.
 E) 20 vezes 0,75.
-
-
 
 
 Questão 170:
@@ -562,8 +501,6 @@ D) 7,7 por cento.
 E) 7,5 por cento.
 
 
-
-
 Questão 171:
 Numa avenida existem 10 semáforos. Por causa de uma pane no sistema, os semáforos ficaram sem controle durante uma hora, e fixaram suas luzes unicamente em verde ou vermelho. Os semáforos funcionam de forma independente, a probabilidade de acusar a cor verde é de dois terços e a de acusar a cor vermelha é de um terço. Uma pessoa percorreu a pé toda esta avenida durante o período de pane, observando a cor da luz de cada um destes semáforos.
 Qual a probabilidade de que esta pessoa tenha observado exatamente um sinal na cor verde?
@@ -572,8 +509,6 @@ B) Fração: no numerador: 10 vezes 2 elevado a 9; No denominador: 3 elevado a 1
 C) Fração: no numerador: 2 elevado a 10; No denominador: 3 elevado a 100.
 D) Fração: No numerador: 2 elevado a 90; No denominador: 3 elevado a 100.
 E) Fração: No numerador: 2; No denominador: 3 elevado a 10.
-
-
 
 
 Questão 172: 
@@ -588,8 +523,6 @@ D) 523.
 E) 672.
 
 
-
-
 Questão 173: 
 Dois reservatórios A e B são alimentados por bombas distintas por um período de 20 horas. A quantidade de água contida em cada reservatório nesse período pode ser visualizada na figura.
 Descrição da figura: gráfico com o título “Quantidade de água armazenada”. No eixo horizontal encontra-se o tempo, em horas, variando de 0 a 20, em intervalos de 1 em 1 hora. Dois eixos verticais, um à esquerda, representando o reservatório A, varia de 0 a 180 000 com intervalo de 10 000 em 10 000; e um à direita, representando o reservatório B, varia de 0 a 90 000 com intervalo de 10 000 em 10 000. Reservatório A: Formado por cinco segmentos de reta: O primeiro inicia no ponto (0 ; 0) e termina no ponto (4 ; 60 000); o segundo inicia no ponto (4 ; 60 000) e termina no ponto (8 ; 30 000); o terceiro inicia no ponto (8 ; 30 000) e termina no ponto (9; 30 000); o quarto inicia no ponto (9; 30 000) e termina no ponto (19; 180 000) e o quinto inicia no ponto (19 ; 180 000) e termina no ponto (20 ; 180 000). Reservatório B: Formado por cinco segmentos de reta: O primeiro inicia no ponto (0 ; 0) e termina no ponto (4 ; 30 000); o segundo inicia no ponto (4 ; 30 000) e termina no ponto (10 ; 30 000); o terceiro inicia no ponto (10; 30 000) e termina no ponto (16 ; 75 000); o quarto inicia no ponto (16 ; 75 000) e termina no ponto (18; 75 000) e o quinto inicia no ponto (18; 75 000) e termina no ponto (20; 90 000).
@@ -599,8 +532,6 @@ B) 2.
 C) 4.
 D) 5.
 E) 6.
-
-
 
 
 Questão 174:
@@ -621,8 +552,6 @@ D) 15 graus Celsius.
 E) 19 graus Celsius.
 
 
-
-
 Questão 175:
 Pivô central é um sistema de irrigação muito usado na agricultura, em que uma área circular é projetada para receber uma estrutura suspensa. No centro dessa área, há uma tubulação vertical que transmite água através de um cano horizontal longo, apoiado em torres de sustentação, as quais giram, sobre rodas, em torno do centro do pivô, também chamado de base, conforme mostram as figuras. Cada torre move-se com velocidade constante.
 Descrição das figuras: a primeira figura apresenta uma fotografia de um pivô central irrigando uma área de plantação de soja.
@@ -634,8 +563,6 @@ B) 6, 12 e 18.
 C) 2, 4 e 6.
 D) 300, 1.200 e 2.700.
 E) 600, 2.400 e 5.400.
-
-
 
 
 Questão 176:
@@ -651,8 +578,6 @@ D) Fração: no numerador 25 e no denominador 3.
 E)  Fração: no numerador 75 e no denominador 2.
 
 
-
-
 Questão 177: 
 Quanto tempo você fica conectado à internet? Para responder a essa pergunta foi criado um miniaplicativo de computador que roda na área de trabalho, para gerar automaticamente um gráfico de setores, mapeando o tempo que uma pessoa acessa cinco sites visitados. Em um computador, foi observado que houve um aumento significativo do tempo de acesso da sexta-feira para o sábado, nos cinco sites mais acessados. A seguir, temos os dados do miniaplicativo para esses dias. 
 Descrição dos gráficos de setores: T
@@ -664,8 +589,6 @@ B) Y.
 C) Z.
 D) W.
 E) U.
-
-
 
 
 Questão 178:
@@ -682,8 +605,6 @@ D) Fração: no numerador 2 e no denominador 15.
 E) Fração: no numerador 8 e no denominador 35.
 
 
-
-
 Questão 179:
 Um cientista, em seus estudos para modelar a pressão arterial de uma pessoa, utiliza uma função do tipo p det é igual A mais B vezes cosseno abre parêntese k vezes t fecha parêntese em que A, B eK são constantes reais positivas e t representa a variável tempo, medida em segundo. Considere que um batimento cardíaco representa o intervalo de tempo entre duas sucessivas pressões máximas.
 Ao analisar um caso específico, o cientista obteve os dados: 
@@ -696,8 +617,6 @@ B) P de t é igual a 78 mais 42 vezes cosseno abre parêntese 3 vezes pi vezes t
 C) P de t é igual a 99 mais 21 vezes cosseno abre parêntese 2 vezes pi vezes t fecha parêntese.
 D) P de t é igual a 99 mais 21 vezes cosseno abre parêntese t fecha parêntese.
 E) P de té igual a 78 mais 42 vezes cosseno abre parêntese t fecha parêntese.
-
-
 
 
 Questão 180: 

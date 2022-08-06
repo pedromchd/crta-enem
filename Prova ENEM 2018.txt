@@ -3,6 +3,7 @@ MATEMÁTICA E SUAS TECNOLOGIAS
 Questões de 136 a 180
  
 
+
 Questão 136
 Numa atividade de treinamento realizada no Exército de um determinado país, três equipes - Alpha, Beta e Gama – foram designadas a percorrer diferentes caminhos, todos com os mesmos pontos de partida e de chegada.
 * A equipe Alpha realizou seu percurso em 90 minutos com uma velocidade média de 6,0 quilômetros por hora.
@@ -15,7 +16,6 @@ A ordem das distâncias percorridas pelas equipes Alpha, Beta e Gama é
 3. dGama menor que dBeta igual a dAlpha.
 4. dBeta menor que dAlpha menor que dGama.
 5. dGama menor que dAlpha menor que dBeta.
-
 
 
 
@@ -35,6 +35,8 @@ De acordo com o resultado do segundo exame, a classificação da taxa de LDL do 
 3. limite.
 4. alta.
 5. muito alta.
+
+
 Questão 138
 Uma empresa deseja iniciar uma campanha publicitária divulgando uma promoção para seus possíveis consumidores. Para esse tipo de campanha, os meios mais viáveis são a distribuição de panfletos na rua e anúncios na rádio local. Considera-se que a população alcançada pela distribuição de panfletos seja igual à quantidade de panfletos distribuídos, enquanto que a alcançada por um anúncio na rádio seja igual à quantidade de ouvintes desse anúncio. O custo de cada anúncio na rádio é de R$ 120,00, e a estimativa é de que seja ouvido por 1 500 pessoas. Já a produção e a distribuição dos panfletos custam R$ 180,00 cada 1 000 unidades. Considerando que cada pessoa será alcançada por um único desses meios de divulgação, a empresa pretende investir em ambas as mídias.
 Considere X e Y os valores (em real) gastos em anúncios na rádio e com panfletos, respectivamente.
@@ -44,8 +46,6 @@ O número de pessoas alcançadas pela campanha será dado pela expressão
 3. fração de numerador 4 vezes X e denominador 50, mais fração de numerador 4 vezes Y e denominador 50.
 4. fração de numerador 50 e denominador 4 vezes X, mais fração de numerador 50 e denominador 9 vezes Y.
 5. fração de numerador 50 e denominador 9 vezes X, mais fração de numerador 50 vezes Ye denominador 4 vezes Y.
-
-
 
 
 Questão 139
@@ -62,8 +62,6 @@ O tipo de triângulo com vértices nos pontos A, B e C, no momento em que o rema
 5. obtusângulo isosceles.
 
 
-
-
 Questão 140
 Um rapaz estuda em uma escola que fica longe de sua casa, e por isso precisa utilizar o transporte público. Como é muito observador, todos os dias ele anota a hora exata (sem considerar os segundos) em que o ônibus passa pelo ponto de espera. Também notou que nunca consegue chegar ao ponto de ônibus antes de 6 horas e 15 minutos da manhã. Analisando os dados coletados durante o mês de fevereiro, o qual teve 21 dias letivos, ele concluiu que 6 horas e 21 minutos foi o que mais se repetiu, e que a mediana do conjunto de dados é 6 horas e 22 minutos.
  A probabilidade de que, em algum dos dias letivos de fevereiro, esse rapaz tenha apanhado o ônibus antes de 6 horas e 21 minutos da manhã é, no máximo,
@@ -72,6 +70,7 @@ Um rapaz estuda em uma escola que fica longe de sua casa, e por isso precisa uti
 3. fração de numerador 6 e denominador 21.
 4. fração de numerador 7 e denominador 21.
 5. fração de numerador 8 e denominador 21.
+
 
 Questão 141
 Um mapa é a representação reduzida e simplificada de uma localidade. Essa redução, que é feita com o uso de uma escala, mantém a proporção do espaço representado em relação ao espaço real.
@@ -112,8 +111,6 @@ Qual teria sido a cobertura dessa campanha no ano de 2014?
 ________________
 
 
-
-
 Questão 144
 Uma empresa de comunicação tem a tarefa de elaborar um material publicitário de um estaleiro para divulgar um novo navio, equipado com um guindaste de 15 metros de altura e uma esteira de 90 metros de comprimento. No desenho desse navio, a representação do guindaste deve ter sua altura entre 0,5 centímetro e 1 centímetro, enquanto a esteira deve apresentar comprimento superior a 4 centímetros.
 Todo o desenho deverá ser feito em uma escala 1 para X.
@@ -151,8 +148,6 @@ O número racional que expressa a participação de Carlos na composição das m
 5. fração de numerador 2 e denominador 9.
 
 
-
-
 Questão 147
 De acordo com um relatório recente da Agência Internacional de Energia (AIE), o mercado de veículos elétricos atingiu um novo marco em 2016, quando foram vendidos mais de 750 mil automóveis da categoria. Com isso, o total de carros elétricos vendidos no mundo alcançou a marca de 2 milhões de unidades desde que os primeiros modelos começaram a ser comercializados em 2011.
 No Brasil, a expansão das vendas também se verifica. A marca A, por exemplo, expandiu suas vendas no ano de 2016, superando em 360 unidades as vendas de 2015, conforme representado no gráfico.
@@ -170,8 +165,6 @@ A média anual do número de carros vendidos pela marca A, nos anos representado
 ________________
 
 
-
-
 Questão 148
 Para apagar os focos A e B de um incêndio, que estavam a uma distância de 30 metros um do outro, os bombeiros de um quartel decidiram se posicionar de modo que a distância de um bombeiro ao foco A, de temperatura mais elevada, fosse sempre o dobro da distância desse bombeiro ao foco B, de temperatura menos elevada.
 Nestas condições, a maior distância, em metro, que dois bombeiros poderiam ter entre eles é
@@ -180,6 +173,7 @@ Nestas condições, a maior distância, em metro, que dois bombeiros poderiam te
 3. 45.
 4. 60.
 5. 68.
+
 
 Questão 149
 Torneios de tênis, em geral, são disputados em sistema de eliminatória simples. Nesse sistema, são disputadas partidas entre dois competidores, com a eliminação do perdedor e promoção do vencedor para a fase seguinte. Dessa forma, se na primeira fase o torneio conta com 2n competidores, então na segunda fase restarão n competidores, e assim sucessivamente até a partida final.
@@ -202,6 +196,7 @@ Após o benefício da redução de pena, sua pena poderá variar de
 4. 4 anos e 2 meses a 5 anos.
 5. 4 anos e 2 meses a 12 anos e 6 meses.
 
+
 Questão 151
 De acordo com a Lei Universal da Gravitação, proposta por Isaac Newton, a intensidade da força gravitacional F que a Terra exerce sobre um satélite em órbita circular é proporcional à massa m do satélite e inversamente proporcional ao quadrado do raio r da órbita, ou seja, Fé igual a fração de numerador k vezes me denominador r elevado ao quadrado.
 No plano cartesiano, três satélites, A, B e C, estão representados, cada um, por um ponto (m ; r) cujas coordenadas são, respectivamente, a massa do satélite e o raio da sua órbita em torno da Terra.
@@ -215,6 +210,7 @@ As intensidades, F índice A, F índice B e F índice C expressas no gráfico sa
 4. F índice A menor que F índice C menor que F índice B.
 5. F índice C menor que F índice A menor que F índice B.
 
+
 Questão 152 
 Os tipos de prata normalmente vendidos são 975, 950 e 925. Essa classificação é feita de acordo com a sua pureza.
 Por exemplo, a prata 975 é a substância constituída de 975 partes de prata pura e 25 partes de cobre em 1 000 partes da substância. Já a prata 950 é constituída de 950 partes de prata pura e 50 de cobre em 1 000; e a prata 925 é constituída de 925 partes de prata pura e 75 partes de cobre em 1 000.
@@ -225,6 +221,7 @@ Nessas condições, quantos gramas de prata e de cobre, respectivamente, devem s
 3. 28,50 e 1,50
 4. 27,75 e 2,25
 5. 25,00 e 5,00
+
 
 Questão 153
 Em um aeroporto, os passageiros devem submeter suas bagagens a uma das cinco máquinas de raio-X disponíveis ao adentrarem a sala de embarque. Num dado instante, o tempo gasto por essas máquinas para escanear a bagagem de cada passageiro e o número de pessoas presentes em cada fila estão apresentados em um painel, como mostrado na figura.
@@ -241,6 +238,7 @@ Um passageiro, ao chegar à sala de embarque desse aeroporto no instante indicad
 3. 3.
 4. 4.
 5. 5.
+
 
 Questão 154
 A Comissão Interna de Prevenção de Acidentes (CIPA) de uma empresa, observando os altos custos com os frequentes acidentes de trabalho ocorridos, fez, a pedido da diretoria, uma pesquisa do número de acidentes sofridos por funcionários. Essa pesquisa, realizada com uma amostra de 100 funcionários, norteará as ações da empresa na política de segurança no trabalho.
@@ -277,6 +275,7 @@ Qual mudança de sentido o controlador deve efetuar para reposicionar a câmera?
 4. 135 graus no sentido anti-horário.
 5. 165 graus no sentido horário.
 
+
 QUESTÃO 156
 Na teoria das eleições, o Método de Borda sugere que, em vez de escolher um candidato, cada juiz deve criar um ranking de sua preferência para os concorrentes (isto é, criar uma lista com a ordem de classificação dos concorrentes). A este ranking é associada uma pontuação: um ponto para o último colocado no ranking, dois pontos para o penúltimo, três para o antepenúltimo, e assim sucessivamente. Ao final, soma-se a pontuação atribuída a cada concorrente por cada um dos juízes.
 Em uma escola houve um concurso de poesia no qual cinco alunos concorreram a um prêmio, sendo julgados por 25 juízes. Para a escolha da poesia vencedora foi utilizado o Método de Borda. Nos quadros, estão apresentados os rankings dos juízes e a frequência de cada ranking.
@@ -299,6 +298,7 @@ A poesia vencedora foi a de
 4. Bia.
 5. Ana.
 
+
 Questão 157
 Sobre um sistema cartesiano considera-se uma malha formada por circunferências de raios com medidas dadas por números naturais e por 12 semirretas com extremidades na origem, separadas por ângulos de fração de numerador pi e denominador seis radianos, conforme a figura.
 Descrição da figura:
@@ -311,6 +311,7 @@ Para realizar o percurso mais curto possível ao longo da malha, do ponto B até
 3. abre parêntese fração de numerador 2 vezes pi vezes 3 e denominador 3 fecha parêntese, mais 4.
 4. abre parêntese fração de numerador 2 vezes pi vezes 4 e denominador 3 fecha parêntese, mais 2.
 5. abre parêntese fração de numerador 2 vezes pi vezes 5 e denominador 3 fecha parêntese, mais 2.
+
 
 QUESTÃO 158
 Um artesão possui potes cilíndricos de tinta cujas medidas externas são 4 centímetros de diâmetro e 6 centímetros de altura. Ele pretende adquirir caixas organizadoras para armazenar seus potes de tinta, empilhados verticalmente com tampas voltadas para cima, de forma que as caixas possam ser fechadas.
@@ -330,6 +331,7 @@ Qual desses modelos o artesão deve adquirir para conseguir armazenar o maior n�
 4. IV
 5. V
 
+
 Questão 159
 A prefeitura de um pequeno município do interior decide colocar postes para iluminação ao longo de uma estrada retilínea, que inicia em uma praça central e termina numa fazenda na zona rural. Como a praça já possui iluminação, o primeiro poste será colocado a 80 metros da praça, o segundo, a 100 metros, o terceiro, a 120 metros, e assim sucessivamente, mantendo-se sempre uma distância de vinte metros entre os postes, até que o último poste seja colocado a uma distância de 1 380 metros da praça.
 Se a prefeitura pode pagar, no máximo, R$ 8 000,00 por poste colocado, o maior valor que poderá gastar com a colocação desses postes é
@@ -338,6 +340,7 @@ Se a prefeitura pode pagar, no máximo, R$ 8 000,00 por poste colocado, o maior 
 3. R$ 528 000,00.
 4. R$ 552 000,00.
 5. R$ 584 000,00.
+
 
 Questão 160
 Um edifício tem a numeração dos andares iniciando no térreo (T), e continuando com primeiro, segundo, terceiro, ..., até o último andar. Uma criança entrou no elevador e, tocando no painel, seguiu uma sequência de andares, parando, abrindo e fechando a porta em diversos andares. A partir de onde entrou a criança, o elevador subiu sete andares, em seguida desceu dez, desceu mais treze, subiu nove, desceu quatro e parou no quinto andar, finalizando a sequência. Considere que, no trajeto seguido pela criança, o elevador parou uma vez no último andar do edifício.
@@ -360,6 +363,7 @@ Uma expressão que fornece a quantidade de maneiras diferentes que os estandes p
 4. arranjo de 4 elementos tomados 2 a 2 vezes arranjo de 6 elementos tomados 2 a 2 vezes 2 vezes 2.
 5. combinação de 4 elementos tomados 2 a 2 vezes combinação de 6 elementos tomados 2 a 2.
 
+
 Questão 162
 Os alunos da disciplina de estatística, em um curso universitário, realizam quatro avaliações por semestre com os pesos de 20 por cento, 10 por cento, 30 por cento e 40 por cento, respectivamente. No final do semestre, precisam obter uma média nas quatro avaliações de, no mínimo, 60 pontos para serem aprovados. Um estudante dessa disciplina obteve os seguintes pontos nas três primeiras avaliações: 46, 60 e 50, respectivamente. 
 O mínimo de pontos que esse estudante precisa obter na quarta avaliação para ser aprovado é:
@@ -368,6 +372,7 @@ O mínimo de pontos que esse estudante precisa obter na quarta avaliação para 
 3. 74,5.
 4. 75,5.
 5. 84,0.
+
 
 QUESTÃO 163
 O gerente do setor de recursos humanos de uma empresa está organizando uma avaliação em que uma das etapas é um jogo de perguntas e respostas. Para essa etapa, ele classificou as perguntas, pelo nível de dificuldade, em fácil, médio e difícil, e escreveu cada pergunta em cartões para colocação em uma urna.
@@ -378,6 +383,7 @@ Com essas informações, a quantidade de perguntas de nível fácil que o gerent
 3. 35.
 4. 40.
 5. 45.
+
 
 QUESTÃO 164
 A Transferência Eletrônica Disponível (TED) é uma transação financeira de valores entre diferentes bancos. Um economista decide analisar os valores enviados por meio de TEDs entre cinco bancos (1, 2, 3, 4 e 5) durante um mês. Para isso, ele dispõe esses valores em uma matriz A é igual abre colchete, a índice i j fecha colchete, em que 1 é menor ou igual a i e menor ou igual a 5 e 1 é menor ou igual a j e menor ou igual a 5, e o elemento a índice i j corresponde ao total proveniente das operações feitas via TED, em milhão de real, transferidos do banco i para o banco j durante o mês. Observe que o elemento a índice i i é igual a zero, uma vez que TED é uma transferência entre bancos distintos.
@@ -394,6 +400,7 @@ Com base nessas informações, o banco que transferiu a maior quantia via TED é
 3. 3.
 4. 4.
 5. 5.
+
 
 Questão 165
 Um contrato de empréstimo prevê que quando uma parcela é paga de forma antecipada, conceder-se-á uma redução de juros de acordo com o período de antecipação.
@@ -420,9 +427,6 @@ Passando pelo ponto A, qual equação forneceria a maior pontuação?
 5. abre parêntese x menos 2 fecha parêntese elevado ao quadrado mais abre parêntese y menos 2 fecha parêntese elevado ao quadrado é igual a 8.
 ________________
 
-
-
-
 Questão 167
 Devido ao não cumprimento das metas definidas para a campanha de vacinação contra a gripe comum e o vírus H1N1 em um ano, o Ministério da Saúde anunciou a prorrogação da campanha por mais uma semana. A tabela apresenta as quantidades de pessoas vacinadas dentre os cinco grupos de risco até a data de início da prorrogação da campanha.
 Descrição da tabela:
@@ -436,6 +440,7 @@ Qual é a porcentagem do total de pessoas desses grupos de risco já vacinadas?
 3. 30
 4. 40
 5. 50
+
 
 Questão 168
 Durante uma festa de colégio, um grupo de alunos organizou uma rifa. Oitenta alunos faltaram à festa e não participaram da rifa. Entre os que compareceram, alguns compraram três bilhetes, 45 compraram 2 bilhetes, e muitos compraram apenas um. O total de alunos que comprou um único bilhete era 20 por cento do número total de bilhetes vendidos, e o total de bilhetes vendidos excedeu em 33 o número total de alunos do colégio. 
@@ -472,9 +477,6 @@ O valor da medida da altura do cilindro, em centímetro, é:
 5. 72.
 ________________
 
-
-
-
 Questão 171
 Com o avanço em ciência da computação, estamos próximos do momento em que o número de transistores no processador de um computador pessoal será da mesma ordem de grandeza que o número de neurônios em um cérebro humano, que é da ordem de 100 bilhões.
 Uma das grandezas determinantes para o desempenho de um processador é a densidade de transistores, que é o número de transistores por centímetro quadrado. Em 1986, uma empresa fabricava um processador contendo 100 000 transistores distribuídos em 0,25 centímetro quadrado de área. Desde então, o número de transistores por centímetro quadrado que se pode colocar em um processador dobra a cada dois anos(Lei de Moore).
@@ -486,6 +488,7 @@ Considere 0,30 como aproximação para logaritmo de 2 na base 10.
 4. 2026
 5. 2146
 
+
 Questão 172
 Uma loja vende automóveis em N parcelas iguais sem juros. No momento de contratar o financiamento, caso o cliente queira aumentar o prazo, acrescentando mais 5 parcelas, o valor de cada uma das parcelas diminui R$ 200,00, ou se ele quiser diminuir o prazo, com 4 parcelas a menos, o valor de cada uma das parcelas sobe R$ 232,00. Considere ainda que, nas três possibilidades de pagamento, o valor do automóvel é o mesmo, todas são sem juros e não é dado desconto em nenhuma das situações. 
 Nessas condições, qual é a quantidade N de parcelas a serem pagas de acordo com a proposta inicial da loja?
@@ -494,6 +497,7 @@ Nessas condições, qual é a quantidade N de parcelas a serem pagas de acordo c
 3. 29
 4. 40
 5. 58
+
 
 Questão 173
 O salto ornamental é um esporte em que cada competidor realiza seis saltos. A nota em cada salto é calculada pela soma das notas dos juízes, multiplicada pela nota de partida (o grau de dificuldade de cada salto). Fica em primeiro lugar o atleta que obtiver a maior soma das seis notas recebidas.
@@ -520,6 +524,7 @@ Considerando essas condições, o salto que o atleta deverá escolher é o de ti
 4. T4.
 5. T5.
 
+
 Questão 174
 Os guindastes são fundamentais em canteiros de obras, no manejo de materiais pesados como vigas de aço. A figura ilustra uma sequência de estágios em que um guindaste iça uma viga de aço que se encontra inicialmente no solo.
 Descrição da figura:
@@ -535,7 +540,10 @@ Os eixos cartesianos se interceptam na origem. O eixo horizontal representa o te
 4. Descrição do gráfico: 
 Os eixos cartesianos se interceptam na origem. O eixo horizontal representa o tempo e o eixo vertical, a distância. O gráfico é uma curva com a concavidade voltada para baixo com uma das extremidades sobre o eixo vertical e a outra num ponto de abscissa tempo índice f.
 5. Descrição do gráfico: 
-Os eixos cartesianos se interceptam na origem. O eixo horizontal representa o tempo e o eixo vertical, a distância. O gráfico é uma curva com a concavidade voltada para cima com uma das extremidades sobre o eixo vertical e a outra num ponto de abscissa tempo índice f.Questão 175
+Os eixos cartesianos se interceptam na origem. O eixo horizontal representa o tempo e o eixo vertical, a distância. O gráfico é uma curva com a concavidade voltada para cima com uma das extremidades sobre o eixo vertical e a outra num ponto de abscissa tempo índice f.
+
+
+Questão 175
 A inclinação de uma rampa é calculada da seguinte maneira: para cada metro medido na horizontal, mede-se x centímetros na vertical. Diz-se, nesse caso, que a rampa tem inclinação de x por cento como no exemplo da figura:
 Descrição da figura:
 A figura mostra um triângulo retângulo com o lado horizontal medindo 1 metro, o lado vertical medindo 20 centímetros. Ao lado está escrito: Inclinação é igual a vinte por cento.
@@ -570,6 +578,7 @@ Opção 5 - Passar, aleatoriamente, uma bola da urna C para a urna D; após isso
 4. 4.
 5. 5.
 
+
 Questão 177
 A Ecofont possui design baseado na velha fonte Vera Sans. Porém, ela tem um diferencial: pequenos buraquinhos circulares congruentes, e em todo o seu corpo, presentes em cada símbolo. Esses furos proporcionam um gasto de tinta menor na hora da impressão.
 Descrição da figura:
@@ -585,6 +594,7 @@ Nessas condições, o tamanho adequado da fonte será
 4. 21.
 5. 12.
 
+
 Questão 178
 Para criar um logotipo, um profissional da área de design gráfico deseja construí-lo utilizando o conjunto de pontos do plano na forma de um triângulo, exatamente como mostra a imagem.
 Descrição da imagem:
@@ -595,6 +605,7 @@ Para construir tal imagem utilizando uma ferramenta gráfica, será necessário 
 3. zero menor ou igual a x menor ou igual a 10, zero menor ou igual a y menor ou igual a 10.
 4. zero menor ou igual a x mais y menor ou igual a 10.
 5.  zero menor ou igual a x mais y menor ou igual a 20.
+
 
 Questão 179
 A figura mostra uma praça circular que contém um chafariz em seu centro e, em seu entorno, um passeio. Os círculos que definem a praça e o chafariz são concêntricos.
