@@ -692,8 +692,7 @@ export const questoes= [
             
                         
     ],
-    correta: 2
-        
+    correta: 2  
     },
            
     //Questão 43 - 178
