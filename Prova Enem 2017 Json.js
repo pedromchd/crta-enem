@@ -210,8 +210,7 @@ export const questoes= [
     },
     
     
-  //Questão 14 - 149
-    
+    //Questão 14 - 149 
     {
     enunciado: 'Um brinquedo infantil caminhão-cegonha é formado por uma carreta e dez carrinhos nela transportados, conforme a figura.Descrição da figura: a figura apresenta um caminhão-cegonha carregado com dez carrinhos, dispostos da seguinte maneira: quatro carrinhos na parte superior, três carrinhos na parte intermediária e três carrinhos na parte inferior.No setor de produção da empresa que fabrica esse brinquedo, é feita a pintura de todos os carrinhos para que o aspecto do brinquedo fique mais atraente. São utilizadas as cores amarelo, branco, laranja e verde, e cada carrinho é pintado apenas com uma cor. O caminhão-cegonha tem uma cor fixa. A empresa determinou que em todo caminhão-cegonha deve haver pelo menos um carrinho de cada uma das quatro cores disponíveis. Mudança de posição dos carrinhos no caminhão-cegonha não gera um novo modelo do brinquedo.Com base nessas informações, quantos são os modelos distintos do brinquedo caminhão-cegonha que essa empresa poderá produzir?',
     
@@ -607,8 +606,8 @@ export const questoes= [
         'E) 6.'
               
         
-            ],
-            correta: 1
+        ],
+        correta: 1
 
     },
    
