@@ -325,15 +325,13 @@ export const questoes= [
     {
 
     enunciado: 'Uma pessoa , que perdeu um objeto pessoal quando visitou uma cidade, pretende divulgar nos meios de comunicação informações a respeito da perda desse objeto e de seu contato para eventual devolução. No entanto, ela lembra que, de acordo com o Artigo 1.234 do Código Civil, poderá ter que pagar pelas despesas do transporte desse objeto até sua cidade e poderá ter que recompensar a pessoa que lhe restituir o objeto em, pelo menos, 5 por cento do valor do objeto.Ela sabe que o custo com o transporte será de um quinto do valor atual do objeto e, como ela tem muito interesse em reavê-lo, pretende ofertar o maior percentual possível de recompensa, desde que o gasto total com as despesas não ultrapassem o valor atual do objeto.Nessas condições, o percentual sobre o valor do objeto, dado como recompensa, que ela deverá ofertar é igual a:',
+    
     alternativas: [
-    
-    
-    'A) 20 por cento.',
+    'A) A) 20 por cento.',
     'B) 25 por cento.',
     'C) 40 por cento.',
     'D) 60 por cento.',
-    'E) 80 por cento.'
-    
+    'E) 80 por cento.'   
     
     ],
     correta:2
@@ -346,7 +344,7 @@ export const questoes= [
     enunciado: 'O dono de um restaurante situado às margens de uma rodovia percebeu que, ao colocar uma placa de propaganda de seu restaurante ao longo da rodovia, as vendas aumentaram. Pesquisou junto aos seus clientes e concluiu que a probabilidade de um motorista perceber uma placa de anúncio é fração numerador 1 e denominador 2.Com isso, após autorização do órgão competente, decidiu instalar novas placas com anúncios de seu restaurante ao longo dessa rodovia, de maneira que a probabilidade de um motorista perceber pelo menos uma das placas instaladas fosse superior à fração numerador 99 e denominador 100.A quantidade mínima de novas placas de propaganda a serem instaladas é:',
     
     alternativas: [
-    'A) 99.',
+    'A) A) 99.',
     'B) 51.',
     'C) 50.',
     'D) 6.',
@@ -390,7 +388,6 @@ export const questoes= [
     
     //Questão 22 157
     {
-
     enunciado: 'O Sistema Métrico Decimal é o mais utilizado atualmente para medir comprimentos e distâncias. Em algumas atividades, porém, é possível observar a utilização de diferentes unidades de medida. Um exemplo disso pode ser observado no quadro.Descrição do quadro: o quadro mostra a equivalência das seguintes unidades:Polegada: 2,54 centímetros; Jarda: 3 pés e Jarda: 0,9144 metros.Assim, um pé, em polegada, equivale a:',
     
     alternativas: [
@@ -402,17 +399,15 @@ export const questoes= [
     'E) 36,0000.'
     
     
-    
-],
-
+    ],
     correta: 1
     },
     
     
     //Questão 23 158
-
     {
-    enunciado: 'O Índice de Desenvolvimento Humano (IDH) é uma medida usada para classificar os países pelo seu grau de desenvolvimento. Para seu cálculo, são levados em consideração a expectativa de vida ao nascer, tempo de escolaridade e renda per capita, entre outros. O menor valor deste índice é zero e o maior é um. Cinco países foram avaliados e obtiveram os seguintes índices de desenvolvimento humano: o primeiro país recebeu um valor X, o segundo, raiz quadrada de X, o terceiro, X elevado a 1 sobre 3, o quarto, X elevado ao quadrado e o último, X elevado ao cubo. Nenhum desses países zerou ou atingiu o índice máximo. Qual desses países obteve o maior IDH?
+    enunciado: 'O Índice de Desenvolvimento Humano (IDH) é uma medida usada para classificar os países pelo seu grau de desenvolvimento. Para seu cálculo, são levados em consideração a expectativa de vida ao nascer, tempo de escolaridade e renda per capita, entre outros. O menor valor deste índice é zero e o maior é um. Cinco países foram avaliados e obtiveram os seguintes índices de desenvolvimento humano: o primeiro país recebeu um valor X, o segundo, raiz quadrada de X, o terceiro, X elevado a 1 sobre 3, o quarto, X elevado ao quadrado e o último, X elevado ao cubo. Nenhum desses países zerou ou atingiu o índice máximo. Qual desses países obteve o maior IDH?',
+    
     alternativas: [
     'A) O primeiro.',
     'B) O segundo.',
@@ -421,7 +416,6 @@ export const questoes= [
     'E) O quinto.'
     
     
-
     ],
     correta: 4
     },
@@ -438,12 +432,10 @@ export const questoes= [
     'D) Dez caminhões com capacidade máxima de 2 metros cúbicos.',
     'E) Um caminhão com capacidade máxima de 2 metros cúbicos.'
     
-    
-
     ],
     correta: 3
     },
-    //////////parei aqui
+   
     //Questão 25 - 160
     {
     enunciado: 'O  álcool é um depressor do sistema nervoso central e age diretamente em diversos órgãos. A concentração de álcool no sangue pode ser entendida como a razão entre a quantidade q de álcool ingerido, medida em grama, e o volume de sangue, em litro, presente no organismo do indivíduo. Em geral, considera-se que esse volume corresponda ao valor numérico dado por 8 por cento da massa corporal m desse individuo, medida em quilograma.De acordo com a Associação Médica Americana, uma concentração alcoólica superior a 0,4 grama por litro de sangue é capaz de trazer prejuízos à saúde do indivíduo.A expressão relacionando q em que representa a concentração alcoólica prejudicial à saúde do indivíduo, de acordo com a Associação Médica Americana, é:',
@@ -455,16 +447,13 @@ export const questoes= [
     'C) Fração numerador q e denominador 0,4 vezes m, é maior que 0,8.',
     'D) Fração numerador 0,08 vezes me denominador q, é maior que 0,4.',
     'E) Fração numerador q e denominador 0,08 vezes m, é maior que 0,4.'
-    
      
 
     ],
     correta: 3
-
     },
 
     //Questão 26 - 161
-
     {
     enunciado: 'Construir figuras de diversos tipos, apenas dobrando e cortando papel, sem cola e sem tesoura, é a arte do origami (ori é igual dobrar; kami é igual papel), que tem um significado altamente simbólico no Japão. A base do origami é o conhecimento do mundo por base do tato. Uma jovem resolveu construir um cisne usando a técnica do origami, utilizando uma folha de papel de 18 centímetros por 12 centímetros. Assim, começou por dobrar a folha conforme a figura.Descrição da figura: a figura mostra um retângulo ABCD, com os lados AB e CD medindo 18 centímetros e os lados AD e BC medindo 12 centímetros. No lado CD tem um ponto E, o segmento CE é igual a 12 centímetros. A partir do ponto E foi feita uma dobra do vértice D para o interior do retângulo, formando um triângulo retângulo ADE. O lado AE é oposto ao ângulo de 90 graus, os lados AD e DE são adjacentes ao ângulo de 90 graus.Após essa primeira dobradura, a medida do segmento AE é:', 
     
@@ -476,8 +465,8 @@ export const questoes= [
     'E) 12 vezes raiz quadrada de 2 centímetros.'
     
 
-        ],
-        correta: 3
+    ],
+    correta: 3
     },
 
     //Questão 27  - 162
@@ -492,358 +481,324 @@ export const questoes= [
     'D) Futebol, futebol, futebol, basquete.',
     'E) Futebol, futebol, futebol, futebol. '
     
-  
-
-    
    
     ],
-
-        correta: 3
-        },
-
+    correta: 3
+    },
 
 
     //Questão 28 - 163   
     {
-        enunciado: 'Uma empresa tem diversos funcionários. Um deles é o gerente, que recebe R$ 1.000,00 por semana. Os outros funcionários são diaristas. Cada um deles trabalha 2 dias por semana, recebendo R$ 80,00 por dia trabalhado.Chamando de X a quantidade total de funcionários da empresa, a quantia Y, em reais, que esta empresa gasta semanalmente para pagar seus funcionários é expressa por:
+    enunciado: 'Uma empresa tem diversos funcionários. Um deles é o gerente, que recebe R$ 1.000,00 por semana. Os outros funcionários são diaristas. Cada um deles trabalha 2 dias por semana, recebendo R$ 80,00 por dia trabalhado.Chamando de X a quantidade total de funcionários da empresa, a quantia Y, em reais, que esta empresa gasta semanalmente para pagar seus funcionários é expressa por:',
         
-        alternativas: [
-        'A) Y é igual a 80X mais 920.',
-        'B) Y é igual a 80X mais 1.000.',
-        'C) Y é igual a 80X mais 1.080.',
-        'D) Y é igual a 160X mais 840.',
-        'E) Y é igual a 160X mais 1 000.'
+    alternativas: [
+    'A) Y é igual a 80X mais 920.',
+    'B) Y é igual a 80X mais 1.000.',
+    'C) Y é igual a 80X mais 1.080.',
+    'D) Y é igual a 160X mais 840.',
+    'E) Y é igual a 160X mais 1 000.'
          
     
-            ],
-        correta: 4
+    ],
+    correta: 4
 
     },
    
     //Questão 29 - 164
     {
-        enunciado: 'Um aplicativo de relacionamentos funciona da seguinte forma: o usuário cria um perfil com foto e informações pessoais, indica as características dos usuários com quem deseja estabelecer contato e determina um raio de abrangência a partir da sua localização. O aplicativo identifica as pessoas que se encaixam no perfil desejado e que estão a uma distância do usuário menor ou igual ao raio de abrangência. Caso dois usuários tenham perfis compatíveis e estejam numa região de abrangência comum a ambos, o aplicativo promove o contato entre os usuários, o que é chamado de match.O usuário P define um raio de abrangência com medida de 3 quilômetros e busca ampliar a possibilidade de obter um match se deslocando para a região central da cidade, que concentra um maior número de usuários. O gráfico ilustra alguns bares que o usuário P costuma frequentar para ativar o aplicativo, indicados por um, dois, três, quatro e cinco. Sabe-se que os usuários Q, Res, cujas posições estão descritas pelo gráfico, são compatíveis com o usuário P, e que estes definiram raios de abrangência respectivamente iguais a 3 quilômetros, 2 quilômetros e 5 quilômetros.Descrição do gráfico: plano cartesiano onde os eixos x e y representam os números, em quilômetro. O gráfico tem os seguintes pontos:O ponto P está localizado nas coordenadas (0; 0).O ponto Q está localizado nas coordenadas (3 ; 7).O ponto R está localizado nas coordenadas (6 ; 7).O ponto S está localizado nas coordenadas (5 ; 3).O ponto um está localizado nas coordenadas (5 ; 6).O ponto dois está localizado nas coordenadas (4;5).O ponto três está localizado nas coordenadas (5; 5).O ponto quatro está localizado nas coordenadas (4 ; 6).O ponto cinco está localizado nas coordenadas (3 ; 4).Com base no gráfico e nas afirmações anteriores, em qual bar o usuário P teria a possibilidade de um match com os usuários Q, R e S, simultaneamente? ',
+    enunciado: 'Um aplicativo de relacionamentos funciona da seguinte forma: o usuário cria um perfil com foto e informações pessoais, indica as características dos usuários com quem deseja estabelecer contato e determina um raio de abrangência a partir da sua localização. O aplicativo identifica as pessoas que se encaixam no perfil desejado e que estão a uma distância do usuário menor ou igual ao raio de abrangência. Caso dois usuários tenham perfis compatíveis e estejam numa região de abrangência comum a ambos, o aplicativo promove o contato entre os usuários, o que é chamado de match.O usuário P define um raio de abrangência com medida de 3 quilômetros e busca ampliar a possibilidade de obter um match se deslocando para a região central da cidade, que concentra um maior número de usuários. O gráfico ilustra alguns bares que o usuário P costuma frequentar para ativar o aplicativo, indicados por um, dois, três, quatro e cinco. Sabe-se que os usuários Q, Res, cujas posições estão descritas pelo gráfico, são compatíveis com o usuário P, e que estes definiram raios de abrangência respectivamente iguais a 3 quilômetros, 2 quilômetros e 5 quilômetros.Descrição do gráfico: plano cartesiano onde os eixos x e y representam os números, em quilômetro. O gráfico tem os seguintes pontos:O ponto P está localizado nas coordenadas (0; 0).O ponto Q está localizado nas coordenadas (3 ; 7).O ponto R está localizado nas coordenadas (6 ; 7).O ponto S está localizado nas coordenadas (5 ; 3).O ponto um está localizado nas coordenadas (5 ; 6).O ponto dois está localizado nas coordenadas (4;5).O ponto três está localizado nas coordenadas (5; 5).O ponto quatro está localizado nas coordenadas (4 ; 6).O ponto cinco está localizado nas coordenadas (3 ; 4).Com base no gráfico e nas afirmações anteriores, em qual bar o usuário P teria a possibilidade de um match com os usuários Q, R e S, simultaneamente? ',
         
-        alternativas: [
+    alternativas: [
         
-        'A) Um.',
-        'B) Dois.',
-        'C) Três.',
-        'D) Quatro.',   
-        'E) Cinco.'
+    'A) Um.',
+    'B) Dois.',
+    'C) Três.',
+    'D) Quatro.',   
+    'E) Cinco.'
         
            
     ],
-        correta: 1
+    correta: 1
 
     },
 
-
+   
     //Questão 30 - 165
-
     {
-        enunciado: 'Um contrato de empréstimo prevê que quando uma parcela é paga de forma antecipada, conceder-se-á uma redução de juros de acordo com o período de antecipação.Nesse caso, paga-se o valor presente, que é o valor, naquele momento, de uma quantia que deveria ser paga a em uma data futura. Um valor presente P submetido a juros compostos com taxa i, por um período de tempo n, produz um valor futuro V determinado pela fórmula V é igual a P vezes abre parêntese 1 mais i fecha  parêntese elevado a nEm um contrato de empréstimo com sessenta parcelas fixas mensais, de R$ 820,00, a uma taxa de juros de 1,32 por cento ao mês, junto com a trigésima  parcela será paga antecipadamente uma outra parcela, desde que o desconto seja superior a 25 por cento do valor da parcela.Utilize 0,2877 como aproximação para logaritmo  neperiano da fração numerador 4 e denominador 3 e 0,0131 como aproximação para logaritmo neperiano de 1,0132.A primeira das parcelas que poderá ser antecipada junto com a trigésima é a ',
+    enunciado: 'A bula de um antibiótico infantil, fabricado na forma de xarope, recomenda que sejam ministrados, diariamente, no máximo 500 miligramas desse medicamento para cada quilograma de massa do paciente. Um pediatra prescreveu  a dosagem máxima desse antibiótico para ser ministrada diariamente a uma criança de 20 quilogramas pelo período de 5 dias. Esse medicamento pode ser comprado em frascos de 10 mililitros, 50 mililitros, 100 mililitros,250 mililitros e 500 mililitros. Os pais dessa criança decidiram comprar a quantidade exata de medicamento que precisará ser ministrada no tratamento, evitando a sobra de medicamento. Considere que 1 grama desse medicamento ocupe um volume de 1 centímetro cúbico. A capacidade do frasco, em mililitro, que esses pais deverão comprar é ',
         
-        alternativas: [
+    alternativas: [
             
-        '1. quinquagésima sexta.',
-        '2. quinquagésima quinta.',
-        '3. quinquagésima segunda.',
-        '4. quinquagésima primeira.',
-        '5. quadragésima quinta.'
-        
-               
-        
-            ],
-            correta: 3
+    '1. 10.',
+    '2. 50.',
+    '3. 100.',
+    '4. 250',
+    '5. 500.'
+    
+                    
+    ],
+    correta: 3
 
     },
    
 
     //Questão 31 - 166
-
-
     {
-    enunciado: 'Um jogo pedagógico utiliza-se de uma interface algébrico-geométrica do seguinte modo: os alunos devem eliminar os pontos do plano cartesiano dando "tiros", seguindo trajetórias que devem passar pelos pontos escolhidos. Para dar os tiros, o aluno deve escrever em uma janela do programa a equação cartesiana de um reta ou de uma circunferência que passa pelos pontos e pela origem do sistema de coordenadas. Se o tiro for dado por meio da equação da circunferência, cada ponto diferente da origem que for atingido vale 2 pontos. Se o tiro for dado por meio da equação de uma reta, cada ponto diferente da origem que for atingido vale 1 ponto. Em uma situação de jogo, ainda restam os seguintes pontos para serem eliminados: A(0 ; 4), B(4 ; 4), C(4 ; 0), D(2; 2) e E(0; 2). Descrição do plano cartesiano: No eixo horizontal (x) estão marcados os pontos: 0, 1, 2, 3, 4, 5 e 6. No eixo vertical (y) estão marcados os pontos: 0, 1, 2, 3, 4 e 5. Há os seguintes pontos marcados no plano cartesiano: ponto de coordenadas (0; 0); ponto A, de coordenadas (0 ; 4); ponto B, de coordenadas (4 ; 4); ponto C, de coordenadas (4 ; 0); ponto D, de coordenadas (2 ; 2) e ponto E, de coordenadas (0; 2). Passando pelo ponto A, qual equação forneceria a maior pontuação? ',
+    enunciado: 'Uma empresa confecciona e comercializa um brinquedo formado por uma locomotiva, pintada na cor preta, mais 12 vagões de iguais formato e tamanho, numerados de 1 a 12. Dos 12 vagões, 4 são pintados na cor vermelha, 3 na cor azul, 3 na cor verde e 2 na cor amarela. O trem é montado utilizando-se uma locomotiva e 12 vagões, ordenados crescentemente segundo suas numerações.De acordo com as possíveis variações nas colorações dos vagões, a quantidade de trens que podem ser montados, expressa por meio de combinações, é dada por ',
     
-        alternativas: [
+    alternativas: [
             
-        '1. x é igual a 0.',
-        '2. y é igual a 0.',
-        '3. x elevado ao quadrado mais y elevado ao quadrado é igual a 16.',
-        '4. x elevado ao quadrado mais abre parêntese y menos 2 fecha parêntese elevado ao quadrado é igual a 4.',
-        '5. abre parêntese x menos 2 fecha parêntese elevado ao quadrado mais abre parêntese y menos 2 fecha parêntese elevado ao quadrado é igual a 8.' 
+    '1. Combinação de doze, quatro a quatro, vezes combinação de doze, três a três vezes combinação de doze, três a três, vezes combinação de doze, dois a dois.',
+    '2. Combinação de doze, quatro a quatro, mais combinação de oito, três a três, mais combinação de cinco, três a três, mais combinação de dois, dois a dois.',
+    '3. Combinação de doze, quatro a quatro, vezes dois, vezes combinação de oito, três a três, vezes combinação de cinco, dois a dois.',
+    '4. Combinação de doze, quatro a quatro, mais dois, vezes combinação de doze, três a três, mais combinação de doze, dois a dois.',
+    '5. Combinação de doze, quatro a quatro, vezes combinação de oito, três a três, vezes combinação de cinco, três a três vezes combinação de dois, dois a dois.',
         
-            ],
-            correta: 5
+    ],
+    correta: 5
 
     },
    
     //Questão 32 - 167
-
-
     {
-        enunciado: 'Devido ao não cumprimento das metas definidas para a campanha de vacinação contra a gripe comum e o vírus H1N1 em um ano, o Ministério da Saúde anunciou a prorrogação da campanha por mais uma semana. A tabela apresenta as quantidades de pessoas vacinadas dentre os cinco grupos de risco até a data de início da prorrogação da campanha.Descrição da tabela:Tabela “Balanço parcial nacional da vacinação contra a gripe" de quatro colunas e seis linhas: Grupo de risco: Crianças; Profissionais de saúde; Gestantes; Indígenas; Idosos. População (milhão): 4,5; 2,0; 2,5; 0,5; 20,5.População já vacinada (milhão): 0,9; 1,0; 1,5; 0,4; 8,2. População já vacinada (porcentagem): 20; 50; 60; 80; 40.Qual é a porcentagem do total de pessoas desses grupos de risco já vacinadas? ',
+    enunciado: 'O gráfico a seguir mostra a evolução mensal das vendas de certo produto de julho a novembro de 2011.Descrição do gráfico: O gráfico mostra a evolução das unidades vendidas nos meses de julho a novembro de 2011. Em julho foram vendidas 700 unidades. Em agosto foram vendidas 2 500 unidades. Em setembro foram vendidas 2 500 unidades. Em outubro foram vendidas 2 800 unidades. Em novembro foram vendidas 2 700 unidades.Sabe-se que o mês de julho foi o pior momento da empresa em 2011 e que o número de unidades vendidas desse produto em dezembro de 2011 foi igual à média aritmética do número de unidades vendidas nos meses de julho a novembro do mesmo ano.O gerente de vendas disse, em uma reunião da diretoria, que, se essa redução no número de unidades vendidas de novembro para dezembro de 2011 se mantivesse constante nos meses subsequentes, as vendas só voltariam a ficar piores que julho de 2011 apenas no final de 2012. O diretor financeiro rebateu imediatamente esse argumento mostrando que, mantida a tendência, isso aconteceria já em  ',
         
+    alternativas: [   
         
-        alternativas: [   
+    '1. janeiro.',
+    '2. fevereiro',
+    '3. março.',
+    '4. abril.',
+    '5. maio.'
+    
         
-        '1. 12',
-        '2. 18',
-        '3. 30',
-        '4. 40',
-        '5. 50'  
-        
-            ],
-            correta: 4
+    ],
+    correta: 4
 
     },
    
     //Questão 33 - 168
 
     {
-        enunciado: 'Durante uma festa de colégio, um grupo de alunos organizou uma rifa. Oitenta alunos faltaram à festa e não participaram da rifa. Entre os que compareceram, alguns compraram três bilhetes, 45 compraram 2 bilhetes, e muitos compraram apenas um. O total de alunos que comprou um único bilhete era 20 por cento do número total de bilhetes vendidos, e o total de bilhetes vendidos excedeu em 33 o número total de alunos do colégio. Quantos alunos compraram somente um bilhete?',
-        
-        
-        alternativas: [   
-        '1. 34',
-        '2. 42',
-        '3. 47',
-        '4. 48',
-        '5. 79'
+    enunciado: 'Nos seis cômodos de uma casa há sensores de presença posicionados de forma que a luz de cada cômodo acende assim que uma pessoa nele adentra, e apaga assim que a pessoa se retira desse cômodo. Suponha que o acendimento e o desligamento sejam instantâneos.O morador dessa casa visitou alguns desses cômodos, ficando exatamente um minuto em cada um deles. O gráfico descreve o consumo acumulado de energia, em watt vezes minuto, em função do tempo t, em minuto, das lâmpadas de LED dessa casa, enquanto a figura apresenta a planta baixa da casa, na qual os cômodos estão numerados de 1 a 6, com as potências das respectivas lâmpadas indicadas.Descrição do gráfico: O gráfico está em um plano cartesiano, em que o eixo x mostra o tempo, em minuto, e o eixo y mostra a energia, em watt vezes minuto. O gráfico é formado por uma linha que sai da origem e passa pelos pontos: (1 ; 20); (2 ; 35); (3 ; 40); (4 ; 55); (5 ; 75); (6; 85); (7 ; 105) e (8 ; 120).Descrição da figura: A figura representa a planta baixa da casa, na qual os cômodos estão numerados de 1 a 6, com as potências das respectivas lâmpadas indicadas em watt.Cômodo 1: Sala (20 watts).Cômodo 2: Quarto (13 watts). Cômodo 3: Banho (2 watts). Cômodo 4: Suíte (15 watts). Cômodo 5: Banho (5 watts). Cômodo 6: Cozinha (10 watts). A entrada da casa é pela sala (1) que dá acesso aos cômodos: quarto (2), banho (3), suíte (4) e cozinha (6). O quarto (2) tem acesso apenas à sala (1). O banho (3) tem acesso apenas à sala (1). A suíte (4) tem acesso à sala (1) e ao banho (5). O banho (5) tem acesso apenas à suíte (4). A cozinha (6) tem acesso apenas à sala (1).A sequência de deslocamentos pelos cômodos, conforme o consumo de energia apresentado no gráfico, é ?',
+         
+    alternativas: [   
+    '1. 1 seta 4 seta 5 seta 4 seta 1 seta 6 seta 1 seta 4',
+    '2. 1 seta 2 seta 3 seta 1 seta 4 seta 1 seta 4 seta 4 ',
+    '3. 1 seta 4 seta 5 seta 4 seta 1 seta 6 seta 1 seta 2 seta 3',
+    '4. 1 seta 2 seta 3 seta 5 seta 4 seta 1 seta 6 seta 1 seta 4',
+    '5. 1 seta 4 seta 2 seta 3 seta 5 seta 1 seta 6 seta 1 seta 4'
                
         
-            ],
-            correta: 4
+    ],
+    correta: 4
 
     },
    
     //Questão 34 - 169 
-
     {
-    enunciado: 'Um quebra-cabeça consiste em recobrir um quadrado com triângulos retângulos isósceles, como ilustra a figura.Descrição da figura:Um quadrado com uma diagonal que liga o vértice inferior esquerdo ao vértice superior direito. A parte acima dessa diagonal está preenchida por um triângulo retângulo isósceles e a parte abaixo está preenchida por seis triângulos retângulos isósceles de tamanhos variados da seguinte forma: o triângulo menor está localizado no canto inferior direito do quadrado com seus catetos sobre os lados do quadrado, sua hipotenusa forma um dos catetos do segundo triângulo, a hipotenusa deste forma um dos catetos do terceiro, a hipotenusa deste forma um dos catetos do quarto, a hipotenusa deste forma um dos catetos do quinto e a hipotenusa deste é uma das partes da diagonal do quadrado. O sexto triângulo complementa a parte abaixo da diagonal do quadrado.Uma artesã confecciona um quebra-cabeça como o descrito, de tal modo que a menor das peças é um triângulo retângulo isósceles cujos catetos medem 2 centímetros. O quebra-cabeça, quando montado, resultará em um quadrado cuja medida do lado, em centímetro, é',
+    enunciado: 'Um casal planejou uma viagem e definiu como teto para o gasto diário um valor de até R$ 1 000,00. Antes de decidir o destino da viagem, fizeram uma pesquisa sobre a taxa de câmbio vigente para as moedas de cinco países que desejavam visitar e também sobre as estimativas de gasto diário em cada um, com o objetivo de escolher o destino que apresentasse o menor custo diário em real.O quadro mostra os resultados obtidos com a pesquisa realizada.Descrição do quadro: O quadro mostra a moeda local, a taxa de câmbio e o gasto diário nos países de destino.Na França, a moeda local é o euro, a taxa de câmbio é de 3 reais e 14 centavos e o gasto diário é de 315 euros.Nos EUA, a moeda local é o dólar, a taxa de câmbio é de 2 reais e 78 centavos e o gasto diário é de 390 dólares.Na Austrália, a moeda local é o dólar australiano, a taxa de câmbio é de 2 reais e 14 centavos e o gasto diário é de 400 dólares australianos.No Canadá, a moeda local é o dólar canadense, a taxa de câmbio é de 2 reais e 10 centavos e o gasto diário é de 410 dólares canadenses.No Reino Unido, a moeda local é a libra esterlina, a taxa de câmbio é de 4 reais e 24 centavos e o gasto diário é de 290 libras esterlinas.Nessas condições, qual será o destino escolhido para a viagem?',
         
     alternativas: [
             
-        '1. 14.',
-        '2. 12.',
-        '3. 7 vezes raiz quadrada de 2.',
-        '4. 6 mais 4 vezes raiz quadrada de 2.',
-        '5. 6 mais 2 vezes raiz quadrada de 2.,' 
+    '1. Austrália. ',
+    '2. Canadá.',
+    '3. EUA.',
+    '4. França.',
+    '5. Reino Unido.'
         
-            ],
-            correta: 1
+        
+    ],
+    correta: 1
 
     },
    
 
     //Questão 35 - 170
-
     {
-    enunciado: 'Para decorar um cilindro circular reto será usada uma faixa retangular de papel transparente, na qual está desenhada em negrito uma diagonal que forma 30 graus com a borda inferior. O raio da base do cilindro mede fração de numerador seis e denominador pi centímetros, e ao enrolar a faixa obtém-se uma linha em formato de hélice, como na figura.Descrição da figura: Um cilindro circular reto na vertical em que está destacada a altura e, a partir dela, há o desenho de um retângulo com os lados maiores na horizontal e uma diagonal que vai do vértice inferior esquerdo até o vértice superior direito. Essa diagonal forma um ângulo de trinta graus com o lado inferior horizontal do retângulo. Ao lado, outro desenho do cilindro com a faixa enrolada dando seis voltas completas ao seu redor, destacando a diagonal, que é uma linha com a forma de hélice, envolvendo o cilindro.O valor da medida da altura do cilindro, em centímetro, é:',
+    enunciado: 'Uma construtora pretende conectar um reservatório central (Rc) em formato de um cilindro, com raio interno igual a 2 metros e altura interna igual a 3,30 metros, a quatro reservatórios cilíndricos auxiliares (R1, R2, Rze R4), os quais possuem raios internos e alturas internas medindo 1,5 metro.As ligações entre o reservatório central e os auxiliares são feitas por canos cilíndricos com 0,10 metro de diâmetro interno e 20 metros de comprimento, conectados próximos às bases de cada reservatório. Na conexão de cada um desses canos com o reservatório central há registros que liberam ou interrompem o fluxo de água.No momento em que o reservatório central está cheio e os auxiliares estão vazios, abrem-se os quatro registros e, após algum tempo, as alturas das colunas de água nos reservatórios se igualam, assim que cessa o fluxo de água entre eles, pelo princípio dos vasos comunicantes.A medida, em metro, das alturas das colunas de água nos reservatórios auxiliares, após cessar o fluxo de água entre eles, é:',
         
     alternativas: [  
 
-        '1. 36 vezes raiz quadrada de 3.',
-        '2. 24 vezes raiz quadrada de 3.',
-        '3. 4 vezes raiz quadrada de 3.',
-        '4. 36.',
-        '5. 72.'
+    '1. 1,44.',
+    '2. 1,16.',
+    '3. 1,10.',
+    '4. 1.00.',
+    '5. 0,95.'     
            
-            ],
-            correta: 2
+    ],
+    correta: 2
 
     },
    
 
     //Questão 36 - 171
-
-
     {
-    enunciado: 'Com o avanço em ciência da computação, estamos próximos do momento em que o número de transistores no processador de um computador pessoal será da mesma ordem de grandeza que o número de neurônios em um cérebro humano, que é da ordem de 100 bilhões.Uma das grandezas determinantes para o desempenho de um processador é a densidade de transistores, que é o número de transistores por centímetro quadrado. Em 1986, uma empresa fabricava um processador contendo 100 000 transistores distribuídos em 0,25 centímetro quadrado de área. Desde então, o número de transistores por centímetro quadrado que se pode colocar em um processador dobra a cada dois anos(Lei de Moore).Considere 0,30 como aproximação para logaritmo de 2 na base 10.Em que ano a empresa atingiu ou atingirá a densidade de 100 bilhões de transistores?  ',
+    enunciado: 'Para construir uma piscina, cuja área total da superfície interna é igual a 40 metros quadrados, uma construtora apresentou o seguinte orçamento:•R$ 10 000,00 pela elaboração do projeto; •R$ 40 000,00 pelos custos fixos; •R$ 2 500,00 por metro quadrado para construção da área interna da piscina.Após a apresentação do orçamento, essa empresa decidiu reduzir o valor de elaboração do projeto em 50 por cento mas recalculou o valor do metro quadrado para a construção da área interna da piscina, concluindo haver a necessidade de aumentá-lo em 25 por cento. Além disso, a construtora pretende dar um desconto nos custos fixos, de maneira que o novo valor do orçamento seja reduzido em 10 por cento em relação ao total inicial. O percentual de desconto que a construtora deverá conceder nos custos fixos é de:',
         
     alternativas: [       
-        '1. 1999',
-        '2. 2002',
-        '3. 2022',
-        '4. 2026',
-        '5. 2146'
+    '1. 23,3 por cento',
+    '2. 25,0 por cento',
+    '3. 50,0 por cento',
+    '4. 87,5 por cento',
+    '5. 100,0 por cento'
+ 
         
-        
-        
-            ],
-            correta: 3
+    ],
+    correta: 3
 
     },
    
 
     //Questão 37 - 172
-
     {
-    enunciado: 'Uma loja vende automóveis em N parcelas iguais sem juros. No momento de contratar o financiamento, caso o cliente queira aumentar o prazo, acrescentando mais 5 parcelas, o valor de cada uma das parcelas diminui R$ 200,00, ou se ele quiser diminuir o prazo, com 4 parcelas a menos, o valor de cada uma das parcelas sobe R$ 232,00. Considere ainda que, nas três possibilidades de pagamento, o valor do automóvel é o mesmo, todas são sem juros e não é dado desconto em nenhuma das situações. Nessas condições, qual é a quantidade N de parcelas a serem pagas de acordo com a proposta inicial da loja?',
-        alternativas: [
+    enunciado: 'Um grupo de engenheiros está projetando um motor cujo esquema de deslocamento vertical do pistão dentro da câmara de combustão está representado na figura.Descrição da figura: A figura mostra um esquema de motor formado por um retângulo que representa uma câmara de combustão. Na base inferior do retângulo está o pistão com sua parte superior dentro da câmara, em posição horizontal; essa parte superior está presa a uma haste vertical que faz movimentos circulares. A figura apresenta dois instantes: um instante igual a 0 e um instante diferente de 0.No instante igual a 0 o pistão está posicionado na base da câmara e sua altura em função do tempo 0 é igual a 0.No instante diferente de 0 o pistão está posicionado dentro da câmara, sua altura está em função do tempo t, e sua haste fez um movimento anti-horário de aproximadamente 90 graus.A função h de t é igual a 4 mais 4 seno de, abre parêntese, fração com numerador beta vezes te denominador 2, menos fração com numerador pi e denominador 2, fecha parêntese definida para t maior ou igual a 0 descreve como varia a altura h, medida em centímetro, da parte superior do pistão dentro da câmara de combustão, em função do tempo t, medido em segundo. Nas figuras estão indicadas as alturas do pistão em dois instantes distintos.O valor do parâmetro beta, que é dado por um número inteiro positivo, está relacionado com a velocidade de deslocamento do pistão. Para que o motor tenha uma boa potência, é necessário e suficiente que, em menos de 4 segundos após o início do funcionamento (instante t igual a 0), a altura da base do pistão alcance por três vezes o valor de 6 centímetros. Para os cálculos, utilize 3 como aproximação para pi.O menor valor inteiro a ser atribuído ao parâmetro beta, de forma que o motor a ser construído tenha boa potência, é',
+        
+    alternativas: [
             
-        '1. 20',
-        '2. 24',
-        '3. 29',
-        '4. 40',
-        '5. 58'
-                 
-            ],
-            correta: 2
+    '1. 1.',
+    '2. 2.',
+    '3. 4.',
+    '4. 5.',
+    '5. 8'
+    
+    ],
+    correta: 2
 
     },
    
 
     //Questão 38 - 173
-
     {
-    enunciado: 'O salto ornamental é um esporte em que cada competidor realiza seis saltos. A nota em cada salto é calculada pela soma das notas dos juízes, multiplicada pela nota de partida (o grau de dificuldade de cada salto). Fica em primeiro lugar o atleta que obtiver a maior soma das seis notas recebidas.O atleta 10 irá realizar o último salto da final. Ele observa no Quadro 1, antes de executar o salto, o recorte do quadro parcial de notas com a sua classificação e a dos três primeiros lugares até aquele momento.escrição do quadro 1:Quadro com as informações: Classificação, Atleta, Sexto salto e Total. Classificação: primeiro; Atleta: 3; Sexto salto: 135,0; Total: 829,0.Classificação: segundo; Atleta: 4; Sexto salto: 140,0; Total: 825,2. Classificação: terceiro; Atleta: 8; Sexto salto: 140,4; Total: 824,2. Classificação: sexto; Atleta: 10; Sexto salto: vazio; Total: 687,5.Ele precisa decidir com seu treinador qual salto deverá realizar. Os dados dos possíveis tipos de salto estão no Quadro 2.Descrição do quadro 2:Quadro com as informações: Tipo de salto, Nota de partida, Estimativa da soma das notas dos juízes e Probabilidade de obter a nota.Tipo de salto: T1; Nota de partida: 2,2; Estimativa da soma das notas dos juízes: 57; Probabilidade de obter a nota: 89,76 por cento. Tipo de salto: T2; Nota de partida: 2,4; Estimativa da soma das notas dos juízes: 58; Probabilidade de obter a nota: 93,74 por cento. Tipo de salto: T3; Nota de partida: 2,6; Estimativa da soma das notas dos juízes: 55; Probabilidade de obter a nota: 91,88 por cento. Tipo de salto: T4; Nota de partida: 2,8; Estimativa da soma das notas dos juízes: 50; Probabilidade de obter a nota: 95,38 por cento. Tipo de salto: T5; Nota de partida: 3,0; Estimativa da soma das notas dos juízes: 53; Probabilidade de obter a nota: 87,34 por cento.O atleta optará pelo salto com a maior probabilidade de obter a nota estimada, de maneira que lhe permita alcançar o primeiro lugar. Considerando essas condições, o salto que o atleta deverá escolher é o de tipo: ',
+    enunciado: 'Após o Fórum Nacional Contra a Pirataria (FNCP) incluir a linha de autopeças em campanha veiculada contra a falsificação, as agências fiscalizadoras divulgaram que os cinco principais produtos de autopeças falsificados são: rolamento, pastilha de freio, caixa de direção, catalisador e amortecedor.Após uma grande apreensão, as peças falsas foram cadastradas utilizando-se a codificação:1: rolamento, 2: pastilha de freio, 3: caixa de direção, 4: catalisador e 5: amortecedor.Ao final obteve-se a sequência: 5, 4, 3, 2, 1, 2, 3, 4, 5, 4, 3, 2, 1, 2, 3, 4, 5, 4, 3, 2, 1, 2, 3, 4, ... que apresenta um padrão de formação que consiste na repetição de um bloco de números. Essa sequência descreve a ordem em que os produtos apreendidos foram cadastrados.O 2015° item cadastrado foi um(a)',
         
-        alternativas: [
+    alternativas: [
             
-        '1. T1.',
-        '2. T2.',
-        '3. T3.',
-        '4. T4.',
-        '5. T5.'
+    '1. rolamento.',
+    '2. catalisador.',
+    '3. amortecedor.',
+    '4. pastilha de freio.',
+    '5. caixa de direção.'         
         
-              
-        
-            ],
-            correta: 3
+    ],
+    correta: 3
 
     },
    
     //Questão 39 - 174
-
     {
-enunciado:'dssfdfd',
+    enunciado:'Durante suas férias, oito amigos, dos quais dois são canhotos, decidem realizar um torneio de vôlei de praia. Eles precisam formar quatro duplas para a realização do torneio. Nenhuma dupla pode ser formada por dois jogadores canhotos.De quantas maneiras diferentes podem ser formadas essas quatro duplas?',
         
     alternativas: [
             
-    'A)5 graus Celsius.', 
-    'B) 7 graus Celsius.',
-    'C) 13 graus Celsius.',
-    'D) 15 graus Celsius.',
-    'E) 19 graus Celsius.'
+    '1. 69',
+    '2. 70',
+    '3. 90',
+    '4. 104',
+    '5. 105'
+    
 
-            ],
-        correta: 5
+    ],
+    correta: 5
 
     },
    
     //Questão 40 - 175
-
     {
-    enunciado: 'Pivô central é um sistema de irrigação muito usado na agricultura, em que uma área circular é projetada para receber uma estrutura suspensa. No centro dessa área, há uma tubulação vertical que transmite água através de um cano horizontal longo, apoiado em torres de sustentação, as quais giram, sobre rodas, em torno do centro do pivô, também chamado de base, conforme mostram as figuras. Cada torre move-se com velocidade constante.Descrição das figuras: a primeira figura apresenta uma fotografia de um pivô central irrigando uma área de plantação de soja.A segunda figura apresenta três círculos concêntricos, tendo o centro representado pela base do pivô com a primeira região delimitada pelo círculo com raio traçado por T1, a segunda região delimitada pelo círculo com raio traçado por T2 e a terceira região delimitada pelo círculo com raio traçado por T3.Um pivô de três torres (T1, T2, e T3 ) será instalado em uma fazenda, sendo que as distâncias entre torres consecutivas, bem como da base à torre T, são iguais a 50 metros. O fazendeiro pretende ajustar as velocidades das torres, de tal forma que o pivô efetue uma volta completa em 25 horas. Use 3 como aproximação para pi.Para atingir seu objetivo, as velocidades das torres T1, T2, e T3, devem ser, em metro por hora, de: ',
+    enunciado: 'As luminárias para um laboratório de matemática serão fabricadas em forma de sólidos geométricos. Uma delas terá a forma de um tetraedro truncado. Esse sólido é gerado a partir de secções paralelas a cada uma das faces de um tetraedro regular. Para essa luminária, as secções serão feitas de maneira que, em cada corte, um terço das arestas seccionadas serão removidas.Essa luminária terá por faces ',
     
     alternativas: [
          
-        'A) A) 12, 24 e 36.', 
-        'B) 6, 12 e 18.',
-        'C) 2, 4 e 6.',
-        'D) 300, 1.200 e 2.700.',
-        'E) 600, 2.400 e 5.400.'
+    '1. 4 hexágonos regulares e 4 triângulos equiláteros. ',
+    '2. 2 hexágonos regulares e 4 triângulos equiláteros.',
+    '3. 4 quadriláteros e 4 triângulos isósceles. ',
+    '4. 3 quadriláteros e 4 triângulos isósceles.',
+    '5. 3 hexágonos regulares e 4 triângulos equiláteros.'            
         
-               
-        
-            ],
-            correta: 1
+    ],
+    correta: 1
 
     },
    
 
     //Questão 41 - 176
-
     {
-        enunciado: 'Para ganhar um prêmio, uma pessoa deverá retirar, sucessivamente e sem reposição, duas bolas pretas de uma mesma urna.Inicialmente, as quantidades e cores das bolas são como descritas a seguir:Urna A - Possui três bolas brancas, duas bolas pretas e uma bola verde;Urna B - Possui seis bolas brancas, três bolas pretas e uma bola verde; Urna C - Possui duas bolas pretas e duas bolas verdes;Urna D-Possui três bolas brancas e três bolas pretas.A pessoa deve escolher uma entre as cinco opções apresentadas: Opção 1 - Retirar, aleatoriamente, duas bolas da urna A; Opção 2-Retirar, aleatoriamente, duas bolas da urna B;Opção 3 - Passar, aleatoriamente, uma bola da urna C para a urna A; após isso, retirar, aleatoriamente, duas bolas da urna A;Opção 4 - Passar, aleatoriamente, uma bola da urna D para a urna C; após isso, retirar, aleatoriamente, duas bolas da urna C;Opção 5 - Passar, aleatoriamente, uma bola da urna C para a urna D; após isso, retirar, aleatoriamente, duas bolas da urna D.Com o objetivo de obter a maior probabilidade possível de ganhar o prêmio, a pessoa deve escolher a opção ',
+    enunciado: 'Comum em lançamentos de empreendimentos imobiliários, as maquetes de condomínios funcionam como uma ótima ferramenta de marketing para as construtoras, pois, além de encantar clientes, auxiliam de maneira significativa os corretores na negociação e venda de imóveis.Um condomínio está sendo lançado em um novo bairro de uma cidade. Na maquete projetada pela construtora, em escala de 1 para 200, existe um reservatório de água com capacidade de 45 centímetros cúbicos.Quando todas as famílias estiverem residindo no condomínio, a estimativa é que, por dia, sejam consumidos 30 000 litros de água.Em uma eventual falta de água, o reservatório cheio será suficiente para abastecer o condomínio por quantos dias? ',
         
-        alternativas: [   
-        '1. 1.',
-        '2. 2.',
-        '3. 3.',
-        '4. 4.',
-        '5. 5.'
+    alternativas: [   
+    '1. 30',
+    '2. 15',
+    '3. 12',
+    '4. 6',
+    '5. 3'
                     
-            ],
-        correta: 5
+    ],
+    correta: 5
     
-        },
+    },
        
 
-
-        //Questão 42- 177
-    
-        {
-     enunciado: 'A Ecofont possui design baseado na velha fonte Vera Sans. Porém, ela tem um diferencial: pequenos buraquinhos circulares congruentes, e em todo o seu corpo, presentes em cada símbolo. Esses furos proporcionam um gasto de tinta menor na hora da impressão.Descrição da figura:As letras da palavra “Eco", no sistema comum de escrita, estão separadas e cada uma delas está descrita a seguir:Letra E é formada por oito quadrados, cinco na vertical, um à direita do primeiro quadrado, outro à direita do terceiro quadrado e, por último, um à direita do quinto quadrado. No interior de cada quadrado há um furo circular, totalizando oito furos circulares.Letra C é formada por sete quadrados, cinco na vertical, um à direita do primeiro quadrado e outro à direita do quinto quadrado. No interior de cada quadrado há um furo circular, totalizando sete furos circulares.Letra O é formada por doze quadrados, cinco na vertical no lado esquerdo, um ao lado do primeiro quadrado do lado esquerdo, um ao lado do quinto quadrado do lado esquerdo e cinco na vertical no lado direito. No interior de cada quadrado há um furo circular, totalizando doze furos circulares.Suponha que a palavra ECO esteja escrita nessa fonte, com tamanho 192, e que seja composta por letras formadas por quadrados de lados x com furos circulares de raio r é igual a fração de numerador x e denominador 3. Para que a área a ser pintada seja reduzida a fração de numerador 1 e denominador 16 da área inicial, pretende-se reduzir o tamanho da fonte. Sabe-se que, ao alterar o tamanho da fonte, o tamanho da letra é alterado na mesma proporção.Nessas condições, o tamanho adequado da fonte será',
+    //Questão 42- 177
+    {
+    enunciado: 'Uma empresa presta serviço de abastecimento de água em uma cidade. O valor mensal a pagar por esse serviço é determinado pela aplicação de tarifas, por faixas de consumo de água, sendo obtido pela adição dos valores correspondentes a cada faixa.• Faixa 1: para consumo de até 6 metros cúbicos, valor fixo de R$ 12,00; • Faixa 2: para consumo superior a 6 metros cúbicos e até 10 metros cúbicos, tarifa de R$ 3,00 por metro cúbico ao que exceder a 6 metros cúbicos;• Faixa 3: para consumo superior a 10 metros cúbicos, tarifa de R$ 6,00 por metro cúbico ao que exceder a 10 metros cúbicos. Sabe-se que nessa cidade o consumo máximo de água por residência é de 15 metros cúbicos por mês. ',
             
-            alternativas: [   
-            '1. 64.',
-            '2. 48.',
-            '3. 24.',
-            '4. 21.',
-            '5. 12.'
-            
-                        
-                ],
-            correta: 2
+    alternativas: [   
+    '1. Descrição do gráfico: O gráfico é formado por um plano cartesiano onde o eixo X representa o volume (V) em metro cúbico, de 0 a 15, e o eixo y representa o valor (P) em real. O gráfico é formado por três segmentos. O primeiro segmento é horizontal, ele começa no ponto 0 metro cúbico e 12 reais e vai até o ponto 6 metros cúbicos e 12 reais, o segundo segmento é crescente, ele começa no ponto 6 metros cúbicos e 12 reais e vai até o ponto 10 metros cúbicos e 24 reais, o terceiro segmento é crescente, ele começa no ponto 10 metros cúbicos e 24 reais e vai até o ponto 15 metros cúbicos e 54 reais.',
+    '2. Descrição do gráfico: O gráfico é formado por um plano cartesiano onde o eixo X representa o volume (V) em metro cúbico, de 0 a 15, e o eixo y representa o valor (P) em real. O gráfico é formado por três segmentos. O primeiro segmento é horizontal, ele começa no ponto 0 metro cúbico e 12 reais e vai até o ponto 6 metros cúbicos e 12 reais; o segundo segmento é crescente, ele começa no ponto 6 metros cúbicos e 12 reais e vai até o ponto 10 metros cúbicos e 24 reais; o terceiro segmento é crescente, ele começa no ponto 10 metros cúbicos e 24 reais e vai até o ponto 15 metros cúbicos e 32 reais.',
+    '3. Descrição do gráfico: O gráfico é formado por um plano cartesiano onde o eixo X representa o volume (V) em metro cúbico, de 0 a 15, e o eixo y representa o valor (P) em real. O gráfico é formado por três segmentos. O primeiro segmento é horizontal, ele começa no ponto 0 metro cúbico e 12 reais e vai até o ponto 6 metros cúbicos e 12 reais; o segundo segmento é crescente, ele começa no ponto 6 metros cúbicos e 12 reais e vai até o ponto 10 metros cúbicos e 24 reais; o terceiro segmento é horizontal, ele começa no ponto 10 metros cúbicos e 24 reais e vai até o ponto 15 metros cúbicos e 24 reais.',
+    '4. Descrição do gráfico: O gráfico é formado por um plano cartesiano onde o eixo x representa o volume (V) em metro cúbico, de 0 a 15, e o eixo y representa o valor (P) em real. O gráfico é formado por dois segmentos. O primeiro segmento é horizontal, ele começa no ponto 0 metro cúbico e 12 reais e vai até o ponto 6 metros cúbicos e 12 reais, o segundo segmento é crescente, ele começa no ponto 6 metros cúbicos e 12 reais e vai até o ponto 15 metros cúbicos e 54 reais.',
+    '5. Descrição do gráfico: O gráfico é formado por um plano cartesiano onde o eixo X representa o volume (V) em metro cúbico, de 0 a 15, e o eixo y representa o valor (P) em real. O gráfico é formado por três segmentos. O primeiro segmento é crescente, ele começa no ponto 0 metro cúbico e 12 reais e vai até o ponto 6 metros cúbicos e 16 reais; o segundo segmento é crescente, ele começa no ponto 6 metros cúbicos e 16 reais e vai até o ponto 10 metros cúbicos e 24 reais; o terceiro segmento é crescente, ele começa no ponto 10 metros cúbicos e 24 reais e vai até o ponto 15 metros cúbicos e 54 reais.'
+                                
+    ],
+    correta: 2
         
-            },
+    },
            
     //Questão 43 - 178
-
-
     {
-    enunciado: 'Para criar um logotipo, um profissional da área de design gráfico deseja construí-lo utilizando o conjunto de pontos do plano na forma de um triângulo, exatamente como mostra a imagem.Descrição da imagem:A imagem mostra um plano cartesiano: eixo horizontal (x) com os pontos: -15, -10, -5, 0, 5, 10, 15 e eixo vertical (y) com os pontos: -15, -10, -5, 0,5, 10, 15. Nesse plano cartesiano estão marcados todos os pontos de coordenadas inteiras que estão sobre o triângulo de vértices nos pontos (0;0), (10 ;0) e (10; 10).Para construir tal imagem utilizando uma ferramenta gráfica, será necessário escrever algebricamente o conjunto que representa os pontos desse gráfico. Esse conjunto é dado pelos pares ordenados abre parêntese x ponto e vírgula y fecha parêntese pertence ao produto cartesiano do conjunto dos números naturais pelo conjunto dos números naturais, tais que:',
+    enunciado: 'Em um determinado ano, os computadores da receita federal de um país identificaram como inconsistentes 20 por cento das declarações de imposto de renda que lhe foram encaminhadas. Uma declaração é classificada como inconsistente quando apresenta algum tipo de erro ou conflito  nas informações prestadas. Essas declarações consideradas inconsistentes foram analisadas pelos auditores, que constataram que 25 por cento delas eram fraudulentas. Constatou-se ainda que, dentre as declarações que não apresentaram inconsistências,  6,25 por cento eram fraudulentas.Qual é a probabilidade de, nesse ano, a declaração de contribuinte ser considerada inconsistente, dado que ela era fraudulenta?:',
                
-        alternativas: [   
-        '1. A zero menor ou igual a x menor ou igual a y menor ou igual a 10.',
-        '2. zero menor ou igual a y menor ou igual a x menor ou igual a 10.',
-        '3. zero menor ou igual a x menor ou igual a 10, zero menor ou igual a y menor ou igual a 10.',,
-        '4. zero menor ou igual a x mais y menor ou igual a 10.',
-        '5.  zero menor ou igual a x mais y menor ou igual a 20.'
+    alternativas: [   
+    '1. 0,0500',
+    '2. 0,1000',
+    '3. 0,1125',
+    '4. 0,3125',
+    '5. 0,5000'
+
                            
-                   ],
-               correta: 2
+    ],
+    correta: 2
            
-               },
+    },
               
-     //Questão 44 -  179
-
-
-     {
-    enunciado: 'A figura mostra uma praça circular que contém um chafariz em seu centro e, em seu entorno, um passeio. Os círculos que definem a praça e o chafariz são concêntricos.Descrição da figura:Dois círculos concêntricos, sendo o menor denominado chafariz e o maior, praça. A região formada entre os dois é o passeio. Há quatro aberturas ao redor do círculo maior.O passeio terá seu piso revestido com ladrilhos. Sem condições de calcular os raios, pois o chafariz está cheio, um engenheiro fez a seguinte medição: esticou uma trena tangente ao chafariz, medindo a distância entre dois pontos A e B, conforme a figura. Com isso, obteve a medida do segmento de reta AB: 16 metros.Descrição da figura:A mesma figura anterior, destacando o ponto A à esquerda e o ponto B à direita, no círculo maior. Um segmento de reta horizontal tangente e abaixo do círculo menor une os pontos A e B, medindo 16 metros.Dispondo apenas dessa medida, o engenheiro calculou corretamente a medida da área do passeio, em metro quadrado. A medida encontrada pelo engenheiro foi: ',
+    //Questão 44 -  179
+    {
+    enunciado: 'A taxa de urbanização de um município é dada pela razão entre a população urbana e a população total do município (isto é, a soma das populações rural e  urbana). Os gráficos apresentam, respectivamente, a população urbana e a população rural de cinco municípios (um, dois, três, quatro, cinco) de uma mesma região estadual. Em reunião entre o governo do estado e os prefeitos desses municípios, ficou acordado que o município com maior taxa de urbanização receberá um investimento extra em infraestrutura.Descrição dos gráficos: Os gráficos mostram  a população urbana e a população rural em cinco municípios.Município um. População urbana: 8 000. População rural: 4 000.Município dois. População urbana: 10 000. População rural: 8 000.Município três. População urbana: 11 000. População rural: 5 000.Município quatro. População urbana: 18 000. População rural: 10 000.Município cinco. População urbana: 17 000. População rural: 12 000.Segundo o acordo, qual município receberá o investimento extra? ',
                    
     alternativas: [   
-    '1. 4 pi.',
-    '2. 8 pi.',
-    '3. 48 pi.',
-    '4. 64 pi.',
-    '5. 192 pi.'
-                           
+    '1. Um',
+    '2. Dois',
+    '3. Três ',
+    '4. Quatro',
+    '5. Cinco'
+                
     ],
     correta: 4
                
     },
 
-
-
-//Questão 45 - 180
-{
-enunciado: 'Um designer de jogos planeja um jogo que faz uso de um tabuleiro de dimensão nporn, com n maior ou igual a 2, no qual cada jogador, na sua vez, coloca uma peça sobre uma das casas vazias do tabuleiro. Quando uma peça é posicionada, a região formada pelas casas que estão na mesma linha ou coluna dessa peça é chamada de zona de combate dessa peça. Na figura está ilustrada a zona de combate de uma peça colocada em uma das casas de um tabuleiro de dimensão 8 por 8.Descrição da figura:Tabuleiro formado por oito colunas e oito linhas. Na terceira coluna e quinta linha há uma peça. As outras casas da terceira coluna e as outras casas da quinta linha formam a zona de combate.O tabuleiro deve ser dimensionado de forma que a probabilidade de se posicionar a segunda peça aleatoriamente, seguindo a regra do jogo, e esta ficar sobre a zona de combate da primeira, seja inferior a fração de numerador 1 e denominador 5.A dimensão mínima que o designer deve adotar para esse tabuleiro é: ',
+   //Questão 45 - 180
+   {
+   enunciado: 'Um comerciante, que vende somente pastel,refrigerante em lata e caldo de cana em copos, fez um levantamento das vendas realizadas durante a semana. O resultado desse levantamento está apresentado no gráfico. Descrição do gráfico: O gráfico, em forma heptagonal, mostra a venda da última semana.Domingo: Caldo de cana: 4; refrigerante: 7; pastel: 10.Segunda-feira: Caldo de cana: 3; refrigerante: 4; pastel: 2.Terça-feira: Caldo de cana: 1; refrigerante: 4; pastel: 4. Quarta-feira: Caldo de cana: 2; refrigerante: 5; pastel: 4. Quinta-feira: Caldo de cana: 4; refrigerante: 8; pastel: 7.Sexta-feira: Caldo de cana: 7; refrigerante: 8; pastel: 8. Sábado: Caldo de cana: 7; refrigerante: 8; pastel: 10. Ele estima que venderá, em cada dia da próxima semana, uma quantidade de refrigerante em lata igual à soma das quantidades de refrigerante em lata e caldo de cana em copos vendidas no respectivo dia da última semana. Quanto aos pastéis, estima vender, a cada dia da próxima semana, uma quantidade igual à quantidade de refrigerante em lata que prevê vender em tal dia. Já para o número de caldo de cana em copos, estima que as vendas diárias serão iguais às da última semana.Segundo essas estimativas, a quantidade a mais de pastéis que esse comerciante deve vender na próxima semana é  ',
                    
-alternativas: [   
+   alternativas: [   
+    '1. 20.',
+    '2. 27.',
+    '3. 44.',
+    '4. 55.',
+    '5. 71.'                      
+   ],
+   correta: 4        
+   },
 
-'1. 4 por 4',
-'2. 6 por 6',
-'3. 9 por 9',
-'4. 10 por 10',
-'5. 11 por 11'
-
-                       
-],
-correta: 4
-           
-},
-
+]
