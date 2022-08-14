@@ -1,5 +1,5 @@
 
-//Json prova enem 2019    //42 em aberto
+//Json prova enem 2019    o
 
 
 //Questão 1 - 136
@@ -7,7 +7,7 @@ export const questoes= [
     {
     enunciado: 'A gripe é uma infecção respiratória aguda de curta duração causada pelo vírus influenza. Ao entrar no nosso organismo pelo nariz, esse vírus multiplica-se, disseminando-se para a garganta e demais partes das vias respiratórias, incluindo pulmões.O vírus influenza é uma partícula esférica que tem um diâmetro interno de 0,00011 milímetro.Em notação científica, o diâmetro interno do vírus influenza, em milímetro, é:  ',
     
-    alternativas[
+    alternativas:[
     'A) 1,1 x 10^-1.',
     'B) 1,1 x 10^-2.',
     'C) 1,1 x 10^-3.',
@@ -15,37 +15,31 @@ export const questoes= [
     'E) 1,1 x 10^-5.'
     
     ],
-
-    correta: 1
-
+    correta: 4
     }, 
 
-     //Questão  - 137
-    {
 
+    //Questão  - 137
+    {
     enunciado: 'Em um jogo online, cada jogador procura subir de nível e aumentar sua experiência, que são dois parâmetros importantes no jogo, dos quais dependem as forças de defesa e de ataque do participante. A força de defesa de cada jogador é diretamente proporcional ao nível e ao quadrado de sua experiência, enquanto sua força de ataque é diretamente proporcional à sua experiência e ao quadrado do seu nível. Nenhum jogador sabe o nível ou a experiência dos demais. Os jogadores iniciam o jogo no nível 1 com experiência 1 e possuem força de ataque 2 e de defesa 1. Nesse jogo, cada participante se movimenta em uma cidade em busca de tesouros para aumentar sua experiência. Quando dois deles se encontram, um deles pode desafiar o outro para um confronto, sendo o desafiante considerado o atacante. Compara-se então a força de ataque do desafiante com a força de defesa do desafiador e vence o confronto aquele cuja força for maior. O vencedor do desafio aumenta seu nível em uma unidade. Caso haja empate no confronto, ambos os jogadores aumentam seus níveis em uma unidade. Durante o jogo, o jogador J1, de nível 4 e experiência 5, irá atacar o jogador J2, de nível 2 e experiência 6.O jogador J1 venceu esse confronto porque a diferença entre sua força de ataque e a força de defesa de seu oponente era: ',
     
-    respostas [
+    alternativas: [
     'A) 112.',
     'B) 88.',
     'C) 60.',
     'D) 28.',
     'E) 24.'
     
-
-   
     ],
-
-    correta: 3
+    correta: 2
     },
     
+
     //Questão 3 - 138
-
-
     {    
     enunciado: 'Em um condomínio, uma área pavimentada, que tem a forma de um círculo com diâmetro medindo 6 metros, é cercada por grama. A administração do condomíniodeseja ampliar essa área, mantendo seu formato circular, e aumentando, em 8 metros, o diâmetro dessa região, mantendo o revestimento da parte já existente. O condomínio dispõe, em estoque, de material suficiente para pavimentar mais 100 metros quadrados de área. O síndico do condomínio irá avaliar se esse material disponível será suficiente para pavimentar a região a ser ampliada.Utilize 3 como aproximação para pi.A conclusão correta a que o síndico deverá chegar, considerando a nova área a ser pavimentada, é a de que o material disponível em estoque:',
     
-    respostas[
+    alternatiivas:[
     'A) Será suficiente, pois a área da nova região a ser pavimentada mede 21 metros quadrados.',
     'B) Será suficiente, pois a área da nova região a ser pavimentada mede 24 metros quadrados.',
     'C) Será suficiente, pois a área da nova região a ser pavimentada mede 48 metros quadrados.',
@@ -58,7 +52,6 @@ export const questoes= [
     
     
     //Questão 4 - 139
-    
     {
     enunciado: 'Os exercícios físicos são recomendados para o bom funcionamento do organismo, pois aceleram o metabolismo e, em consequência, elevam o consumo de calorias. No gráfico, estão registrados os valores calóricos, em quilocaloria, gastos em cinco diferentes atividades físicas, em função do tempo dedicado às atividades, contado em minuto.Descrição do gráfico: o gráfico mostra os gastos, de 0 a 140 quilocalorias, em função do tempo, de 5 a 30 minutos.Atividade um: em 10 minutos gasta 20 quilocalorias.Atividade dois: em 15 minutos gasta 100 quilocalorias.Atividade três: em 20 minutos gasta 120 quilocalorias.Atividade quatro: em 25 minutos gasta 100 quilocalorias.Atividade cinco: em 30 minutos gasta 80 quilocalorias.Qual dessas atividades físicas proporciona o maior consumo de quilocalorias por minuto?',
     
@@ -70,13 +63,10 @@ export const questoes= [
     'E) Cinco.'
     
     ],
-    correta: 3
+    correta: 2
     },
-    
-
-    ////
-    //Questão 5 - 140
-    
+   
+    //Questão 5 -  140
     {
     enunciado:'Um professor aplica, durante os cinco dias úteis de uma semana, testes com quatro questões de múltipla escolha a cinco alunos. Os resultados foram representados na matriz:Descrição da matriz: matriz composta por cinco linhas e cinco colunas.Na primeira linha estão os números: 3, 2, 0, 1, 2.Na segunda linha estão os números: 3, 2, 4, 1, 2.Na terceira linha estão os números: 2, 2, 2, 3, 2.Na quinta linha estão os números: 0, 2, 0, 4, 4.Nessa matriz os elementos das linhas de 1 a 5 representam as quantidades de questões acertadas pelos alunos Ana, Bruno, Carlos, Denis e Érica, respectivamente, enquanto que as colunas de 1 a 5 indicam os dias da semana, segunda-feira a sexta-feira, respectivamente, em que os testes foram aplicados.O teste que apresentou maior quantidade de acertos foi o aplicado na:',
 
@@ -90,14 +80,11 @@ export const questoes= [
     
     
     ],
-    correta: 4
+    correta: 1
     },
     
-    {
-
-
     //Questões 6 - 141
-
+    {
     enunciado: 'Um mapa é a representação reduzida e simplificada de uma localidade. Essa redução, que é feita com o uso de uma escala, mantém a proporção do espaço representado em relação ao espaço real.Certo mapa tem escala 1 para 58 000 000.Considere que, nesse mapa, o segmento de reta que liga o navio à marca do tesouro meça 7,6 centímetros.A medida real, em quilômetro, desse segmento de reta é',
     
     alternativas: [
@@ -108,28 +95,24 @@ export const questoes= [
     'E) 10,5.'
     
     ],
-
-
-    correta: 1
+    correta: 3
     },
     
     
     //Questão  7 - 142
     {
-    enunciado: 'O serviço de meteorologia de uma cidade emite relatórios diários com a previsão do tempo. De posse dessas informações, a prefeitura emite três tipos de alertas para a população:
-  ',
+    enunciado: 'O serviço de meteorologia de uma cidade emite relatórios diários com a previsão do tempo. De posse dessas informações, a prefeitura emite três tipos de alertas para a população:',
     
     alternativas: [
-        'A) 2,3.',
-        'B) 3,5.',
-        'C) 4,7.',
-        'D) 5,3.',
-        'E) 10,5.
+    'A) 2,3.',
+    'B) 3,5.',
+    'C) 4,7.',
+    'D) 5,3.',
+    'E) 10,5.'
         
         
     ],
-
-    correta: 2
+    correta: 1
     },
     
     
@@ -161,29 +144,24 @@ export const questoes= [
     'D) 112.',
     'E) 134.'
     
-    
     ],
-    correta: 1
+    correta: 3
     },
     
 
-
     //Questão 10 - 145
     {
-
     enunciado: 'O slogan "Se beber não dirija”, muito utilizado em campanhas publicitárias no Brasil, chamam a atenção para o grave problema da ingestão de bebida alcoólica por motoristas e suas consequências para o trânsito.A gravidade desse problema pode ser percebida observando como o assunto é tratado pelo Código de Trânsito Brasileiro. Em 2013, a quantidade máxima de álcool permitida no sangue do condutor de um veículo, que já era pequena, foi reduzida, e o valor da multa para motoristas alcoolizados foi aumentado.Em consequência dessas mudanças, observou-se queda no número de acidentes registrados em uma suposta rodovia nos anos que se seguiram às mudanças implantadas em 2013, conforme dados no quadro.  Descrição do quadro: o quadro mostra o número total de acidentes nos anos:2013: 1.050 acidentes; 2014: 900 acidentes e 2015: 850 acidentes. Suponha que a tendência de redução no número de acidentes nessa rodovia para os anos subsequentes seja igual à redução absoluta observada de 2014 para 2015. Com base na situação apresentada, o número de acidentes esperados nessa rodovia em 2018 foi de:',
     
     alternativas: [
-    
     'A) 150.',
     'B) 450.',
     'C) 550.',
     'D) 700.',
     'E) 800.'
     
-    
     ],
-    correta: 1
+    correta: 4
     },
     
     
@@ -192,18 +170,15 @@ export const questoes= [
     enunciado: 'Uma pessoa se interessou em adquirir um produto anunciado em uma loja. Negociou com o gerente e conseguiu comprá-lo a uma taxa de juros compostos de 1 por cento ao mês. O primeiro pagamento será um mês após a aquisição do produto, e no valor de R$ 202,00. O segundo pagamento será efetuado um mês após o primeiro, e terá o valor de R$ 204,02. Para concretizar a compra, o gerente emitirá uma nota fiscal com o valor do produto à vista negociado com o cliente, correspondendo ao financiamento aprovado. O valor à vista, em real, que deverá constar na nota fiscal é de:  ',
     
     alternativas: [
-
     'A) 398,02.',
     'B) 400,00.',
     'C) 401,94.',
     'D) 404,00.',
     'E) 406,02.'
     
-    
-   
-    ],
 
-    correta: 1
+    ],
+    correta: 2
     },
     
     //Questão 12 - 147
@@ -218,9 +193,8 @@ export const questoes= [
     'D) 18,52 e 11,11.',
     'E) 12,96 e 13,89. '
     
-    
-    correta: 4
-
+    ],
+    correta: 1
     },
     
     //Questão 13 - 148
@@ -234,15 +208,13 @@ export const questoes= [
     'D) 15.000,00.',
     'E) 15.500,00.'
     
-    '
     
     ],
-    correta: 2
+    correta: 4
     },
     
     
-  //Questão 14 - 149
-    
+    //Questão 14 - 149
     {
     enunciado: 'Segundo o Instituto Brasileiro de Geografia e Estatística (IBGE), o rendimento médio mensal dos trabalhadores brasileiros, no 2000, era de R$ 1.250,00. Já o Censo 2010 mostrou que, em 2010, esse valor teve um aumento de 7,2 por cento em relação a 2000. Esse mesmo instituto projeta que, em 2020, o rendimento médio mensal dos trabalhadores brasileiros poderá ser 10 por cento maior do que foi em 2010.Suponho que as projeções  do IBGE se realizem, o rendimento médio mensal dos brasileiros em 2020 será de: :',
     
@@ -253,31 +225,24 @@ export const questoes= [
     'D) R$ 1.465,00.',
     'E) R$ 1.474,00. '
     
-    
-    
-
     ],
-
     correta: 5
     },
     
     
     //Questão 15 - 150
     {
-
     enunciado: 'Charles Richter e Beno Gutenberg desenvolveram a escala Richter, que mede a magnitude de um terremoto. Essa escala pode variar de 0 a 10, com possibilidades de valores maiores. O quadro mostra a escala de magnitude local (MS) de um terremoto que é utilizada para descrevê-lo.Descrição do quadro: o quadro mostra a descrição de um terremoto de acordo com a escala de magnitude local (micrômetros vezes hertz).Pequeno: 0 é menor ou igual a magnitude local que é menor ou igual a 3,9.Ligeiro: 4 é menor ou igual a magnitude local que é menor ou igual a 4,9.Moderado: 5 é menor ou igual a magnitude local que é menor ou igual a 5,9.Grande: 6 é menor ou igual a magnitude local que é menor ou igual a 9,9.Extremo: a magnitude local é maior ou igual a 10,0.Para se calcular a magnitude local, usa-se a fórmula: magnitude local é igual a 3,30 mais log, abre parêntese, A vezes f, fecha parêntese. Em que A representa a amplitude máxima da onda registrada por um sismógrafo em micrômetro e f representa a frequência da onda, em hertz. Ocorreu um terremoto com amplitude máxima de 2.000 micrômetros e frequência de 0,2 hertz.Utilize 0,3 como aproximação para log 2.De acordo com os dados fornecidos, o terremoto ocorrido pode ser descrito como:',
     
     alternativas: [
     'A) Pequeno.',
     'B) Ligeiro.',
-    'C) Moderado.,
+    'C) Moderado.',
     'D) Grande.',
     'E) Extremo.'
     
-    
-    
     ],
-    correta: 'Anulado segundo gabarito'
+    correta: 3
     },
     
 
@@ -292,9 +257,8 @@ export const questoes= [
     'D) 3,93 x 10^14.',
     'E) 3,93 x 10^12.'
     
-    
     ],
-    correta: 5
+    correta: 4
     },
     
     
@@ -309,21 +273,13 @@ export const questoes= [
     'D) Valores maiores que 70 e menores que 80.',
     'E) Valores maiores que 10^-8 e menores que 10^-7.'
     
-    
-   
-  
     ],
-    correta: 2
+    correta: 5
     },
-    
-////////////////////Parei aqui na 52
 
 
-
-   //Questão 18 153
-
+    //Questão 18 153
     {
-
     enunciado: 'Uma pessoa , que perdeu um objeto pessoal quando visitou uma cidade, pretende divulgar nos meios de comunicação informações a respeito da perda desse objeto e de seu contato para eventual devolução. No entanto, ela lembra que, de acordo com o Artigo 1.234 do Código Civil, poderá ter que pagar pelas despesas do transporte desse objeto até sua cidade e poderá ter que recompensar a pessoa que lhe restituir o objeto em, pelo menos, 5 por cento do valor do objeto.Ela sabe que o custo com o transporte será de um quinto do valor atual do objeto e, como ela tem muito interesse em reavê-lo, pretende ofertar o maior percentual possível de recompensa, desde que o gasto total com as despesas não ultrapassem o valor atual do objeto.Nessas condições, o percentual sobre o valor do objeto, dado como recompensa, que ela deverá ofertar é igual a:',
     
     alternativas: [
@@ -334,7 +290,7 @@ export const questoes= [
     'E) 80 por cento.'   
     
     ],
-    correta:2
+    correta:5
     },
     
     
@@ -367,7 +323,7 @@ export const questoes= [
     'E) 1,82.'
     
     ],
-    correta: 5
+    correta: 3
     },
 
     //Questão 21 156
@@ -383,7 +339,7 @@ export const questoes= [
     'E) 3,0.'
      
     ],
-    correta: 5
+    correta: 2
     },
     
     //Questão 22 157
@@ -398,9 +354,8 @@ export const questoes= [
     'D) 12,0000.',
     'E) 36,0000.'
     
-    
     ],
-    correta: 1
+    correta: 4
     },
     
     
@@ -415,12 +370,11 @@ export const questoes= [
     'D) O quarto.',
     'E) O quinto.'
     
-    
     ],
-    correta: 4
+    correta: 3
     },
     
-    
+
     //Questão 24 159
     {
     enunciado: ' Um mestre de obras deseja fazer uma laje com espessura de 5 centímetros utilizando concreto usinado, conforme as dimensões do projeto dadas na figura. O concreto para fazer a laje será fornecido por uma usina que utiliza caminhões com capacidades máximas de 2 metros cúbicos e 5 metros cúbicos e 10 metros cúbicos de concreto.Descrição da figura: a figura é formada por um polígono de 8 lados que formam, entre os lados, ângulos de 90 graus. O comprimento da base desse polígono é igual a 14 metros. No lado direito desse polígono tem três degraus: o primeiro degrau tem altura igual a 5 metros e comprimento igual a 3 metros, o segundo degrau tem altura igual a 2 metros e comprimento igual a 3 metros e o terceiro degrau tem altura igual a 1 metro e comprimento igual a 8 metros.Qual a menor quantidade de caminhões, utilizando suas capacidades máximas, que o mestre de obras deverá pedir à usina de concreto para fazer a laje?',
@@ -436,6 +390,7 @@ export const questoes= [
     correta: 3
     },
    
+
     //Questão 25 - 160
     {
     enunciado: 'O  álcool é um depressor do sistema nervoso central e age diretamente em diversos órgãos. A concentração de álcool no sangue pode ser entendida como a razão entre a quantidade q de álcool ingerido, medida em grama, e o volume de sangue, em litro, presente no organismo do indivíduo. Em geral, considera-se que esse volume corresponda ao valor numérico dado por 8 por cento da massa corporal m desse individuo, medida em quilograma.De acordo com a Associação Médica Americana, uma concentração alcoólica superior a 0,4 grama por litro de sangue é capaz de trazer prejuízos à saúde do indivíduo.A expressão relacionando q em que representa a concentração alcoólica prejudicial à saúde do indivíduo, de acordo com a Associação Médica Americana, é:',
@@ -446,12 +401,12 @@ export const questoes= [
     'B) Fração numerador 0,4 vezes me denominador q, é maior que 0,8.',
     'C) Fração numerador q e denominador 0,4 vezes m, é maior que 0,8.',
     'D) Fração numerador 0,08 vezes me denominador q, é maior que 0,4.',
-    'E) Fração numerador q e denominador 0,08 vezes m, é maior que 0,4.'
-     
+    'E) Fração numerador q e denominador 0,08 vezes m, é maior que 0,4.'  
 
     ],
-    correta: 3
+    correta: 5
     },
+
 
     //Questão 26 - 161
     {
@@ -464,13 +419,12 @@ export const questoes= [
     'D) 6 vezes raiz quadrada de 5 centímetros.',
     'E) 12 vezes raiz quadrada de 2 centímetros.'
     
-
     ],
-    correta: 3
+    correta: 4
     },
 
-    //Questão 27  - 162
 
+    //Questão 27  - 162
     {
     enunciado: 'Os alunos de uma turma escolar foram divididos em dois grupos. Um grupo jogaria basquete, enquanto o outro jogaria futebol. Sabe-se que o grupo de basquete é formado pelos alunos mais altos da classe e tem uma pessoa a mais do que o grupo de futebol. A tabela seguinte apresenta informações sobre as alturas dos alunos da turma.Descrição da tabela: a tabela mostra as informações sobre as alturas dos alunos da turma.Média: 1,65; mediana: 1,67 e moda: 1,70.respectivamente iguais a 3 quilômetros, 2 quilômetros e 5 quilômetros.Os alunos P, J, FeM medem, respectivamente, 1,65 metro, 1,66 metro, 1,67 metro e 1,68 metro, e as suas alturas não são iguais a de nenhum outro colega da sala.Segundo essas informações, argumenta-se que os alunos P, J, F e M jogaram, respectivamente:',
     
@@ -481,7 +435,6 @@ export const questoes= [
     'D) Futebol, futebol, futebol, basquete.',
     'E) Futebol, futebol, futebol, futebol. '
     
-   
     ],
     correta: 3
     },
@@ -498,12 +451,11 @@ export const questoes= [
     'D) Y é igual a 160X mais 840.',
     'E) Y é igual a 160X mais 1 000.'
          
-    
     ],
     correta: 4
-
     },
    
+
     //Questão 29 - 164
     {
     enunciado: 'Um aplicativo de relacionamentos funciona da seguinte forma: o usuário cria um perfil com foto e informações pessoais, indica as características dos usuários com quem deseja estabelecer contato e determina um raio de abrangência a partir da sua localização. O aplicativo identifica as pessoas que se encaixam no perfil desejado e que estão a uma distância do usuário menor ou igual ao raio de abrangência. Caso dois usuários tenham perfis compatíveis e estejam numa região de abrangência comum a ambos, o aplicativo promove o contato entre os usuários, o que é chamado de match.O usuário P define um raio de abrangência com medida de 3 quilômetros e busca ampliar a possibilidade de obter um match se deslocando para a região central da cidade, que concentra um maior número de usuários. O gráfico ilustra alguns bares que o usuário P costuma frequentar para ativar o aplicativo, indicados por um, dois, três, quatro e cinco. Sabe-se que os usuários Q, Res, cujas posições estão descritas pelo gráfico, são compatíveis com o usuário P, e que estes definiram raios de abrangência respectivamente iguais a 3 quilômetros, 2 quilômetros e 5 quilômetros.Descrição do gráfico: plano cartesiano onde os eixos x e y representam os números, em quilômetro. O gráfico tem os seguintes pontos:O ponto P está localizado nas coordenadas (0; 0).O ponto Q está localizado nas coordenadas (3 ; 7).O ponto R está localizado nas coordenadas (6 ; 7).O ponto S está localizado nas coordenadas (5 ; 3).O ponto um está localizado nas coordenadas (5 ; 6).O ponto dois está localizado nas coordenadas (4;5).O ponto três está localizado nas coordenadas (5; 5).O ponto quatro está localizado nas coordenadas (4 ; 6).O ponto cinco está localizado nas coordenadas (3 ; 4).Com base no gráfico e nas afirmações anteriores, em qual bar o usuário P teria a possibilidade de um match com os usuários Q, R e S, simultaneamente? ',
@@ -515,11 +467,9 @@ export const questoes= [
     'C) Três.',
     'D) Quatro.',   
     'E) Cinco.'
-        
-           
+              
     ],
     correta: 1
-
     },
 
    
@@ -534,11 +484,9 @@ export const questoes= [
     '3. 100.',
     '4. 250',
     '5. 500.'
-    
                     
     ],
-    correta: 3
-
+    correta: 2
     },
    
 
@@ -556,9 +504,9 @@ export const questoes= [
         
     ],
     correta: 5
-
     },
    
+
     //Questão 32 - 167
     {
     enunciado: 'O gráfico a seguir mostra a evolução mensal das vendas de certo produto de julho a novembro de 2011.Descrição do gráfico: O gráfico mostra a evolução das unidades vendidas nos meses de julho a novembro de 2011. Em julho foram vendidas 700 unidades. Em agosto foram vendidas 2 500 unidades. Em setembro foram vendidas 2 500 unidades. Em outubro foram vendidas 2 800 unidades. Em novembro foram vendidas 2 700 unidades.Sabe-se que o mês de julho foi o pior momento da empresa em 2011 e que o número de unidades vendidas desse produto em dezembro de 2011 foi igual à média aritmética do número de unidades vendidas nos meses de julho a novembro do mesmo ano.O gerente de vendas disse, em uma reunião da diretoria, que, se essa redução no número de unidades vendidas de novembro para dezembro de 2011 se mantivesse constante nos meses subsequentes, as vendas só voltariam a ficar piores que julho de 2011 apenas no final de 2012. O diretor financeiro rebateu imediatamente esse argumento mostrando que, mantida a tendência, isso aconteceria já em  ',
@@ -570,15 +518,13 @@ export const questoes= [
     '3. março.',
     '4. abril.',
     '5. maio.'
-    
-        
+      
     ],
     correta: 4
-
     },
    
-    //Questão 33 - 168
 
+    //Questão 33 - 168
     {
     enunciado: 'Nos seis cômodos de uma casa há sensores de presença posicionados de forma que a luz de cada cômodo acende assim que uma pessoa nele adentra, e apaga assim que a pessoa se retira desse cômodo. Suponha que o acendimento e o desligamento sejam instantâneos.O morador dessa casa visitou alguns desses cômodos, ficando exatamente um minuto em cada um deles. O gráfico descreve o consumo acumulado de energia, em watt vezes minuto, em função do tempo t, em minuto, das lâmpadas de LED dessa casa, enquanto a figura apresenta a planta baixa da casa, na qual os cômodos estão numerados de 1 a 6, com as potências das respectivas lâmpadas indicadas.Descrição do gráfico: O gráfico está em um plano cartesiano, em que o eixo x mostra o tempo, em minuto, e o eixo y mostra a energia, em watt vezes minuto. O gráfico é formado por uma linha que sai da origem e passa pelos pontos: (1 ; 20); (2 ; 35); (3 ; 40); (4 ; 55); (5 ; 75); (6; 85); (7 ; 105) e (8 ; 120).Descrição da figura: A figura representa a planta baixa da casa, na qual os cômodos estão numerados de 1 a 6, com as potências das respectivas lâmpadas indicadas em watt.Cômodo 1: Sala (20 watts).Cômodo 2: Quarto (13 watts). Cômodo 3: Banho (2 watts). Cômodo 4: Suíte (15 watts). Cômodo 5: Banho (5 watts). Cômodo 6: Cozinha (10 watts). A entrada da casa é pela sala (1) que dá acesso aos cômodos: quarto (2), banho (3), suíte (4) e cozinha (6). O quarto (2) tem acesso apenas à sala (1). O banho (3) tem acesso apenas à sala (1). A suíte (4) tem acesso à sala (1) e ao banho (5). O banho (5) tem acesso apenas à suíte (4). A cozinha (6) tem acesso apenas à sala (1).A sequência de deslocamentos pelos cômodos, conforme o consumo de energia apresentado no gráfico, é ?',
          
@@ -588,13 +534,12 @@ export const questoes= [
     '3. 1 seta 4 seta 5 seta 4 seta 1 seta 6 seta 1 seta 2 seta 3',
     '4. 1 seta 2 seta 3 seta 5 seta 4 seta 1 seta 6 seta 1 seta 4',
     '5. 1 seta 4 seta 2 seta 3 seta 5 seta 1 seta 6 seta 1 seta 4'
-               
-        
+                
     ],
-    correta: 4
-
+    correta: 1
     },
    
+
     //Questão 34 - 169 
     {
     enunciado: 'Um casal planejou uma viagem e definiu como teto para o gasto diário um valor de até R$ 1 000,00. Antes de decidir o destino da viagem, fizeram uma pesquisa sobre a taxa de câmbio vigente para as moedas de cinco países que desejavam visitar e também sobre as estimativas de gasto diário em cada um, com o objetivo de escolher o destino que apresentasse o menor custo diário em real.O quadro mostra os resultados obtidos com a pesquisa realizada.Descrição do quadro: O quadro mostra a moeda local, a taxa de câmbio e o gasto diário nos países de destino.Na França, a moeda local é o euro, a taxa de câmbio é de 3 reais e 14 centavos e o gasto diário é de 315 euros.Nos EUA, a moeda local é o dólar, a taxa de câmbio é de 2 reais e 78 centavos e o gasto diário é de 390 dólares.Na Austrália, a moeda local é o dólar australiano, a taxa de câmbio é de 2 reais e 14 centavos e o gasto diário é de 400 dólares australianos.No Canadá, a moeda local é o dólar canadense, a taxa de câmbio é de 2 reais e 10 centavos e o gasto diário é de 410 dólares canadenses.No Reino Unido, a moeda local é a libra esterlina, a taxa de câmbio é de 4 reais e 24 centavos e o gasto diário é de 290 libras esterlinas.Nessas condições, qual será o destino escolhido para a viagem?',
@@ -606,11 +551,9 @@ export const questoes= [
     '3. EUA.',
     '4. França.',
     '5. Reino Unido.'
-        
-        
+          
     ],
     correta: 1
-
     },
    
 
@@ -627,8 +570,7 @@ export const questoes= [
     '5. 0,95.'     
            
     ],
-    correta: 2
-
+    correta: 4
     },
    
 
@@ -642,11 +584,9 @@ export const questoes= [
     '3. 50,0 por cento',
     '4. 87,5 por cento',
     '5. 100,0 por cento'
- 
-        
+   
     ],
-    correta: 3
-
+    correta: 4
     },
    
 
@@ -663,8 +603,7 @@ export const questoes= [
     '5. 8'
     
     ],
-    correta: 2
-
+    correta: 4
     },
    
 
@@ -681,10 +620,10 @@ export const questoes= [
     '5. caixa de direção.'         
         
     ],
-    correta: 3
-
+    correta: 5
     },
-   
+  
+
     //Questão 39 - 174
     {
     enunciado:'Durante suas férias, oito amigos, dos quais dois são canhotos, decidem realizar um torneio de vôlei de praia. Eles precisam formar quatro duplas para a realização do torneio. Nenhuma dupla pode ser formada por dois jogadores canhotos.De quantas maneiras diferentes podem ser formadas essas quatro duplas?',
@@ -697,12 +636,11 @@ export const questoes= [
     '4. 104',
     '5. 105'
     
-
     ],
-    correta: 5
-
+    correta: 3
     },
    
+
     //Questão 40 - 175
     {
     enunciado: 'As luminárias para um laboratório de matemática serão fabricadas em forma de sólidos geométricos. Uma delas terá a forma de um tetraedro truncado. Esse sólido é gerado a partir de secções paralelas a cada uma das faces de um tetraedro regular. Para essa luminária, as secções serão feitas de maneira que, em cada corte, um terço das arestas seccionadas serão removidas.Essa luminária terá por faces ',
@@ -717,7 +655,6 @@ export const questoes= [
         
     ],
     correta: 1
-
     },
    
 
@@ -733,8 +670,7 @@ export const questoes= [
     '5. 3'
                     
     ],
-    correta: 5
-    
+    correta: 3
     },
        
 
@@ -750,10 +686,10 @@ export const questoes= [
     '5. Descrição do gráfico: O gráfico é formado por um plano cartesiano onde o eixo X representa o volume (V) em metro cúbico, de 0 a 15, e o eixo y representa o valor (P) em real. O gráfico é formado por três segmentos. O primeiro segmento é crescente, ele começa no ponto 0 metro cúbico e 12 reais e vai até o ponto 6 metros cúbicos e 16 reais; o segundo segmento é crescente, ele começa no ponto 6 metros cúbicos e 16 reais e vai até o ponto 10 metros cúbicos e 24 reais; o terceiro segmento é crescente, ele começa no ponto 10 metros cúbicos e 24 reais e vai até o ponto 15 metros cúbicos e 54 reais.'
                                 
     ],
-    correta: 2
-        
+    correta:  1  
     },
-           
+       
+    
     //Questão 43 - 178
     {
     enunciado: 'Em um determinado ano, os computadores da receita federal de um país identificaram como inconsistentes 20 por cento das declarações de imposto de renda que lhe foram encaminhadas. Uma declaração é classificada como inconsistente quando apresenta algum tipo de erro ou conflito  nas informações prestadas. Essas declarações consideradas inconsistentes foram analisadas pelos auditores, que constataram que 25 por cento delas eram fraudulentas. Constatou-se ainda que, dentre as declarações que não apresentaram inconsistências,  6,25 por cento eram fraudulentas.Qual é a probabilidade de, nesse ano, a declaração de contribuinte ser considerada inconsistente, dado que ela era fraudulenta?:',
@@ -767,10 +703,10 @@ export const questoes= [
 
                            
     ],
-    correta: 2
-           
+    correta: 5       
     },
-              
+        
+    
     //Questão 44 -  179
     {
     enunciado: 'A taxa de urbanização de um município é dada pela razão entre a população urbana e a população total do município (isto é, a soma das populações rural e  urbana). Os gráficos apresentam, respectivamente, a população urbana e a população rural de cinco municípios (um, dois, três, quatro, cinco) de uma mesma região estadual. Em reunião entre o governo do estado e os prefeitos desses municípios, ficou acordado que o município com maior taxa de urbanização receberá um investimento extra em infraestrutura.Descrição dos gráficos: Os gráficos mostram  a população urbana e a população rural em cinco municípios.Município um. População urbana: 8 000. População rural: 4 000.Município dois. População urbana: 10 000. População rural: 8 000.Município três. População urbana: 11 000. População rural: 5 000.Município quatro. População urbana: 18 000. População rural: 10 000.Município cinco. População urbana: 17 000. População rural: 12 000.Segundo o acordo, qual município receberá o investimento extra? ',
@@ -783,22 +719,23 @@ export const questoes= [
     '5. Cinco'
                 
     ],
-    correta: 4
-               
+    correta: 3        
     },
 
-   //Questão 45 - 180
-   {
-   enunciado: 'Um comerciante, que vende somente pastel,refrigerante em lata e caldo de cana em copos, fez um levantamento das vendas realizadas durante a semana. O resultado desse levantamento está apresentado no gráfico. Descrição do gráfico: O gráfico, em forma heptagonal, mostra a venda da última semana.Domingo: Caldo de cana: 4; refrigerante: 7; pastel: 10.Segunda-feira: Caldo de cana: 3; refrigerante: 4; pastel: 2.Terça-feira: Caldo de cana: 1; refrigerante: 4; pastel: 4. Quarta-feira: Caldo de cana: 2; refrigerante: 5; pastel: 4. Quinta-feira: Caldo de cana: 4; refrigerante: 8; pastel: 7.Sexta-feira: Caldo de cana: 7; refrigerante: 8; pastel: 8. Sábado: Caldo de cana: 7; refrigerante: 8; pastel: 10. Ele estima que venderá, em cada dia da próxima semana, uma quantidade de refrigerante em lata igual à soma das quantidades de refrigerante em lata e caldo de cana em copos vendidas no respectivo dia da última semana. Quanto aos pastéis, estima vender, a cada dia da próxima semana, uma quantidade igual à quantidade de refrigerante em lata que prevê vender em tal dia. Já para o número de caldo de cana em copos, estima que as vendas diárias serão iguais às da última semana.Segundo essas estimativas, a quantidade a mais de pastéis que esse comerciante deve vender na próxima semana é  ',
+
+    //Questão 45 - 180
+    {
+    enunciado: 'Um comerciante, que vende somente pastel,refrigerante em lata e caldo de cana em copos, fez um levantamento das vendas realizadas durante a semana. O resultado desse levantamento está apresentado no gráfico. Descrição do gráfico: O gráfico, em forma heptagonal, mostra a venda da última semana.Domingo: Caldo de cana: 4; refrigerante: 7; pastel: 10.Segunda-feira: Caldo de cana: 3; refrigerante: 4; pastel: 2.Terça-feira: Caldo de cana: 1; refrigerante: 4; pastel: 4. Quarta-feira: Caldo de cana: 2; refrigerante: 5; pastel: 4. Quinta-feira: Caldo de cana: 4; refrigerante: 8; pastel: 7.Sexta-feira: Caldo de cana: 7; refrigerante: 8; pastel: 8. Sábado: Caldo de cana: 7; refrigerante: 8; pastel: 10. Ele estima que venderá, em cada dia da próxima semana, uma quantidade de refrigerante em lata igual à soma das quantidades de refrigerante em lata e caldo de cana em copos vendidas no respectivo dia da última semana. Quanto aos pastéis, estima vender, a cada dia da próxima semana, uma quantidade igual à quantidade de refrigerante em lata que prevê vender em tal dia. Já para o número de caldo de cana em copos, estima que as vendas diárias serão iguais às da última semana.Segundo essas estimativas, a quantidade a mais de pastéis que esse comerciante deve vender na próxima semana é  ',
                    
    alternativas: [   
     '1. 20.',
     '2. 27.',
     '3. 44.',
     '4. 55.',
-    '5. 71.'                      
+    '5. 71.' 
+
    ],
-   correta: 4        
+   correta: 2       
    },
 
 ]
