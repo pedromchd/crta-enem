@@ -1,0 +1,436 @@
+// ENEM 2017 - 2º Dia - Caderno 11 - Laranja (Braile e ledor) - Aplicação regular
+
+// MATEMÁTICA E SUAS TECNOLOGIAS
+// Questões de 136 a 180
+
+export const enem2017 = {
+  questao(numero) {
+    return this[`${numero}`];
+  },
+  corrige(questao, alternativa) {
+    return this.questao(questao)._gabarito === alternativa;
+  },
+  136: {
+    numero: `136`,
+    enunciados: [
+      `Os congestionamentos de trânsito constituem um problema que aflige, todos os dias, milhares de motoristas brasileiros. O gráfico ilustra a situação, representando, ao longo de um intervalo definido de tempo, a variação da velocidade de um veículo durante um congestionamento.`,
+      `Descrição do gráfico: Gráfico de linha com o eixo horizontal definido pelo tempo (minuto), de zero a dez, e o eixo vertical definido pela velocidade. A variação da velocidade é descrita nos seguintes intervalos: De zero a um, a velocidade permanece constante acima de zero; de um a dois, a velocidade aumenta, atingindo o seu ponto mais alto; de dois a três, a velocidade diminui, mantendo-se acima da velocidade inicial; de três a quatro, a velocidade permanece constante, acima da velocidade inicial; de quatro a cinco, a velocidade aumenta, abaixo do ponto mais alto; de cinco a seis, a velocidade diminui até zero; de seis a oito, a velocidade permanece constante em zero; e de oito a dez, a velocidade volta a aumentar, abaixo do ponto mais alto.`,
+      `Quantos minutos o veículo permaneceu imóvel ao longo do intervalo de tempo total analisado?`,
+    ],
+    alternativas: {
+      A: `4`,
+      B: `3`,
+      C: `2`,
+      D: `1`,
+      E: `0`,
+    },
+    _gabarito: `C`,
+  },
+  137: {
+    numero: `137`,
+    enunciados: [
+      `Um garçom precisa escolher uma bandeja de base retangular para servir quatro taças de espumante que precisam ser dispostas em uma única fileira, paralela ao lado maior da bandeja, e com suas bases totalmente apoiadas na bandeja. A base e a borda superior das taças são círculos de raio 4 centímetros e 5 centímetros, respectivamente.`,
+      `A bandeja a ser escolhida deverá ter uma área mínima, em centímetro quadrado, igual a`,
+    ],
+    alternativas: {
+      A: `192.`,
+      B: `300.`,
+      C: `304.`,
+      D: `320.`,
+      E: `400.`,
+    },
+    _gabarito: `C`,
+  },
+  138: {
+    numero: `138`,
+    enunciados: [
+      `Em uma cantina, o sucesso de venda no verão são sucos preparados à base de polpa de frutas. Um dos sucos mais vendidos é o de morango com acerola, que é preparado com dois terços de polpa de morango e um terço de polpa de acerola.`,
+      `Para o comerciante, as polpas são vendidas em embalagens de igual volume. Atualmente, a embalagem da polpa de morango custa R$ 18,00 e a de acerola, R$ 14,70. Porém, está prevista uma alta no preço da embalagem da polpa de acerola no próximo mês, passando a custar R$ 15,30.`,
+      `Para não aumentar o preço do suco, o comerciante negociou com o fornecedor uma redução no preço da embalagem da polpa de morango.`,
+      `A redução, em real, no preço da embalagem da polpa de morango deverá ser de`,
+    ],
+    alternativas: {
+      A: `1,20.`,
+      B: `0,90.`,
+      C: `0,60.`,
+      D: `0,40.`,
+      E: `0,30.`,
+    },
+    _gabarito: `E`,
+  },
+  139: {
+    numero: `139`,
+    enunciados: [
+      `Um casal realiza sua mudança de domicílio e necessita colocar numa caixa de papelão um objeto cúbico, de 80 centímetros de aresta, que não pode ser desmontado. Eles têm à disposição cinco caixas, com diferentes dimensões, conforme descrito:`,
+      `Caixa 1: 86 centímetros por 86 centímetros por 86 centímetros. Caixa 2: 75 centímetros por 82 centímetros por 90 centímetros. Caixa 3: 85 centímetros por 82 centímetros por 90 centímetros. Caixa 4: 82 centímetros por 95 centímetros por 82 centímetros. Caixa 5: 80 centímetros por 95 centímetros por 85 centímetros.`,
+      `O casal precisa escolher uma caixa na qual o objeto caiba, de modo que sobre o menor espaço livre em seu interior.`,
+      `A caixa escolhida pelo casal deve ser a de número`,
+    ],
+    alternativas: {
+      A: `1.`,
+      B: `2.`,
+      C: `3.`,
+      D: `4.`,
+      E: `5.`,
+    },
+    _gabarito: `C`,
+  },
+  140: {
+    numero: `140`,
+    enunciados: [
+      `Uma empresa construirá sua página na internet e espera atrair um público de aproximadamente um milhão de clientes. Para acessar essa página, será necessária uma senha com formato a ser definido pela empresa. Existem cinco opções de formato oferecidas pelo programador, descritas no quadro, em que “L” e “D” representam, respectivamente, letra maiúscula e dígito.`,
+      `Descrição do quadro: O quadro apresenta cinco opções e um formato para cada uma delas. Opção I: Formato: LDDDDD; Opção II: Formato: DDDDDD; Opção III: Formato: LLDDDD; Opção IV: Formato: DDDDD; Opção V: Formato: LLLDD.`,
+      `As letras do alfabeto, entre as 26 possíveis, bem como os dígitos, entre os 10 possíveis, podem se repetir em qualquer das opções.`,
+      `A empresa quer escolher uma opção de formato cujo número de senhas distintas possíveis seja superior ao número esperado de clientes, mas que esse número não seja superior ao dobro do número esperado de clientes.`,
+      `A opção que mais se adequa às condições da empresa é`,
+    ],
+    alternativas: {
+      A: `I.`,
+      B: `II.`,
+      C: `III.`,
+      D: `IV.`,
+      E: `V.`,
+    },
+    _gabarito: `E`,
+  },
+  141: {
+    numero: `141`,
+    enunciados: [
+      `Como não são adeptos da prática de esportes, um grupo de amigos resolveu fazer um torneio de futebol utilizando videogame. Decidiram que cada jogador joga uma única vez com cada um dos outros jogadores. O campeão será aquele que conseguir o maior número de pontos. Observaram que o número de partidas jogadas depende do número de jogadores, como mostra o quadro:`,
+      `Descrição do quadro: Quadro que apresenta a relação da quantidade de jogadores com o número de partidas, sendo: Quantidade de jogadores: 02; número de partidas: 01. Quantidade de jogadores: 03; número de partidas: 03. Quantidade de jogadores: 04; número de partidas: 06. Quantidade de jogadores: 05; número de partidas: 10. Quantidade de jogadores: 06; número de partidas: 15. Quantidade de jogadores: 07; número de partidas: 21.`,
+      `Se a quantidade de jogadores for 8, quantas partidas serão realizadas?`,
+    ],
+    alternativas: {
+      A: `64`,
+      B: `56`,
+      C: `49`,
+      D: `36`,
+      E: `28`,
+    },
+    _gabarito: `E`,
+  },
+  142: {
+    numero: `142`,
+    enunciados: [
+      `Um morador de uma região metropolitana tem 50 por cento de probabilidade de atrasar-se para o trabalho quando chove na região; caso não chova, sua probabilidade de atraso é de 25 por cento. Para um determinado dia, o serviço de meteorologia estima em 30 por cento a probabilidade da ocorrência de chuva nessa região.`,
+      `Qual é a probabilidade de esse morador se atrasar para o serviço no dia para o qual foi dada a estimativa de chuva?`,
+    ],
+    alternativas: {
+      A: `0,075`,
+      B: `0,150`,
+      C: `0,325`,
+      D: `0,600`,
+      E: `0,800`,
+    },
+    _gabarito: `C`,
+  },
+  143: {
+    numero: `143`,
+    enunciados: [
+      `Às 17 horas 15 minutos começa uma forte chuva, que cai com intensidade constante. Uma piscina em forma de um paralelepípedo retângulo, que se encontrava inicialmente vazia, começa a acumular a água da chuva e, às 18 horas, o nível da água em seu interior alcança 20 centímetros de altura. Nesse instante, é aberto o registro que libera o escoamento da água por um ralo localizado no fundo dessa piscina, cuja vazão é constante. Às 18 horas 40 minutos a chuva cessa e, nesse exato instante, o nível da água na piscina baixou para 15 centímetros.`,
+      `O instante em que a água dessa piscina terminar de escoar completamente está compreendido entre`,
+    ],
+    alternativas: {
+      A: `19 horas 30 minutos e 20 horas 10 minutos.`,
+      B: `19 horas 20 minutos e 19 horas 30 minutos.`,
+      C: `19 horas 10 minutos e 19 horas 20 minutos.`,
+      D: `19 horas e 19 horas 10 minutos.`,
+      E: `18 horas 40 minutos e 19 horas.`,
+    },
+    _gabarito: `D`,
+  },
+  144: {
+    numero: `144`,
+    enunciados: [
+      `Um empréstimo foi feito à taxa mensal de i por cento, usando juros compostos, em oito parcelas fixas e iguais a P`,
+      `O devedor tem a possibilidade de quitar a dívida antecipadamente a qualquer momento, pagando para isso o valor atual das parcelas ainda a pagar. Após pagar a quinta parcela, resolve quitar a dívida no ato de pagar a sexta parcela.`,
+      `A expressão que corresponde ao valor total pago pela quitação do empréstimo é`,
+    ],
+    alternativas: {
+      A: `P vezes, abre colchete, 1; mais fração com numerador 1, sobre denominador, abre parêntese, 1 mais fração com numerador i sobre denominador 100, fecha parêntese; mais fração de numerador 1 sobre denominador, abre parêntese, 1 mais fração de numerador i sobre denominador 100, fecha parêntese, elevado ao quadrado; fecha colchete.`,
+      B: `P vezes, abre colchete, 1; mais fração com numerador 1, sobre denominador, abre parêntese, 1 mais fração com numerador i sobre denominador 100, fecha parêntese; mais fração de numerador 1 sobre denominador, abre parêntese, 1 mais fração de numerador 2i sobre denominador 100, fecha parêntese; fecha colchete.`,
+      C: `P vezes, abre colchete, 1; mais fração com numerador 1, sobre denominador, abre parêntese, 1 mais fração com numerador i sobre denominador 100, fecha parêntese, elevado ao quadrado; mais fração de numerador 1 sobre denominador, abre parêntese, 1 mais fração de numerador i sobre denominador 100, fecha parêntese, elevado ao quadrado; fecha colchete.`,
+      D: `P vezes, abre colchete, fração com numerador 1, sobre denominador, abre parêntese, 1 mais fração com numerador i sobre denominador 100, fecha parêntese; mais fração de numerador 1 sobre denominador, abre parêntese 1 mais fração de numerador 2i sobre denominador 100, fecha parêntese; mais fração com numerador 1, sobre denominador, abre parêntese, 1 mais fração com numerador 3i sobre denominador 100, fecha parêntese; fecha colchete.`,
+      E: `P vezes, abre colchete, fração com numerador 1, sobre denominador, abre parêntese, 1 mais fração com numerador i sobre denominador 100, fecha parêntese; mais fração de numerador 1 sobre denominador, abre parêntese, 1 mais fração de numerador i sobre denominador 100, fecha parêntese, elevado ao quadrado; mais fração com numerador 1, sobre denominador, abre parêntese, 1 mais fração com numerador i sobre denominador 100, fecha parêntese, elevado ao cubo; fecha colchete.`,
+    },
+    _gabarito: `A`,
+  },
+  145: {
+    numero: `145`,
+    enunciados: [
+      `Para realizar a viagem dos sonhos, uma pessoa precisava fazer um empréstimo no valor de R$ 5 000,00. Para pagar as prestações, dispõe de, no máximo, R$ 400,00 mensais. Para esse valor de empréstimo, o valor da prestação (P) é calculado em função do número de prestações (n) segundo a fórmula`,
+      `P é igual a fração: no numerador 5 000 vezes abre parêntese 1,013 elevado a n fecha parêntese vezes 0,013, no denominador abre parêntese 1,013 elevado a n fecha parêntese menos 1.`,
+      `Se necessário, utilize 0,005 como aproximação para log 1,013; 2,602 como aproximação para log 400; 2,525 como aproximação para log 335`,
+      `De acordo com a fórmula dada, o menor número de parcelas cujos valores não comprometem o limite definido pela pessoa é`,
+    ],
+    alternativas: {
+      A: `12.`,
+      B: `14.`,
+      C: `15.`,
+      D: `16.`,
+      E: `17.`,
+    },
+    _gabarito: `D`,
+  },
+  146: {
+    numero: `146`,
+    enunciados: [
+      `Raios de luz solar estão atingindo a superfície de um lago formando um ângulo x com a sua superfície, conforme indica a figura.`,
+      `Em determinadas condições, pode-se supor que a intensidade luminosa desses raios, na superfície do lago, seja dada aproximadamente por I de x igual a k vezes seno de x sendo k uma constante, e supondo-se que x está entre zero grau e 90 graus.`,
+      `Descrição da figura: Desenho que ilustra um sol, com uma linha inclinada, que representa um raio de luz solar. Essa linha atinge a superfície de um lago e forma com ele um ângulo x.`,
+      `Quando x é igual a 30 graus, a intensidade luminosa se reduz a qual percentual de seu valor máximo?`,
+    ],
+    alternativas: {
+      A: `33 por cento`,
+      B: `50 por cento`,
+      C: `57 por cento`,
+      D: `70 por cento`,
+      E: `86 por cento`,
+    },
+    _gabarito: `B`,
+  },
+  147: {
+    numero: `147`,
+    enunciados: [
+      `A imagem apresentada na figura é uma cópia em preto e branco da tela quadrada intitulada O peixe, de Marcos Pinto, que foi colocada em uma parede para exposição e fixada nos pontos A e B.`,
+      `Por um problema na fixação de um dos pontos, a tela se desprendeu, girando rente à parede. Após o giro, ela ficou posicionada como ilustrado na figura, formando um ângulo de 45 graus com a linha do horizonte`,
+      `Figura 1: Tela com forma de um quadrado, fixada pelos pontos A e B, sendo A o vértice superior esquerdo do quadrado, e B, o vértice inferior direito do quadrado; e o segmento de reta AB, a diagonal desse quadrado.`,
+      `Figura 2: A mesma tela fixada apenas pelo ponto B, do qual parte uma linha horizontal, formando, com um dos lados do quadrado, um ângulo de 45 graus.`,
+      `Para recolocar a tela na sua posição original, deve-se girá-la, rente à parede, no menor ângulo possível inferior a 360 graus.`,
+      `A forma de recolocar a tela na posição original, obedecendo ao que foi estabelecido, é girando-a em um ângulo de`,
+    ],
+    alternativas: {
+      A: `90 graus no sentido horário.`,
+      B: `135 graus no sentido horário.`,
+      C: `180 graus no sentido anti-horário.`,
+      D: `270 graus no sentido anti-horário.`,
+      E: `315 graus no sentido horário.`,
+    },
+    _gabarito: `B`,
+  },
+  148: {
+    numero: `148`,
+    enunciados: [
+      `A avaliação de rendimento de alunos de um curso universitário baseia-se na média ponderada das notas obtidas nas disciplinas pelos respectivos números de créditos, como mostra o quadro:`,
+      `Descrição do quadro: Quadro que apresenta a classificação da avaliação conforme a média das notas, como segue: Avaliação: Excelente. Média de notas (M): maior que 9 e menor ou igual a 10. Avaliação: Bom. Média de notas (M): maior ou igual a 7 e menor ou igual a 9. Avaliação: Regular. Média de notas (M): maior ou igual a 5 e menor que 7. Avaliação: Ruim. Média de notas (M): maior ou igual a 3 e menor que 5. Avaliação: Péssimo. Média de notas (M): menor que 3.`,
+      `Quanto melhor a avaliação de um aluno em determinado período letivo, maior sua prioridade na escolha de disciplinas para o período seguinte.`,
+      `Determinado aluno sabe que se obtiver avaliação “Bom” ou “Excelente” conseguirá matrícula nas disciplinas que deseja. Ele já realizou as provas de 4 das 5 disciplinas em que está matriculado, mas ainda não realizou a prova da disciplina I, conforme o quadro.`,
+      `Descrição do quadro: Quadro que apresenta as disciplinas, as notas e os números de créditos: Disciplina I: Nota: Sem a nota. Número de créditos: 12. Disciplina II: Nota: 8,00. Número de créditos: 4. Disciplina III: Nota: 6,00. Número de créditos: 8. Disciplina IV: Nota: 5,00. Número de créditos: 8. Disciplina V: Nota: 7,50. Número de créditos: 10.`,
+      `Para que atinja seu objetivo, a nota mínima que ele deve conseguir na disciplina I é`,
+    ],
+    alternativas: {
+      A: `7,00.`,
+      B: `7,38.`,
+      C: `7,50.`,
+      D: `8,25.`,
+      E: `9,00.`,
+    },
+    _gabarito: `D`,
+  },
+  149: {
+    numero: `149`,
+    enunciados: [
+      `Um brinquedo infantil caminhão-cegonha é formado por uma carreta e dez carrinhos nela transportados, conforme a figura.`,
+      `Descrição da figura: A figura apresenta um caminhão-cegonha carregado com dez carrinhos, dispostos da seguinte maneira: quatro carrinhos na parte superior, três carrinhos na parte intermediária e três carrinhos na parte inferior.`,
+      `No setor de produção da empresa que fabrica esse brinquedo, é feita a pintura de todos os carrinhos para que o aspecto do brinquedo fique mais atraente. São utilizadas as cores amarelo, branco, laranja e verde, e cada carrinho é pintado apenas com uma cor. O caminhão-cegonha tem uma cor fixa. A empresa determinou que em todo caminhão-cegonha deve haver pelo menos um carrinho de cada uma das quatro cores disponíveis. Mudança de posição dos carrinhos no caminhão-cegonha não gera um novo modelo do brinquedo.`,
+      `Com base nessas informações, quantos são os modelos distintos do brinquedo caminhão-cegonha que essa empresa poderá produzir?`,
+    ],
+    alternativas: {
+      A: `Combinação de 6 elementos 4 a 4`,
+      B: `Combinação de 9 elementos 3 a 3`,
+      C: `Combinação de 10 elementos 4 a 4`,
+      D: `6 elevado a 4`,
+      E: `4 elevado a 6`,
+    },
+    _gabarito: `B`,
+  },
+  150: {
+    numero: `150`,
+    enunciados: [
+      `Uma empresa especializada em conservação de piscinas utiliza um produto para tratamento da água cujas especificações técnicas sugerem que seja adicionado 1,5 mililitros desse produto para cada 1 000 litros de água da piscina. Essa empresa foi contratada para cuidar de uma piscina de base retangular, de profundidade constante igual a 1,7 metro, com largura e comprimento iguais a 3 metros e 5 metros, respectivamente. O nível da lâmina d'água dessa piscina é mantido a 50 centímetros da borda da piscina.`,
+      `A quantidade desse produto, em mililitro, que deve ser adicionada a essa piscina de modo a atender às suas especificações técnicas é`,
+    ],
+    alternativas: {
+      A: `11,25.`,
+      B: `27,00.`,
+      C: `28,80.`,
+      D: `32,25.`,
+      E: `49,50.`,
+    },
+    _gabarito: `B`,
+  },
+  151: {
+    numero: `151`,
+    enunciados: [
+      `Um instituto de pesquisas eleitorais recebe uma encomenda na qual a margem de erro deverá ser de, no máximo, 2 pontos percentuais (0,02).`,
+      `O instituto tem 5 pesquisas recentes, P1 a P5, sobre o tema objeto da encomenda e irá usar a que tiver o erro menor que o pedido.`,
+      `Os dados sobre as pesquisas são os seguintes:`,
+      `Descrição do quadro: O quadro apresenta quatro colunas, sendo na primeira coluna as pesquisas, na segunda os valores de sigma, na terceira os valores de N e na quarta os valores da raiz quadrada de N: P1: sigma: 0,5; N: 1 764; raiz quadrada de N: 42. P2: sigma: 0,4; N: 784; raiz quadrada de N: 28. P3: sigma: 0,3; N: 576; raiz quadrada de N: 24. P4: sigma: 0,2; N: 441; raiz quadrada de N: 21. P5: sigma: 0,1; N: 64; raiz quadrada de N: 8.`,
+      `O erro e pode ser expresso por`,
+      `O módulo de e é menor que 1,96 vezes a fração com numerador sigma sobre denominador raiz quadrada de N.`,
+      `em que sigma é um parâmetro e N é o número de pessoas entrevistadas pela pesquisa.`,
+      `Qual pesquisa deverá ser utilizada?`,
+    ],
+    alternativas: {
+      A: `P1`,
+      B: `P2`,
+      C: `P3`,
+      D: `P4`,
+      E: `P5`,
+    },
+    _gabarito: `D`,
+  },
+  152: {
+    numero: `152`,
+    enunciados: [
+      `Em um teleférico turístico, bondinhos saem de estações ao nível do mar e do topo de uma montanha. A travessia dura 1,5 minuto e ambos os bondinhos se deslocam à mesma velocidade. Quarenta segundos após o bondinho A partir da estação ao nível do mar, ele cruza com o bondinho B, que havia saído do topo da montanha.`,
+      `Quantos segundos após a partida do bondinho B partiu o bondinho A?`,
+    ],
+    alternativas: {
+      A: `5`,
+      B: `10`,
+      C: `15`,
+      D: `20`,
+      E: `25`,
+    },
+    _gabarito: `B`,
+  },
+  153: {
+    numero: `153`,
+    enunciados: [
+      `Num dia de tempestade, a alteração na profundidade de um rio, num determinado local, foi registrada durante um período de 4 horas. Os resultados estão indicados no gráfico de linha. Nele, a profundidade h, registrada às 13 horas, não foi anotada e, a partir de h, cada unidade sobre o eixo vertical representa um metro.`,
+      `Descrição do gráfico: Gráfico de linha do registro de profundidade. No eixo horizontal estão as horas, de 13 horas a 17 horas, e no eixo vertical está a profundidade, em metro, a partir das 13 horas, da seguinte maneira: Às 13 horas, a profundidade está indicada por um ponto em uma linha horizontal. Às 14 horas, a profundidade está indicada por um ponto duas linhas acima da linha das 13 horas. Às 15 horas, a profundidade está indicada por um ponto seis linhas acima da linha das 13 horas. Às 16 horas, a profundidade está indicada por um ponto quatro linhas acima da linha das 13 horas. Às 17 horas, a profundidade está indicada por um ponto uma linha acima da linha das 13 horas.`,
+      `Foi informado que entre 15 horas e 16 horas, a profundidade do rio diminuiu em 10 por cento.`,
+      `Às 16 horas, qual é a profundidade do rio, em metro, no local onde foram feitos os registros?`,
+    ],
+    alternativas: {
+      A: `18`,
+      B: `20`,
+      C: `24`,
+      D: `36`,
+      E: `40`,
+    },
+    _gabarito: `A`,
+  },
+  154: {
+    numero: `154`,
+    enunciados: [
+      `Uma rede hoteleira dispõe de cabanas simples na ilha de Gotland, na Suécia. A estrutura de sustentação de cada uma dessas cabanas está representada na figura. A ideia é permitir ao hóspede uma estada livre de tecnologia, mas conectada com a natureza.`,
+      `Descrição da figura: Poliedro com duas faces paralelas triangulares iguais, unidas por três retângulos iguais, um em cada lado dos triângulos.`,
+      `A forma geométrica da superfície cujas arestas estão representadas na figura é`,
+    ],
+    alternativas: {
+      A: `tetraedro.`,
+      B: `pirâmide retangular.`,
+      C: `tronco de pirâmide retangular.`,
+      D: `prisma quadrangular reto.`,
+      E: `prisma triangular reto.`,
+    },
+    _gabarito: `E`,
+  },
+  155: {
+    numero: `155`,
+    enunciados: [
+      `A figura ilustra uma partida de Campo Minado, o jogo presente em praticamente todo computador pessoal. Quatro quadrados em um tabuleiro 16 por 16 foram abertos, e os números em suas faces indicam quantos dos seus 8 vizinhos contêm minas (a serem evitadas). O número 40 no canto inferior direito é o número total de minas no tabuleiro, cujas posições foram escolhidas ao acaso, de forma uniforme, antes de se abrir qualquer quadrado.`,
+      `Descrição da imagem: Tabuleiro com forma retangular. O centro desse tabuleiro é formado por quadrados iguais, dispostos em 16 colunas por 16 linhas. Na parte inferior do tabuleiro, no lado esquerdo, está um relógio; ao lado desse relógio, o número 109; no lado direito, está o número 40, com o desenho de uma mina ao seu lado. Nesse tabuleiro estão algumas letras e números, contadas de cima para baixo, de acordo com o que segue: Letra P, localizada na segunda coluna da quinta linha, com o número 2 no primeiro quadrado acima de P. Letra Q, localizada na sexta coluna da quinta linha, com o número 1 no primeiro quadrado acima de Q. Letra R, localizada na quarta coluna da nona linha. Letra S, localizada na quarta coluna da décima sexta linha, com o número 4 no primeiro quadrado acima de S. Letra T, localizada na décima terceira coluna da décima quarta linha, com o número 3 no primeiro quadrado acima de T.`,
+      `Em sua próxima jogada, o jogador deve escolher dentre os quadrados marcados com as letras P, Q, R, S e T um para abrir, sendo que deve escolher aquele com a menor probabilidade de conter uma mina.`,
+      `O jogador deverá abrir o quadrado marcado com a letra`,
+    ],
+    alternativas: {
+      A: `P.`,
+      B: `Q.`,
+      C: `R.`,
+      D: `S.`,
+      E: `T.`,
+    },
+    _gabarito: `B`,
+  },
+  156: {
+    numero: `156`,
+    enunciados: [
+      `A água para o abastecimento de um prédio é armazenada em um sistema formado por dois reservatórios idênticos, em formato de bloco retangular, ligados entre si por um cano igual ao cano de entrada, conforme ilustra a figura.`,
+      `Descrição da figura: Figura composta por dois reservatórios iguais (1 e 2), com formato de blocos retangulares. O reservatório 1 está à esquerda e o reservatório 2, à direita, com um espaço entre eles. O cano de entrada encontra-se na parte superior da face esquerda do reservatório 1. Os dois reservatórios estão ligados por um cano, igual ao cano da entrada, centralizado na face direita do reservatório 1 e na face esquerda do reservatório 2. O cano de ligação entre os reservatórios está abaixo do cano de entrada, localizado no centro dos reservatórios.`,
+      `A água entra no sistema pelo cano de entrada no Reservatório 1 a uma vazão constante e, ao atingir o nível do cano de ligação, passa a abastecer o Reservatório 2. Suponha que, inicialmente, os dois reservatórios estejam vazios.`,
+      `Qual dos gráficos melhor descreverá a altura h do nível da água no Reservatório 1, em função do volume V de água no sistema?`,
+    ],
+    alternativas: {
+      A: `Descrição do gráfico: Gráfico cartesiano. O eixo horizontal representa o volume v e o eixo vertical representa a altura h. O gráfico representa um segmento de reta crescente, partindo da origem dos eixos.`,
+      B: `Descrição do gráfico: Gráfico cartesiano. O eixo horizontal representa o volume v e o eixo vertical representa a altura h. O gráfico representa duas curvas convexas para a esquerda e para cima, a primeira partindo da origem dos eixos e a segunda continuando a primeira.`,
+      C: `Descrição do gráfico: Gráfico cartesiano. O eixo horizontal representa o volume v e o eixo vertical representa a altura h. O gráfico representa três segmentos de retas. O primeiro é crescente, partindo da origem dos eixos; seguido por um segundo, paralelo ao eixo horizontal; seguido por um terceiro, muito acentuado, para cima e para a direita.`,
+      D: `Descrição do gráfico: Gráfico cartesiano. O eixo horizontal representa o volume v e o eixo vertical representa a altura h. O gráfico representa três segmentos de retas. O primeiro é crescente, partindo da origem dos eixos; seguido por um segundo, paralelo ao eixo horizontal; seguido por um terceiro, pouco acentuado, para cima e para a direita.`,
+      E: `Descrição do gráfico: Gráfico cartesiano. O eixo horizontal representa o volume v e o eixo vertical representa a altura h. O gráfico representa uma curva crescente com concavidade para baixo, partindo da origem dos eixos.`,
+    },
+    _gabarito: `D`,
+  },
+  157: {
+    numero: `157`,
+    enunciados: [
+      `A manchete demonstra que o transporte de grandes cargas representa cada vez mais preocupação quando feito em vias urbanas.`,
+      `Caminhão entala em viaduto no Centro`,
+      `Um caminhão de grande porte entalou embaixo do viaduto no cruzamento das avenidas Borges de Medeiros e Loureiro da Silva no sentido Centro-Bairro, próximo à Ponte de Pedra, na capital. Esse veículo vinha de São Paulo para Porto Alegre e transportava três grandes tubos, conforme ilustrado na foto.`,
+      `Descrição da foto: A foto apresenta um caminhão com três tubos colocados sobre sua carroceria, dois acomodados em uma camada inferior e um acomodado sobre esses dois.`,
+      `Considere que o raio externo de cada cano da imagem seja 0,60 metro e que eles estejam em cima de uma carroceria cuja parte superior está a 1,30 metro do solo. O desenho representa a vista traseira do empilhamento dos canos.`,
+      `Descrição do desenho: O desenho apresenta um segmento de reta horizontal, representando a parte superior da carroceria do caminhão, onde estão acomodados os tubos, e três circunferências, que representam os tubos, dispostas duas delas sobre o segmento de reta e a terceira acomodada sobre as outras duas, de forma centralizada. Na circunferência que representa o terceiro tubo está indicada a dimensão do raio, igual a 0,60 metro.`,
+      `A margem de segurança recomendada para que um veículo passe sob um viaduto é que a altura total do veículo com a carga seja, no mínimo, 0,50 metro menor do que a altura do vão do viaduto.`,
+      `Considere 1,7 como aproximação para raiz quadrada de 3.`,
+      `Qual deveria ser a altura mínima do viaduto, em metro, para que esse caminhão pudesse passar com segurança sob seu vão?`,
+    ],
+    alternativas: {
+      A: `2,82`,
+      B: `3,52`,
+      C: `3,70`,
+      D: `4,02`,
+      E: `4,20`,
+    },
+    _gabarito: `D`,
+  },
+  158: {
+    numero: `158`,
+    enunciados: [
+      `Numa loja há 50 piscinas à venda, algumas de base quadrada e outras de base redonda. Há duas opções de profundidade: rasas e fundas. Sabe-se que 15 delas possuem base quadrada e profundidade rasa, 18 têm base redonda e 28 são fundas.`,
+      `O número de piscinas que são, ao mesmo tempo, fundas e de base redonda é`,
+    ],
+    alternativas: {
+      A: `11.`,
+      B: `13.`,
+      C: `18.`,
+      D: `35.`,
+      E: `46.`,
+    },
+    _gabarito: `A`,
+  },
+  159: {
+    numero: `159`,
+    enunciados: [
+      `Três alunos, X, Y e Z, estão matriculados em um curso de inglês. Para avaliar esses alunos, o professor optou por fazer cinco provas. Para que seja aprovado nesse curso, o aluno deverá ter a média aritmética das notas das cinco provas maior ou igual a 6. Na tabela, estão dispostas as notas que cada aluno tirou em cada prova.`,
+      `Descrição da tabela: Tabela que apresenta os alunos e suas notas nas cinco provas, na seguinte ordem: 1ª prova, 2ª prova, 3ª prova, 4ª prova, 5ª prova. Aluno X: 5, 5, 5, 10 e 6. Aluno Y: 4, 9, 3, 9 e 5. Aluno Z: 5, 5, 8, 5 e 6.`,
+      `Com base nos dados da tabela e nas informações dadas, ficará(ão) reprovado(s)`,
+    ],
+    alternativas: {
+      A: `apenas o aluno Y.`,
+      B: `apenas o aluno Z.`,
+      C: `apenas os alunos X e Y.`,
+      D: `apenas os alunos X e Z.`,
+      E: `os alunos X, Y e Z.`,
+    },
+    _gabarito: `B`,
+  },
+  160: {
+    numero: `160`,
+    enunciados: [
+      `O fisiologista inglês Archibald Vivian Hill propôs, em seus estudos, que a velocidade v de contração de um músculo ao ser submetido a um peso p é dada pela equação entre parênteses, p mais a, vezes, entre parênteses, v mais b, igual a K, com a, b e K constantes.`,
+      `Um fisioterapeuta, com o intuito de maximizar o efeito benéfico dos exercícios que recomendaria a um de seus pacientes, quis estudar essa equação e a classificou desta forma:`,
+      `Descrição do quadro: Quadro que apresenta nomes de cinco tipos de curvas: semirreta oblíqua; semirreta horizontal; ramo de parábola; arco de circunferência; ramo de hipérbole.`,
+      `O fisioterapeuta analisou a dependência entre v e p na equação de Hill e a classificou de acordo com sua representação geométrica no plano cartesiano, utilizando o par de coordenadas (p ; v). Admita que K é maior que 0.`,
+      `O gráfico da equação que o fisioterapeuta utilizou para maximizar o efeito dos exercícios é do tipo`,
+    ],
+    alternativas: {
+      A: `semirreta oblíqua.`,
+      B: `semirreta horizontal.`,
+      C: `ramo de parábola.`,
+      D: `arco de circunferência.`,
+      E: `ramo de hipérbole.`,
+    },
+    _gabarito: `E`,
+  },
+};
