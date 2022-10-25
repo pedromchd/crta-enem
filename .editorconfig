@@ -6,4 +6,4 @@ charset = utf-8
 indent_style = space
 indent_size = 2
 max_line_length = 8192
-# quote_type = single
+quote_type = double
