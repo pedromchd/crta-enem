@@ -4,12 +4,6 @@
 // Questões de 136 a 180
 
 export const enem2017 = {
-  questao(numero) {
-    return this[`${numero}`];
-  },
-  corrige(questao, alternativa) {
-    return this.questao(questao)._gabarito === alternativa;
-  },
   136: {
     numero: `136`,
     enunciados: [
